@@ -1,0 +1,6 @@
+.env
+__pycache__/
+DATA/
+*.pyc
+.git/
+processed_data/evaluation/

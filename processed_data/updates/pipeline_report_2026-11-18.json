@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-18",
+  "dry_run": false,
+  "ok": true,
+  "stages": {
+    "update": {
+      "downloaded": 0,
+      "would_download": 0,
+      "skipped": 92,
+      "errors": 0,
+      "local_new": []
+    },
+    "ingest": {
+      "ingested": 0,
+      "skipped": 9,
+      "new_stems": []
+    },
+    "extract": {
+      "done": 0,
+      "failed": 0,
+      "skipped": 1184,
+      "orphans": 0
+    },
+    "graph": {
+      "skipped": "nothing changed"
+    },
+    "index": {
+      "skipped": "nothing changed"
+    }
+  },
+  "changed": false,
+  "restart": null
+}

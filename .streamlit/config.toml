@@ -1,0 +1,7 @@
+# Streamlit Cloud theme: the same navy + saffron as the app's CSS.
+[theme]
+primaryColor = "#E8720C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0F2A43"
+font = "sans serif"

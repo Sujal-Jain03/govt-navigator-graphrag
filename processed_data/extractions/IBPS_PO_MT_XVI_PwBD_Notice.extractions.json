@@ -1,0 +1,101 @@
+{
+  "source_file": "IBPS_PO_MT_XVI_PwBD_Notice.pdf",
+  "file_hash": "4a7219a6fc01ab7665c967156ded344eb1c029600ebdad2580d8b412dec21ed1",
+  "results": {
+    "0": {
+      "chunk_index": 0,
+      "entities": [
+        {
+          "name": "CRP PO/MT –XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officers/ Management Trainees",
+          "type": "POST"
+        },
+        {
+          "name": "Ministry of Social Justice and Empowerment, Department of Empowerment of persons with Disabilities (Divyanjan), Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "01.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "04.01.2021",
+          "type": "DATE"
+        },
+        {
+          "name": "08.11.2024",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP PO/MT –XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "Ministry of Social Justice and Empowerment, Department of Empowerment of persons with Disabilities (Divyanjan), Government of India"
+        },
+        {
+          "head": "CRP PO/MT –XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officers/ Management Trainees"
+        },
+        {
+          "head": "CRP PO/MT –XVI",
+          "relation": "EXAM_DATE",
+          "tail": "01.07.2026"
+        }
+      ],
+      "error": null
+    },
+    "1": {
+      "chunk_index": 1,
+      "entities": [
+        {
+          "name": "CRP PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Management Trainee",
+          "type": "POST"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "07-08-2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP PO/MT-XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        },
+        {
+          "head": "CRP PO/MT-XVI",
+          "relation": "OFFERS",
+          "tail": "Management Trainee"
+        },
+        {
+          "head": "CRP PO/MT-XVI",
+          "relation": "LAST_DATE",
+          "tail": "07-08-2026"
+        }
+      ],
+      "error": null
+    }
+  }
+}

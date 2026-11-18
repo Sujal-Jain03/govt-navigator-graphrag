@@ -1,0 +1,74 @@
+{
+  "nodes_total": 1434,
+  "nodes_by_type": {
+    "EXAM": 10,
+    "POST": 164,
+    "ORG": 515,
+    "DATE": 254,
+    "DOCUMENT": 446,
+    "AGE_LIMIT": 17,
+    "QUALIFICATION": 6,
+    "FEE": 22
+  },
+  "edges_total": 2064,
+  "edges_by_relation": {
+    "CONDUCTED_BY": 32,
+    "OFFERS": 44,
+    "LAST_DATE": 14,
+    "EXAM_DATE": 31,
+    "REQUIRES_DOCUMENT": 844,
+    "APPLICATION_FEE": 8,
+    "REQUIRES": 465,
+    "HAS_AGE_LIMIT": 626
+  },
+  "edges_by_inference": {
+    "chunk-level": 333,
+    "document-level": 1731
+  },
+  "raw_relations": 2375,
+  "dropped_off_schema_relations": {
+    "EXAM": 2,
+    "DATE": 3,
+    "POWER_AND_FUNCTIONS": 4,
+    "PRINCIPAL_ORGANS": 1
+  },
+  "orphan_relations_dropped": 132,
+  "relations_reheaded": 38,
+  "relations_rehead_failed_kept": 0,
+  "nodes_pruned_by_type": {
+    "DOCUMENT": 92,
+    "AGE_LIMIT": 83,
+    "QUALIFICATION": 992,
+    "POST": 935
+  },
+  "edges_dropped_touching_pruned_nodes": 793,
+  "edges_dropped_type_mismatch": 353,
+  "edges_dropped_unparseable_date": 61,
+  "conducted_by_edges_dropped_not_own_org": 93,
+  "doc_level_edges_added": 1731,
+  "doc_level_edges_skipped_existing": 102,
+  "isolated_nodes": 722,
+  "dropped_off_schema_entities": {
+    "RELIGION": 5,
+    "SOCIETY": 1,
+    "COMMUNITY": 1,
+    "COUNTRY": 2,
+    "AREA": 1,
+    "POLICY": 1,
+    "PLAN": 1,
+    "PROGRAMME": 1,
+    "DEVELOPMENT": 1,
+    "GROUP": 1,
+    "ORGANISATION": 1,
+    "FIELD": 1,
+    "PHENOMENON": 2,
+    "MOVEMENT": 1,
+    "SUBJECT": 1,
+    "PAPER": 1,
+    "TOPIC": 1,
+    "ORGANISM": 7,
+    "HYPOTHESIS": 1,
+    "DISEASE": 1
+  },
+  "derived_doc_exams": {}
+}

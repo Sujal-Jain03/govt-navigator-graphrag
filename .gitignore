@@ -1,0 +1,24 @@
+# Secrets — never commit keys. The app reads them from the
+# environment (.env locally, Streamlit/GitHub secrets in the cloud).
+.env
+
+# Python bytecode + virtualenvs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# The 4 junk PDFs from the first live update run (18 Nov 2026):
+# a tender notice, a roll list, an answer-key notice and an
+# unrelated advertisement. They are not corpus notifications.
+DATA/notifications/upsc_cse_2026-11-18_AdvtNo-51-2026-Special-Engl-240726.pdf
+DATA/notifications/upsc_cse_2026-11-18_WR-CSM-2026-Engl-RollList-05112026.pdf
+DATA/notifications/ssc_cgl_2026-11-18_writeup_04112026.pdf
+DATA/notifications/sbi_po_2026-11-18_NOTICE_INVITING_TENDER20261027061919722.pdf
+
+# Orphan from the UPSC double-.pdf filename (Phase 1): the same
+# 294 chunks already live in UPSC_CSE_2026_Notification.json.
+processed_data/UPSC_CSE_2026_Notification.pdf.json
+
+# Local-only artefacts
+.DS_Store

@@ -1,0 +1,6256 @@
+{
+  "source_file": "SSC_CHSL_2026_Notification.pdf",
+  "file_hash": "74eb89c24cb232000393f0ad9b9edce7ac2b2ebda100248090581676a162dfb8",
+  "results": {
+    "0": {
+      "chunk_index": 0,
+      "entities": [
+        {
+          "name": "Combined Higher Secondary (10+2) Level Examination, 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "07.09.2026 to 07.10.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "07.10.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "08.10.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "14.10.2026 to 16.10.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination, 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination, 2026",
+          "relation": "LAST_DATE",
+          "tail": "07.10.2026"
+        }
+      ],
+      "error": null
+    },
+    "1": {
+      "chunk_index": 1,
+      "entities": [
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Group C posts",
+          "type": "POST"
+        },
+        {
+          "name": "Lower Divisional Clerk / Junior Secretariat Assistant",
+          "type": "POST"
+        },
+        {
+          "name": "Data Entry Operators",
+          "type": "POST"
+        },
+        {
+          "name": "Lower Division Clerk (LDC)/ Junior Secretariat Assistant (JSA)",
+          "type": "POST"
+        },
+        {
+          "name": "Data Entry Operator (DEO)",
+          "type": "POST"
+        },
+        {
+          "name": "Data Entry Operator, Grade „A‟",
+          "type": "POST"
+        },
+        {
+          "name": "Pay Level-2 (Rs. 19,900-63,200)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Pay Level-4(Rs. 25,500-81,100)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Pay Level-5(Rs. 29,200-92,300)",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Group C posts",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "Group C posts",
+          "relation": "OFFERS",
+          "tail": "Lower Divisional Clerk / Junior Secretariat Assistant"
+        },
+        {
+          "head": "Group C posts",
+          "relation": "OFFERS",
+          "tail": "Data Entry Operators"
+        },
+        {
+          "head": "Lower Division Clerk (LDC)/ Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Pay Level-2 (Rs. 19,900-63,200)"
+        },
+        {
+          "head": "Data Entry Operator (DEO)",
+          "relation": "REQUIRES",
+          "tail": "Pay Level-4(Rs. 25,500-81,100)"
+        },
+        {
+          "head": "Data Entry Operator (DEO)",
+          "relation": "REQUIRES",
+          "tail": "Pay Level-5(Rs. 29,200-92,300)"
+        },
+        {
+          "head": "Data Entry Operator, Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Pay Level-4(Rs. 25,500-81,100)"
+        }
+      ],
+      "error": null
+    },
+    "2": {
+      "chunk_index": 2,
+      "entities": [
+        {
+          "name": "Vacancies",
+          "type": "EXAM"
+        },
+        {
+          "name": "2536 tentative vacancies",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "3": {
+      "chunk_index": 3,
+      "entities": [
+        {
+          "name": "Scheduled Castes (SC)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Scheduled Tribes (ST)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Other Backward Classes (OBC)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Economically Weaker Sections (EWS)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Ex -Servicemen (ESM)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Persons with Benchmark Disabilities (PwBD)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Indenting Ministries/ Departments/ Organizations",
+          "type": "ORG"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "4": {
+      "chunk_index": 4,
+      "entities": [
+        {
+          "name": "Rights of Persons with Disabilities (RPwD) Act, 2016",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice and Empowerment",
+          "type": "ORG"
+        },
+        {
+          "name": "Data Entry Operator/Data Entry Operator Grade „A‟",
+          "type": "POST"
+        },
+        {
+          "name": "S, ST, W, MF, RW, SE, H",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "LV",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "D, HH",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Data Entry Operator/Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Rights of Persons with Disabilities (RPwD) Act, 2016"
+        },
+        {
+          "head": "Data Entry Operator/Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "S, ST, W, MF, RW, SE, H"
+        },
+        {
+          "head": "Data Entry Operator/Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "LV"
+        },
+        {
+          "head": "Data Entry Operator/Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "D, HH"
+        }
+      ],
+      "error": null
+    },
+    "5": {
+      "chunk_index": 5,
+      "entities": [
+        {
+          "name": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "type": "POST"
+        },
+        {
+          "name": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "type": "POST"
+        },
+        {
+          "name": "Sitting",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Standing",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Walking",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Bending",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Manipulation with Fingers",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Reading & Writing",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Seeing",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Hearing",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Communication",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Blind",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Low Vision",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Deaf",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Hard of Hearing",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "One Arm",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "One Leg",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Both Arms",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Both Leg",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "One Arm and One Leg",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Cerebral Palsy",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Leprosy Cured",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Dwarfism",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Acid Attack Victims",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Muscular Dystrophy",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Spinal Deformity",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Spinal Injury",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Autism Spectrum Disorder (M= Mild, MoD= Moderate)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Intellectual Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Specific Learning Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Mental Illness",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Multiple Disabilities",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Sitting"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Standing"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Walking"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Bending"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Manipulation with Fingers"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Reading & Writing"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Seeing"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Hearing"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "Communication"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Blind"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Low Vision"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Deaf"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Hard of Hearing"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One Arm"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One Leg"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Both Arms"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Both Leg"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One Arm and One Leg"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Cerebral Palsy"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Leprosy Cured"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Dwarfism"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Acid Attack Victims"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Muscular Dystrophy"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Spinal Deformity"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Spinal Injury"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Autism Spectrum Disorder (M= Mild, MoD= Moderate)"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Intellectual Disability"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Specific Learning Disability"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Mental Illness"
+        },
+        {
+          "head": "Data Entry Operator/ Data Entry Operator Grade „A‟",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Multiple Disabilities"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Sitting"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Standing"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Walking"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Bending"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Manipulation with Fingers"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Reading & Writing"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Seeing"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Hearing"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES",
+          "tail": "Communication"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Blind"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Low Vision"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Deaf"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Hard of Hearing"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One Arm"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One Leg"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Both Arms"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Both Leg"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One Arm and One Leg"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Cerebral Palsy"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Leprosy Cured"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Dwarfism"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Acid Attack Victims"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Muscular Dystrophy"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Spinal Deformity"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Spinal Injury"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Autism Spectrum Disorder (M= Mild, MoD= Moderate)"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Intellectual Disability"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Specific Learning Disability"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Mental Illness"
+        },
+        {
+          "head": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Multiple Disabilities"
+        }
+      ],
+      "error": null
+    },
+    "6": {
+      "chunk_index": 6,
+      "entities": [
+        {
+          "name": "Lower Division Clerk",
+          "type": "POST"
+        },
+        {
+          "name": "BRO",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES",
+          "tail": "Physical Standard"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES",
+          "tail": "Physical Efficiency Tests"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES",
+          "tail": "Medical Standards"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificate of eligibility"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste Certificate"
+        }
+      ],
+      "error": null
+    },
+    "7": {
+      "chunk_index": 7,
+      "entities": [
+        {
+          "name": "Age limit for the posts is 18 -27 years i.e. Candidates born not before 02-08-1999 and not later than 01 -08-2008 are eligible to apply",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "01-08-2026",
+          "type": "DATE"
+        },
+        {
+          "name": "01-08-2008",
+          "type": "DATE"
+        },
+        {
+          "name": "02-08-1999",
+          "type": "DATE"
+        },
+        {
+          "name": "01 SC/ ST 5 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "02 OBC 3 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "03 PwBD  10 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "04 PwBD (OBC) 13 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "05 PwBD (SC/ ST) 15 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "06 Ex-Servicemen (ESM) 03 years after deduction of the military service rendered from the actual age as on 01.08.2026",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "08 Defence Personnel disabled in operation during hostilities with any foreign country or in a disturbed area and released as a consequence thereof. 03 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "09 Defence Personnel disabled in operation during hostilities with any foreign country or in a disturbed area and released as a consequence thereof (SC/ ST). 08 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "10 Central Government Civilian Employees: Who have rendered not less than 3 years regular and continuous service as on closing",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Age limit for the posts is 18 -27 years i.e. Candidates born not before 02-08-1999 and not later than 01 -08-2008 are eligible to apply",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "Age limit for the posts is 18 -27 years i.e. Candidates born not before 02-08-1999 and not later than 01 -08-2008 are eligible to apply",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2008"
+        },
+        {
+          "head": "Age limit for the posts is 18 -27 years i.e. Candidates born not before 02-08-1999 and not later than 01 -08-2008 are eligible to apply",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "02-08-1999"
+        },
+        {
+          "head": "01 SC/ ST 5 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "02 OBC 3 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "03 PwBD  10 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "04 PwBD (OBC) 13 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "05 PwBD (SC/ ST) 15 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "06 Ex-Servicemen (ESM) 03 years after deduction of the military service rendered from the actual age as on 01.08.2026",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01.08.2026"
+        },
+        {
+          "head": "08 Defence Personnel disabled in operation during hostilities with any foreign country or in a disturbed area and released as a consequence thereof. 03 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "09 Defence Personnel disabled in operation during hostilities with any foreign country or in a disturbed area and released as a consequence thereof (SC/ ST). 08 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        },
+        {
+          "head": "10 Central Government Civilian Employees: Who have rendered not less than 3 years regular and continuous service as on closing",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "01-08-2026"
+        }
+      ],
+      "error": null
+    },
+    "8": {
+      "chunk_index": 8,
+      "entities": [
+        {
+          "name": "Central Government Civilian Employees",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "regular and continuous service",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Widows/ Divorced Women/ Women judicially separated and who are not remarried",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "SC/ ST",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Ex-Servicemen",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Group „C‟ & „D‟ posts",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "civil side",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "regular basis",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "civil employment",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "closing date for receipt of online applications",
+          "type": "DATE"
+        },
+        {
+          "name": "online application form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Matriculation/ Secondary Examination Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self - declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "9": {
+      "chunk_index": 9,
+      "entities": [
+        {
+          "name": "OM No. 36034/1/2014-Estt (Res) dated 14th August 2014",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "07.10.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Post/ Service",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "OM No. 36034/1/2014-Estt (Res) dated 14th August 2014",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Post/ Service"
+        },
+        {
+          "head": "07.10.2026",
+          "relation": "LAST_DATE",
+          "tail": "Post/ Service"
+        }
+      ],
+      "error": null
+    },
+    "10": {
+      "chunk_index": 10,
+      "entities": [
+        {
+          "name": "Ex-servicemen (Re-employment in Civil Service and Posts) Rules, 1979",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "DoP&T‟s OM No.36012/3/ 2021-Estt. (Res.II) dated 27.02.2023",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Appendix -V(A)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Appendix -V(B)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "11": {
+      "chunk_index": 11,
+      "entities": [
+        {
+          "name": "Indian Union",
+          "type": "ORG"
+        },
+        {
+          "name": "Territorial Army",
+          "type": "ORG"
+        },
+        {
+          "name": "Army Postal Service",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "12": {
+      "chunk_index": 12,
+      "entities": [
+        {
+          "name": "Group „C‟ posts",
+          "type": "POST"
+        },
+        {
+          "name": "Armed Forces of the Union",
+          "type": "ORG"
+        },
+        {
+          "name": "sons, daughters and dependents of Ex - Servicemen",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Group „C‟ posts",
+          "relation": "REQUIRES",
+          "tail": "sons, daughters and dependents of Ex - Servicemen"
+        },
+        {
+          "head": "Armed Forces of the Union",
+          "relation": "CONDUCTED_BY",
+          "tail": "Group „C‟ posts"
+        }
+      ],
+      "error": null
+    },
+    "13": {
+      "chunk_index": 13,
+      "entities": [
+        {
+          "name": "Indenting Departments/ Organizations",
+          "type": "ORG"
+        },
+        {
+          "name": "Indenting Ministries/ Departments/ Organizations",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "14": {
+      "chunk_index": 14,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "15": {
+      "chunk_index": 15,
+      "entities": [
+        {
+          "name": "Notification No. 38 -16/2020-DD-III dated 04.01.2021",
+          "type": "DATE"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "16": {
+      "chunk_index": 16,
+      "entities": [
+        {
+          "name": "crucial date",
+          "type": "DATE"
+        },
+        {
+          "name": "closing date of application",
+          "type": "DATE"
+        },
+        {
+          "name": "Income & Asset certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income for the financial year 2025-2026",
+          "type": "DATE"
+        },
+        {
+          "name": "financial year 2026-2027",
+          "type": "DATE"
+        },
+        {
+          "name": "OBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "caste/ community certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "closing date of application",
+          "relation": "LAST_DATE",
+          "tail": "crucial date"
+        },
+        {
+          "head": "closing date of application",
+          "relation": "LAST_DATE",
+          "tail": "Income for the financial year 2025-2026"
+        },
+        {
+          "head": "closing date of application",
+          "relation": "LAST_DATE",
+          "tail": "financial year 2026-2027"
+        },
+        {
+          "head": "Income & Asset certificate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income for the financial year 2025-2026"
+        },
+        {
+          "head": "OBC certificate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "closing date of application"
+        },
+        {
+          "head": "caste/ community certificate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "closing date of application"
+        }
+      ],
+      "error": null
+    },
+    "17": {
+      "chunk_index": 17,
+      "entities": [
+        {
+          "name": "OBC",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "caste/ community certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "EWS",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "SC",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "ST",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "PwBD",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "ESM",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Competent Authority",
+          "type": "ORG"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "User Department",
+          "type": "ORG"
+        },
+        {
+          "name": "Appointing Authority",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "OBC",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "caste/ community certificate"
+        },
+        {
+          "head": "EWS",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "caste/ community certificate"
+        },
+        {
+          "head": "SC",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "caste/ community certificate"
+        },
+        {
+          "head": "ST",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "caste/ community certificate"
+        },
+        {
+          "head": "PwBD",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "caste/ community certificate"
+        },
+        {
+          "head": "ESM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "caste/ community certificate"
+        },
+        {
+          "head": "Commission",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "User Department",
+          "relation": "CONDUCTED_BY",
+          "tail": "User Department"
+        },
+        {
+          "head": "Appointing Authority",
+          "relation": "CONDUCTED_BY",
+          "tail": "Appointing Authority"
+        }
+      ],
+      "error": null
+    },
+    "18": {
+      "chunk_index": 18,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "19": {
+      "chunk_index": 19,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "20": {
+      "chunk_index": 20,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "21": {
+      "chunk_index": 21,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "22": {
+      "chunk_index": 22,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "23": {
+      "chunk_index": 23,
+      "entities": [
+        {
+          "name": "Data Entry Operator (DEO)/ DEO Grade „A‟ in Ministry of Consumer Affai rs, Food & Public Distribution, Staff Selection Commission and Ministry of Culture",
+          "type": "POST"
+        },
+        {
+          "name": "12th Standard pass in Science stream with Mathematics as a subject from a recognized Board or equivalent",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "07-10-2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Data Entry Operator (DEO)/ DEO Grade „A‟ in Ministry of Consumer Affai rs, Food & Public Distribution, Staff Selection Commission and Ministry of Culture",
+          "relation": "REQUIRES",
+          "tail": "12th Standard pass in Science stream with Mathematics as a subject from a recognized Board or equivalent"
+        },
+        {
+          "head": "Data Entry Operator (DEO)/ DEO Grade „A‟ in Ministry of Consumer Affai rs, Food & Public Distribution, Staff Selection Commission and Ministry of Culture",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "relevant documents for the eligibility of scribe/ compensatory time"
+        }
+      ],
+      "error": null
+    },
+    "24": {
+      "chunk_index": 24,
+      "entities": [
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Culture",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Human Resource Development",
+          "type": "ORG"
+        },
+        {
+          "name": "LDC/JSA",
+          "type": "POST"
+        },
+        {
+          "name": "DEO/DEO Grade „A‟",
+          "type": "POST"
+        },
+        {
+          "name": "12th Standard pass in Science stream with Mathematics as a subject from a recognized Board or equivalent.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "12th Standard or equivalent examination from a recognized Board or University.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "07-10-2026",
+          "type": "DATE"
+        },
+        {
+          "name": "10-06-2015",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "LDC/JSA",
+          "relation": "REQUIRES",
+          "tail": "12th Standard pass in Science stream with Mathematics as a subject from a recognized Board or equivalent."
+        },
+        {
+          "head": "DEO/DEO Grade „A‟",
+          "relation": "REQUIRES",
+          "tail": "12th Standard or equivalent examination from a recognized Board or University."
+        }
+      ],
+      "error": null
+    },
+    "25": {
+      "chunk_index": 25,
+      "entities": [
+        {
+          "name": "University Grants Commission (Open and Distance Learning Programmes and Online Programmes) Regulations, 2020",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Distance Education Bureau",
+          "type": "ORG"
+        },
+        {
+          "name": "University Grants Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Hon'ble Supreme Court's Order dated 11.03.2019",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "26": {
+      "chunk_index": 26,
+      "entities": [
+        {
+          "name": "IGNOU",
+          "type": "ORG"
+        },
+        {
+          "name": "B.Tech. Degree/Diploma in Engineering",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Intermediate/ Higher Secondary/ 10+2/ Senior Secondary",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mark sheets",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Provisional Certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "27": {
+      "chunk_index": 27,
+      "entities": [
+        {
+          "name": "07.10.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "02.06.2025",
+          "type": "DATE"
+        },
+        {
+          "name": "SSC Headquarter",
+          "type": "ORG"
+        },
+        {
+          "name": "SSC",
+          "type": "ORG"
+        },
+        {
+          "name": "SSC Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "One-time Registration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "online Application Forms",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Equivalence Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "07.10.2026",
+          "relation": "DATE",
+          "tail": "07.10.2026"
+        },
+        {
+          "head": "02.06.2025",
+          "relation": "DATE",
+          "tail": "02.06.2025"
+        },
+        {
+          "head": "SSC Headquarter",
+          "relation": "CONDUCTED_BY",
+          "tail": "SSC Headquarter"
+        },
+        {
+          "head": "SSC",
+          "relation": "CONDUCTED_BY",
+          "tail": "SSC"
+        },
+        {
+          "head": "SSC Commission",
+          "relation": "CONDUCTED_BY",
+          "tail": "SSC Commission"
+        },
+        {
+          "head": "One-time Registration",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One-time Registration"
+        },
+        {
+          "head": "online Application Forms",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "online Application Forms"
+        },
+        {
+          "head": "Equivalence Certificate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Equivalence Certificate"
+        }
+      ],
+      "error": null
+    },
+    "28": {
+      "chunk_index": 28,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "29": {
+      "chunk_index": 29,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "30": {
+      "chunk_index": 30,
+      "entities": [
+        {
+          "name": "07-10-2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Certificate of Disability",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "31": {
+      "chunk_index": 31,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "32": {
+      "chunk_index": 32,
+      "entities": [
+        {
+          "name": "Rs 100/- (Rs one hundred only)",
+          "type": "FEE"
+        },
+        {
+          "name": "08-10-2026 (23:00 Hours)",
+          "type": "DATE"
+        },
+        {
+          "name": "SSC",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Rs 100/- (Rs one hundred only)",
+          "relation": "APPLICATION_FEE",
+          "tail": "08-10-2026 (23:00 Hours)"
+        },
+        {
+          "head": "SSC",
+          "relation": "APPLICATION_FEE",
+          "tail": "08-10-2026 (23:00 Hours)"
+        }
+      ],
+      "error": null
+    },
+    "33": {
+      "chunk_index": 33,
+      "entities": [
+        {
+          "name": "Window for Application Form Correction",
+          "type": "DATE"
+        },
+        {
+          "name": "14-10-2026",
+          "type": "DATE"
+        },
+        {
+          "name": "16-10-2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Window for Application Form Correction",
+          "relation": "LAST_DATE",
+          "tail": "16-10-2026"
+        }
+      ],
+      "error": null
+    },
+    "34": {
+      "chunk_index": 34,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "35": {
+      "chunk_index": 35,
+      "entities": [
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Central Region (CR)/ Bihar and Uttar Pradesh",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Director (CR), Staff Selection Commission,34-A, Mahatma Gandhi Marg, Civil Lines, Kendriya Sadan",
+          "type": "ORG"
+        },
+        {
+          "name": "Examination Centres and Centre Code",
+          "type": "POST"
+        },
+        {
+          "name": "SSC Region and States/ UTs under the jurisdiction of the Region",
+          "type": "POST"
+        },
+        {
+          "name": "Address of the Regional Offices and their websites",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examination Centres and Centre Code",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "SSC Region and States/ UTs under the jurisdiction of the Region",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "Address of the Regional Offices and their websites",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "Examination Centres and Centre Code",
+          "relation": "CONDUCTED_BY",
+          "tail": "Central Region (CR)/ Bihar and Uttar Pradesh"
+        },
+        {
+          "head": "SSC Region and States/ UTs under the jurisdiction of the Region",
+          "relation": "CONDUCTED_BY",
+          "tail": "Central Region (CR)/ Bihar and Uttar Pradesh"
+        },
+        {
+          "head": "Address of the Regional Offices and their websites",
+          "relation": "CONDUCTED_BY",
+          "tail": "Central Region (CR)/ Bihar and Uttar Pradesh"
+        }
+      ],
+      "error": null
+    },
+    "36": {
+      "chunk_index": 36,
+      "entities": [
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Director (CR), Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Director (ER), Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Director (KKR), Staff Selection Commission",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "37": {
+      "chunk_index": 37,
+      "entities": [
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "38": {
+      "chunk_index": 38,
+      "entities": [
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "North Western Sub-Region (NWR)/Chandigarh, Haryana, Himachal Pradesh, Jammu and Kashmir, Ladakh and Punjab",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Director (NWR), Staff Selection Commission, Block No. 3, Ground Floor, Kendriya Sadan, Sector - 9, Chandigarh-160009",
+          "type": "ORG"
+        },
+        {
+          "name": "Southern Region (SR)/Andhra Pradesh, Puducherry, Tamil Nadu and Telangana",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Director (SR), Staff Selection Commission, 2nd Floor, EVK Sampath Building, DPI Campus, College Road, Chennai, Tamil Nadu -600006",
+          "type": "ORG"
+        },
+        {
+          "name": "Chandigarh/ Mohali (1601), Hamirpur (1202), Shimla (1203), Jammu (1004), Samba (1010), Srinagar(J&K) (1007), Leh (1005), Amritsar (1404), Jalandhar (1402), Patiala (1403), Bathinda (1401)",
+          "type": "ORG"
+        },
+        {
+          "name": "Guntur (8001), Kurnool (8003), Rajahmundry (8004), Tirupathi (8006), Visakhapatnam (8007), Vijayawada (8008), Kakinada (8009), Nellore (8010), Ongole (8014), Srikakulam (8015), Eluru (8016), Puducherry (8401), Chennai (8201), Coimbatore (8202), Madurai (8204), Salem (8205), Tiruchirappalli (8206), Tirunelveli(8207), Vellore (8208), Krishnagiri (8209), Hyderabad (8601), Warangal (8603), Karimnagar (8604), Siddipet (8605)",
+          "type": "ORG"
+        },
+        {
+          "name": "Panaji (7801), Ahmedabad (7001), Gandhinagar (7012), Mehsana (7013), Rajkot (7006), Surat (7007), Vadodara (7002), Amravati (7201), Chhatrapati Sambhaji Nagar (7202), Jalgaon (7214), Kolhapur (7203), Mumbai (7204), Nagpur (7205)",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "39": {
+      "chunk_index": 39,
+      "entities": [
+        {
+          "name": "Regional Director (WR), Staff Selection Commission, 1st Floor, South Wing, Pratishtha Bhawan, 101, Maharshi Karve Road, Mumbai, Maharashtra - 400020",
+          "type": "ORG"
+        },
+        {
+          "name": "Computer Based Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Tier-I",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Computer Based Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Regional Director (WR), Staff Selection Commission, 1st Floor, South Wing, Pratishtha Bhawan, 101, Maharshi Karve Road, Mumbai, Maharashtra - 400020"
+        },
+        {
+          "head": "Computer Based Examination",
+          "relation": "OFFERS",
+          "tail": "Tier-I"
+        }
+      ],
+      "error": null
+    },
+    "40": {
+      "chunk_index": 40,
+      "entities": [
+        {
+          "name": "Computer Based Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "02-06-2025",
+          "type": "DATE"
+        },
+        {
+          "name": "10.04-2026",
+          "type": "DATE"
+        },
+        {
+          "name": "₹ 50/- per question",
+          "type": "FEE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Computer Based Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        }
+      ],
+      "error": null
+    },
+    "41": {
+      "chunk_index": 41,
+      "entities": [
+        {
+          "name": "Tier-I Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "English Language",
+          "type": "POST"
+        },
+        {
+          "name": "General Intelligence",
+          "type": "POST"
+        },
+        {
+          "name": "Quantitative Aptitude",
+          "type": "POST"
+        },
+        {
+          "name": "General Awareness",
+          "type": "POST"
+        },
+        {
+          "name": "Metric systems of weights and measures",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Objective Type, Multiple choice questions",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "60 Minutes",
+          "type": "DATE"
+        },
+        {
+          "name": "80 Minutes",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Tier-I Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Tier-I Examination",
+          "relation": "OFFERS",
+          "tail": "English Language"
+        },
+        {
+          "head": "Tier-I Examination",
+          "relation": "OFFERS",
+          "tail": "General Intelligence"
+        },
+        {
+          "head": "Tier-I Examination",
+          "relation": "OFFERS",
+          "tail": "Quantitative Aptitude"
+        },
+        {
+          "head": "Tier-I Examination",
+          "relation": "OFFERS",
+          "tail": "General Awareness"
+        },
+        {
+          "head": "English Language",
+          "relation": "REQUIRES",
+          "tail": "Metric systems of weights and measures"
+        },
+        {
+          "head": "English Language",
+          "relation": "REQUIRES",
+          "tail": "Objective Type, Multiple choice questions"
+        },
+        {
+          "head": "General Intelligence",
+          "relation": "REQUIRES",
+          "tail": "Metric systems of weights and measures"
+        },
+        {
+          "head": "General Intelligence",
+          "relation": "REQUIRES",
+          "tail": "Objective Type, Multiple choice questions"
+        },
+        {
+          "head": "Quantitative Aptitude",
+          "relation": "REQUIRES",
+          "tail": "Metric systems of weights and measures"
+        },
+        {
+          "head": "Quantitative Aptitude",
+          "relation": "REQUIRES",
+          "tail": "Objective Type, Multiple choice questions"
+        },
+        {
+          "head": "General Awareness",
+          "relation": "REQUIRES",
+          "tail": "Metric systems of weights and measures"
+        },
+        {
+          "head": "General Awareness",
+          "relation": "REQUIRES",
+          "tail": "Objective Type, Multiple choice questions"
+        },
+        {
+          "head": "English Language",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "60 Minutes"
+        },
+        {
+          "head": "General Intelligence",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "80 Minutes"
+        }
+      ],
+      "error": null
+    },
+    "42": {
+      "chunk_index": 42,
+      "entities": [
+        {
+          "name": "Tier -I Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Tier-II Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Tier Session-I",
+          "type": "EXAM"
+        },
+        {
+          "name": "Tier Session-II",
+          "type": "EXAM"
+        },
+        {
+          "name": "Mathematical Abilities",
+          "type": "POST"
+        },
+        {
+          "name": "Reasoning and General Intelligence",
+          "type": "POST"
+        },
+        {
+          "name": "English Language and Comprehension",
+          "type": "POST"
+        },
+        {
+          "name": "General Awareness",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Tier -I Examination",
+          "relation": "EXAM_DATE",
+          "tail": "13.8.1"
+        },
+        {
+          "head": "Tier -I Examination",
+          "relation": "EXAM_DATE",
+          "tail": "13.8.2"
+        },
+        {
+          "head": "Tier-II Examination",
+          "relation": "EXAM_DATE",
+          "tail": "13.9"
+        },
+        {
+          "head": "Tier Session-I",
+          "relation": "EXAM_DATE",
+          "tail": "Session-I"
+        },
+        {
+          "head": "Tier Session-I",
+          "relation": "EXAM_DATE",
+          "tail": "2 hours and 15 minutes"
+        },
+        {
+          "head": "Tier Session-I",
+          "relation": "EXAM_DATE",
+          "tail": "1 hour"
+        },
+        {
+          "head": "Tier Session-I",
+          "relation": "EXAM_DATE",
+          "tail": "1 hours and 20 minutes"
+        },
+        {
+          "head": "Tier Session-II",
+          "relation": "EXAM_DATE",
+          "tail": "Session-II"
+        },
+        {
+          "head": "Tier Session-II",
+          "relation": "EXAM_DATE",
+          "tail": "1 hour"
+        },
+        {
+          "head": "Tier Session-II",
+          "relation": "EXAM_DATE",
+          "tail": "1 hours and 20 minutes"
+        },
+        {
+          "head": "Tier -I Examination",
+          "relation": "OFFERS",
+          "tail": "Mathematical Abilities"
+        },
+        {
+          "head": "Tier -I Examination",
+          "relation": "OFFERS",
+          "tail": "Reasoning and General Intelligence"
+        },
+        {
+          "head": "Tier -I Examination",
+          "relation": "OFFERS",
+          "tail": "English Language and Comprehension"
+        },
+        {
+          "head": "Tier -I Examination",
+          "relation": "OFFERS",
+          "tail": "General Awareness"
+        },
+        {
+          "head": "Tier Session-I",
+          "relation": "OFFERS",
+          "tail": "Mathematical Abilities"
+        },
+        {
+          "head": "Tier Session-I",
+          "relation": "OFFERS",
+          "tail": "Reasoning and General Intelligence"
+        },
+        {
+          "head": "Tier Session-II",
+          "relation": "OFFERS",
+          "tail": "English Language and Comprehension"
+        },
+        {
+          "head": "Tier Session-II",
+          "relation": "OFFERS",
+          "tail": "General Awareness"
+        }
+      ],
+      "error": null
+    },
+    "43": {
+      "chunk_index": 43,
+      "entities": [
+        {
+          "name": "Tier-II",
+          "type": "EXAM"
+        },
+        {
+          "name": "Mathematical Abilities",
+          "type": "POST"
+        },
+        {
+          "name": "Reasoning and General Intelligence",
+          "type": "POST"
+        },
+        {
+          "name": "English Language and Comprehension",
+          "type": "POST"
+        },
+        {
+          "name": "General Awareness",
+          "type": "POST"
+        },
+        {
+          "name": "Computer Knowledge Test",
+          "type": "POST"
+        },
+        {
+          "name": "Skill Test/Typing Test",
+          "type": "POST"
+        },
+        {
+          "name": "Skill Test for DEOs in Department/Ministry mentioned at Para-8.1",
+          "type": "POST"
+        },
+        {
+          "name": "Skill Test for DEOs except in Department/Ministry mentioned at Para-8.1",
+          "type": "POST"
+        },
+        {
+          "name": "Typing Test for LDC/JSA",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "Mathematical Abilities"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "Reasoning and General Intelligence"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "English Language and Comprehension"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "General Awareness"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "Computer Knowledge Test"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "Skill Test/Typing Test"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "Skill Test for DEOs in Department/Ministry mentioned at Para-8.1"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "Skill Test for DEOs except in Department/Ministry mentioned at Para-8.1"
+        },
+        {
+          "head": "Tier-II",
+          "relation": "OFFERS",
+          "tail": "Typing Test for LDC/JSA"
+        }
+      ],
+      "error": null
+    },
+    "44": {
+      "chunk_index": 44,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "45": {
+      "chunk_index": 45,
+      "entities": [
+        {
+          "name": "Tier-II",
+          "type": "EXAM"
+        },
+        {
+          "name": "Computer Knowledge Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Skill Test/ Typing Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Section-I",
+          "type": "EXAM"
+        },
+        {
+          "name": "Section-II",
+          "type": "EXAM"
+        },
+        {
+          "name": "Section-III",
+          "type": "EXAM"
+        },
+        {
+          "name": "Section-IV",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "46": {
+      "chunk_index": 46,
+      "entities": [
+        {
+          "name": "Data Entry Operator",
+          "type": "POST"
+        },
+        {
+          "name": "DEO/ DEO Grade 'A‟",
+          "type": "POST"
+        },
+        {
+          "name": "Data Entry Speed of 8,000 (Eight Thousand) Key Depressions per hour on Computer",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "speed of 15000 (Fifteen Thousand) Key Depressions per hour on Computer",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "15 (Fifteen) minutes",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Data Entry Operator",
+          "relation": "REQUIRES",
+          "tail": "speed of 15000 (Fifteen Thousand) Key Depressions per hour on Computer"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A‟",
+          "relation": "REQUIRES",
+          "tail": "speed of 15000 (Fifteen Thousand) Key Depressions per hour on Computer"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A‟",
+          "relation": "REQUIRES",
+          "tail": "Data Entry Speed of 8,000 (Eight Thousand) Key Depressions per hour on Computer"
+        },
+        {
+          "head": "Data Entry Operator",
+          "relation": "REQUIRES",
+          "tail": "15 (Fifteen) minutes"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A‟",
+          "relation": "REQUIRES",
+          "tail": "15 (Fifteen) minutes"
+        }
+      ],
+      "error": null
+    },
+    "47": {
+      "chunk_index": 47,
+      "entities": [
+        {
+          "name": "LDC/ JSA",
+          "type": "POST"
+        },
+        {
+          "name": "Hindi",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "English",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "35 words per minute (w.p.m.)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "30 words per minute (w.p.m.)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "10 minutes",
+          "type": "DATE"
+        },
+        {
+          "name": "5 minutes",
+          "type": "DATE"
+        },
+        {
+          "name": "15 minutes",
+          "type": "DATE"
+        },
+        {
+          "name": "20 minutes",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "Hindi"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "English"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "35 words per minute (w.p.m.)"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "30 words per minute (w.p.m.)"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "10 minutes"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "5 minutes"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "15 minutes"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES",
+          "tail": "20 minutes"
+        }
+      ],
+      "error": null
+    },
+    "48": {
+      "chunk_index": 48,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "49": {
+      "chunk_index": 49,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "50": {
+      "chunk_index": 50,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "51": {
+      "chunk_index": 51,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "52": {
+      "chunk_index": 52,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "53": {
+      "chunk_index": 53,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "54": {
+      "chunk_index": 54,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "55": {
+      "chunk_index": 55,
+      "entities": [
+        {
+          "name": "Computer Based Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Roll numbers",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Admission Certificates (AC)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Educational Qualifications",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Caste/Category",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Indenting User Ministries/ Departments/ Organizations",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Computer Based Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Computer Based Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Roll numbers"
+        },
+        {
+          "head": "Computer Based Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Admission Certificates (AC)"
+        },
+        {
+          "head": "Computer Based Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Educational Qualifications"
+        },
+        {
+          "head": "Computer Based Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste/Category"
+        },
+        {
+          "head": "Indenting User Ministries/ Departments/ Organizations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        }
+      ],
+      "error": null
+    },
+    "56": {
+      "chunk_index": 56,
+      "entities": [
+        {
+          "name": "Indenting User Ministries/ Departments/ Organizations",
+          "type": "ORG"
+        },
+        {
+          "name": "User Departme nts",
+          "type": "ORG"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Office",
+          "type": "ORG"
+        },
+        {
+          "name": "Regional Office concerned of the Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "time table",
+          "type": "DATE"
+        },
+        {
+          "name": "City of examination",
+          "type": "DATE"
+        },
+        {
+          "name": "website of the Commission",
+          "type": "DATE"
+        },
+        {
+          "name": "10 days before the date of examination",
+          "type": "DATE"
+        },
+        {
+          "name": "one week before the date of examination",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Examination",
+          "relation": "EXAM_DATE",
+          "tail": "10 days before the date of examination"
+        },
+        {
+          "head": "Examination",
+          "relation": "EXAM_DATE",
+          "tail": "one week before the date of examination"
+        }
+      ],
+      "error": null
+    },
+    "57": {
+      "chunk_index": 57,
+      "entities": [
+        {
+          "name": "examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Admission Certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar Based Authentication",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Examination Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "Voter‟s ID Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID Card issued by University/ College/ School",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Employer ID Card (Govt./ PSU)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo-ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Date of Birth",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "examination"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Examination Centre"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Aadhaar Based Authentication"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Admission Certificates"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Voter‟s ID Card"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Driving License"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "PAN Card"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Passport"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "ID Card issued by University/ College/ School"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Employer ID Card (Govt./ PSU)"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Photo-ID proof"
+        },
+        {
+          "head": "examination",
+          "relation": "EXAM_DATE",
+          "tail": "Date of Birth"
+        }
+      ],
+      "error": null
+    },
+    "58": {
+      "chunk_index": 58,
+      "entities": [
+        {
+          "name": "Voter‟s ID Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID Card issued by University/ College/ School",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Employer ID Card (Govt./ PSU)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Ex-Serviceman Discharge Book issued by Ministry of Defence",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Any other photo bearing ID Card issued by the Central/ State Government",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Matriculation Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Marks Sheet issued only by CBSE/ ICSE/ State Boards",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Birth Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Category Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Medical Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Undertaking",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photocopy of the Scribe‟s Photo ID Proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Admission Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "59": {
+      "chunk_index": 59,
+      "entities": [
+        {
+          "name": "Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Option Form",
+          "type": "EXAM"
+        },
+        {
+          "name": "website of the Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Post",
+          "type": "POST"
+        },
+        {
+          "name": "Ministry/ Department/ Organization",
+          "type": "POST"
+        },
+        {
+          "name": "candidates",
+          "type": "POST"
+        },
+        {
+          "name": "final FRTA/Result",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "website of the Commission"
+        },
+        {
+          "head": "Examination",
+          "relation": "OFFERS",
+          "tail": "Post"
+        },
+        {
+          "head": "Examination",
+          "relation": "OFFERS",
+          "tail": "Ministry/ Department/ Organization"
+        },
+        {
+          "head": "Examination",
+          "relation": "OFFERS",
+          "tail": "candidates"
+        },
+        {
+          "head": "Online Option Form",
+          "relation": "CONDUCTED_BY",
+          "tail": "website of the Commission"
+        },
+        {
+          "head": "Online Option Form",
+          "relation": "OFFERS",
+          "tail": "Post"
+        },
+        {
+          "head": "Online Option Form",
+          "relation": "OFFERS",
+          "tail": "Ministry/ Department/ Organization"
+        },
+        {
+          "head": "final FRTA/Result",
+          "relation": "EXAM_DATE",
+          "tail": "final FRTA/Result"
+        }
+      ],
+      "error": null
+    },
+    "60": {
+      "chunk_index": 60,
+      "entities": [
+        {
+          "name": "Lower Division Clerk",
+          "type": "POST"
+        },
+        {
+          "name": "BRO",
+          "type": "ORG"
+        },
+        {
+          "name": "User Ministries/Departments/Organizations",
+          "type": "ORG"
+        },
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Staff Selection Commission",
+          "relation": "CONDUCTED_BY",
+          "tail": "Lower Division Clerk"
+        },
+        {
+          "head": "Staff Selection Commission",
+          "relation": "CONDUCTED_BY",
+          "tail": "User Ministries/Departments/Organizations"
+        }
+      ],
+      "error": null
+    },
+    "61": {
+      "chunk_index": 61,
+      "entities": [
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "User Ministries/Departments/Organizations",
+          "type": "ORG"
+        },
+        {
+          "name": "multi factor examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "First Round of Tentative Allocation (FRTA)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Notice(s) dated 03.03.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Notice(s) dated 08.04.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "multi factor examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "First Round of Tentative Allocation (FRTA)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "multi factor examinations",
+          "relation": "EXAM_DATE",
+          "tail": "Notice(s) dated 03.03.2026"
+        },
+        {
+          "head": "multi factor examinations",
+          "relation": "EXAM_DATE",
+          "tail": "Notice(s) dated 08.04.2026"
+        }
+      ],
+      "error": null
+    },
+    "62": {
+      "chunk_index": 62,
+      "entities": [
+        {
+          "name": "Document Verification",
+          "type": "POST"
+        },
+        {
+          "name": "Matriculation/ Secondary Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Educational Qualification Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Order/ letter in respect of equivalent Educational Qualifications claimed",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Caste/ Category Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Persons with Benchmark Disabilities Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Undertaking as per Annexure-VIII",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Serving Defence Personnel Certificate as per Annexure-VII",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Discharge Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Relevant Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Notice(s) dated 03.03.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Notice(s) dated 08.04.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Matriculation/ Secondary Certificate"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Educational Qualification Certificate"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Order/ letter in respect of equivalent Educational Qualifications claimed"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste/ Category Certificate"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Persons with Benchmark Disabilities Certificate"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Undertaking as per Annexure-VIII"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Serving Defence Personnel Certificate as per Annexure-VII"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Discharge Certificate"
+        },
+        {
+          "head": "Document Verification",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Relevant Certificate"
+        }
+      ],
+      "error": null
+    },
+    "63": {
+      "chunk_index": 63,
+      "entities": [
+        {
+          "name": "Discharge Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Relevant Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "No Objection Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Husband's passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "marriage certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Affidavit",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "joint photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Oath Commissioner",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Divorce Deed",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Death certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "present husband's passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Divorce Decree",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Deed Poll",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "paper cuttings",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "leading daily Newspaper",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "64": {
+      "chunk_index": 64,
+      "entities": [
+        {
+          "name": "Tier-I",
+          "type": "EXAM"
+        },
+        {
+          "name": "Tier-II Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "DEO/ DEO Grade 'A'",
+          "type": "POST"
+        },
+        {
+          "name": "LDC/ JSA",
+          "type": "POST"
+        },
+        {
+          "name": "Deed Poll/Affidavit duly sworn before the Oath Commissioner",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "paper cuttings of two leading daily Newspaper in original (One daily newspaper should be of the area of applicant‟s permanent and present address or nearby area)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Gazette Notification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Admission Certificate for DV",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificates/ documents of EQs/ caste/ category",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Tier-II Examination",
+          "relation": "OFFERS",
+          "tail": "DEO/ DEO Grade 'A'"
+        },
+        {
+          "head": "Tier-II Examination",
+          "relation": "OFFERS",
+          "tail": "LDC/ JSA"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A'",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Deed Poll/Affidavit duly sworn before the Oath Commissioner"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A'",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "paper cuttings of two leading daily Newspaper in original (One daily newspaper should be of the area of applicant‟s permanent and present address or nearby area)"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A'",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Gazette Notification"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A'",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Admission Certificate for DV"
+        },
+        {
+          "head": "DEO/ DEO Grade 'A'",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificates/ documents of EQs/ caste/ category"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Deed Poll/Affidavit duly sworn before the Oath Commissioner"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "paper cuttings of two leading daily Newspaper in original (One daily newspaper should be of the area of applicant‟s permanent and present address or nearby area)"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Gazette Notification"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Admission Certificate for DV"
+        },
+        {
+          "head": "LDC/ JSA",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificates/ documents of EQs/ caste/ category"
+        }
+      ],
+      "error": null
+    },
+    "65": {
+      "chunk_index": 65,
+      "entities": [
+        {
+          "name": "Tier-II Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Tier -I",
+          "type": "EXAM"
+        },
+        {
+          "name": "Computer Knowledge Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Skill Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Typing Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "DEOs",
+          "type": "POST"
+        },
+        {
+          "name": "posts other than DEOs",
+          "type": "POST"
+        },
+        {
+          "name": "Online Option Form",
+          "type": "EXAM"
+        },
+        {
+          "name": "FRTA/Result",
+          "type": "EXAM"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Tier-II Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Tier -I",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Computer Knowledge Test",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Skill Test",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Typing Test",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Online Option Form",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "FRTA/Result",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Tier-II Examination",
+          "relation": "OFFERS",
+          "tail": "DEOs"
+        },
+        {
+          "head": "Tier-II Examination",
+          "relation": "OFFERS",
+          "tail": "posts other than DEOs"
+        }
+      ],
+      "error": null
+    },
+    "66": {
+      "chunk_index": 66,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "67": {
+      "chunk_index": 67,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "68": {
+      "chunk_index": 68,
+      "entities": [
+        {
+          "name": "Ex -Serviceman",
+          "type": "POST"
+        },
+        {
+          "name": "PwBD candidates",
+          "type": "POST"
+        },
+        {
+          "name": "benchmark disability",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Government",
+          "type": "ORG"
+        },
+        {
+          "name": "examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "probation",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Government"
+        },
+        {
+          "head": "examination",
+          "relation": "OFFERS",
+          "tail": "probation"
+        },
+        {
+          "head": "probation",
+          "relation": "REQUIRES",
+          "tail": "benchmark disability"
+        }
+      ],
+      "error": null
+    },
+    "69": {
+      "chunk_index": 69,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "70": {
+      "chunk_index": 70,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "71": {
+      "chunk_index": 71,
+      "entities": [
+        {
+          "name": "examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "01-02 Years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "01 Year",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "02-03 Years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "03 Years",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        }
+      ],
+      "error": null
+    },
+    "72": {
+      "chunk_index": 72,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "73": {
+      "chunk_index": 73,
+      "entities": [
+        {
+          "name": "software/Apps/LAN/VAN, etc.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "software/Apps/LAN/VAN, etc.",
+          "relation": "REQUIRES",
+          "tail": "Staff Selection Commission"
+        }
+      ],
+      "error": null
+    },
+    "74": {
+      "chunk_index": 74,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "75": {
+      "chunk_index": 75,
+      "entities": [
+        {
+          "name": "open Competitive Examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "National Career Service (NCS)",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Labour and Employment",
+          "type": "ORG"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "DoP&T",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "open Competitive Examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "open Competitive Examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "National Career Service (NCS)"
+        },
+        {
+          "head": "open Competitive Examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Ministry of Labour and Employment"
+        },
+        {
+          "head": "open Competitive Examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "DoP&T"
+        }
+      ],
+      "error": null
+    },
+    "76": {
+      "chunk_index": 76,
+      "entities": [
+        {
+          "name": "Notice of Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "SSC",
+          "type": "ORG"
+        },
+        {
+          "name": "One-Time Registration (OTR)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC website",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Notice of Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "SSC"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "EXAM_DATE",
+          "tail": "Notice of Examination"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "LAST_DATE",
+          "tail": "Notice of Examination"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "APPLICATION_FEE",
+          "tail": "Notice of Examination"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One-Time Registration (OTR)"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "SSC website"
+        }
+      ],
+      "error": null
+    },
+    "77": {
+      "chunk_index": 77,
+      "entities": [
+        {
+          "name": "One-Time Registration (OTR)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "Aadhaar Based Biometric Authentication",
+          "type": "EXAM"
+        },
+        {
+          "name": "Aadhaar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proof of Name",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proof of Date of Birth",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proof of Address",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "One-Time Registration (OTR)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "Aadhaar Based Biometric Authentication",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "One-Time Registration (OTR)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar"
+        },
+        {
+          "head": "One-Time Registration (OTR)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Proof of Name"
+        },
+        {
+          "head": "One-Time Registration (OTR)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Proof of Date of Birth"
+        },
+        {
+          "head": "One-Time Registration (OTR)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Proof of Address"
+        }
+      ],
+      "error": null
+    },
+    "78": {
+      "chunk_index": 78,
+      "entities": [
+        {
+          "name": "Proof of Date of Birth issued by a Gazetted Officer",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proof of Address",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter ID Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bank Statement with an attested photograph of the applicant",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Rent Agreement",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income Tax Assessment Order",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proof of Gender",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Birth Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "School Leaving Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Visually Handicapped (VH) candidates",
+          "type": "POST"
+        },
+        {
+          "name": "Aadhaar Face Authentication",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar OTP authentication",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "bio metric verification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "written examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "educational",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Proof of Date of Birth issued by a Gazetted Officer"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar Card"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Proof of Address"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Voter ID Card"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Driving License"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Bank Statement with an attested photograph of the applicant"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Rent Agreement"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income Tax Assessment Order"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Photograph"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Proof of Gender"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Birth Certificate"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "School Leaving Certificate"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar Face Authentication"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar OTP authentication"
+        },
+        {
+          "head": "Visually Handicapped (VH) candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "bio metric verification"
+        },
+        {
+          "head": "written examination",
+          "relation": "REQUIRES",
+          "tail": "educational"
+        }
+      ],
+      "error": null
+    },
+    "79": {
+      "chunk_index": 79,
+      "entities": [
+        {
+          "name": "Written examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Educational Qualifications",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Caste/Category",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Indenting User Ministries/Departments/ Organizations",
+          "type": "ORG"
+        },
+        {
+          "name": "Physical and medical standards",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Result",
+          "type": "DATE"
+        },
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "SC/ ST/ OBC/ EWS/ PwBD and ESM",
+          "type": "POST"
+        },
+        {
+          "name": "Persons with",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Written examination",
+          "relation": "EXAM_DATE",
+          "tail": "Result"
+        },
+        {
+          "head": "Written examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Indenting User Ministries/Departments/ Organizations"
+        },
+        {
+          "head": "Written examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "SC/ ST/ OBC/ EWS/ PwBD and ESM",
+          "relation": "REQUIRES",
+          "tail": "Educational Qualifications"
+        },
+        {
+          "head": "SC/ ST/ OBC/ EWS/ PwBD and ESM",
+          "relation": "REQUIRES",
+          "tail": "Caste/Category"
+        },
+        {
+          "head": "SC/ ST/ OBC/ EWS/ PwBD and ESM",
+          "relation": "REQUIRES",
+          "tail": "Physical and medical standards"
+        },
+        {
+          "head": "Persons with",
+          "relation": "REQUIRES",
+          "tail": "Educational Qualifications"
+        },
+        {
+          "head": "Persons with",
+          "relation": "REQUIRES",
+          "tail": "Caste/Category"
+        },
+        {
+          "head": "Persons with",
+          "relation": "REQUIRES",
+          "tail": "Physical and medical standards"
+        }
+      ],
+      "error": null
+    },
+    "80": {
+      "chunk_index": 80,
+      "entities": [
+        {
+          "name": "Fee payable: ₹ 100/ - (Rupees one hundred only)",
+          "type": "FEE"
+        },
+        {
+          "name": "Women candidates and candidates belonging to Scheduled Caste (SC), Scheduled Tribe (ST), ESM eligible for reservation and Persons with benchmark disability (PwBD)",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "81": {
+      "chunk_index": 81,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "82": {
+      "chunk_index": 82,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "83": {
+      "chunk_index": 83,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "84": {
+      "chunk_index": 84,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "85": {
+      "chunk_index": 85,
+      "entities": [
+        {
+          "name": "Examination Venue",
+          "type": "ORG"
+        },
+        {
+          "name": "candidates",
+          "type": "POST"
+        },
+        {
+          "name": "Aadhaar Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "E -Aadhaar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Identity Card issued by University/ College/ Government",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Employer ID Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ESM Discharge Book issued by MoD",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "any photo bearing ID card issued by Central/ State Government",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "original certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Admission",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar Card"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "E -Aadhaar"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Driving License"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Voter Card"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "PAN Card"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Identity Card issued by University/ College/ Government"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Employer ID Card"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "ESM Discharge Book issued by MoD"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "any photo bearing ID card issued by Central/ State Government"
+        },
+        {
+          "head": "Examination Venue",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "original certificate"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar Card"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "E -Aadhaar"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Driving License"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Voter Card"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "PAN Card"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Identity Card issued by University/ College/ Government"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Employer ID Card"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "ESM Discharge Book issued by MoD"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "any photo bearing ID card issued by Central/ State Government"
+        },
+        {
+          "head": "candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "original certificate"
+        }
+      ],
+      "error": null
+    },
+    "86": {
+      "chunk_index": 86,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "87": {
+      "chunk_index": 87,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "88": {
+      "chunk_index": 88,
+      "entities": [
+        {
+          "name": "Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "User Department",
+          "type": "ORG"
+        },
+        {
+          "name": "User Ministry/Department/Organization",
+          "type": "ORG"
+        },
+        {
+          "name": "online application form",
+          "type": "POST"
+        },
+        {
+          "name": "Aadhaar Based Authentication",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "website of the Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "website of the concerned Regional Office",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Commission",
+          "relation": "CONDUCTED_BY",
+          "tail": "Commission"
+        },
+        {
+          "head": "online application form",
+          "relation": "REQUIRES",
+          "tail": "Aadhaar Based Authentication"
+        },
+        {
+          "head": "website of the Commission",
+          "relation": "CONDUCTED_BY",
+          "tail": "website of the Commission"
+        },
+        {
+          "head": "website of the concerned Regional Office",
+          "relation": "CONDUCTED_BY",
+          "tail": "website of the concerned Regional Office"
+        }
+      ],
+      "error": null
+    },
+    "89": {
+      "chunk_index": 89,
+      "entities": [
+        {
+          "name": "Staff Selection Commission (Headquarters)",
+          "type": "ORG"
+        },
+        {
+          "name": "07.09.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Staff Selection Commission (Headquarters)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission (Headquarters)"
+        }
+      ],
+      "error": null
+    },
+    "90": {
+      "chunk_index": 90,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "91": {
+      "chunk_index": 91,
+      "entities": [
+        {
+          "name": "written examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "recruitment agencies",
+          "type": "ORG"
+        },
+        {
+          "name": "academic institutions",
+          "type": "ORG"
+        },
+        {
+          "name": "medical authority",
+          "type": "ORG"
+        },
+        {
+          "name": "Orthopaedic/PMR specialist",
+          "type": "ORG"
+        },
+        {
+          "name": "Clinical Psychologist/Rehabilitation Psychologist/Psychiatrist/Special Educator",
+          "type": "ORG"
+        },
+        {
+          "name": "Neurologist",
+          "type": "ORG"
+        },
+        {
+          "name": "Occupational therapist",
+          "type": "ORG"
+        },
+        {
+          "name": "Chief Medical Officer/Civil Surgeon/Chief District Medical Officer",
+          "type": "ORG"
+        },
+        {
+          "name": "Government Hospital/Health Care Centre",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "recruitment agencies"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "academic institutions"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "medical authority"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Orthopaedic/PMR specialist"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Clinical Psychologist/Rehabilitation Psychologist/Psychiatrist/Special Educator"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Neurologist"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Occupational therapist"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Chief Medical Officer/Civil Surgeon/Chief District Medical Officer"
+        },
+        {
+          "head": "written examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Government Hospital/Health Care Centre"
+        }
+      ],
+      "error": null
+    },
+    "92": {
+      "chunk_index": 92,
+      "entities": [
+        {
+          "name": "service of scribe/reader/lab assistant",
+          "type": "POST"
+        },
+        {
+          "name": "aforesaid examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "qualification",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "right to the post",
+          "type": "POST"
+        },
+        {
+          "name": "claims relating thereto",
+          "type": "POST"
+        },
+        {
+          "name": "person with specified disability",
+          "type": "POST"
+        },
+        {
+          "name": "nature of disability/condition",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "name of the examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "name of the scribe",
+          "type": "POST"
+        },
+        {
+          "name": "right to the post or certificate/diploma/degree",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "service of scribe/reader/lab assistant",
+          "relation": "OFFERS",
+          "tail": "aforesaid examination"
+        },
+        {
+          "head": "right to the post",
+          "relation": "OFFERS",
+          "tail": "aforesaid examination"
+        },
+        {
+          "head": "claims relating thereto",
+          "relation": "OFFERS",
+          "tail": "aforesaid examination"
+        },
+        {
+          "head": "person with specified disability",
+          "relation": "OFFERS",
+          "tail": "aforesaid examination"
+        },
+        {
+          "head": "name of the scribe",
+          "relation": "OFFERS",
+          "tail": "aforesaid examination"
+        },
+        {
+          "head": "right to the post or certificate/diploma/degree",
+          "relation": "OFFERS",
+          "tail": "aforesaid examination"
+        }
+      ],
+      "error": null
+    },
+    "93": {
+      "chunk_index": 93,
+      "entities": [
+        {
+          "name": "the examination",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "94": {
+      "chunk_index": 94,
+      "entities": [
+        {
+          "name": "Mobile Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Email ID",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar Card Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter Identity Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "School / College Identity Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Employer Identity Card (Government/ PSU/Private)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Information about the Examination Board",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Roll Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Year of Passing the Matriculation (10th) Examination",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certificate Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "One-time Registration (OTR)",
+          "type": "EXAM"
+        },
+        {
+          "name": "One-time Registration Form",
+          "type": "EXAM"
+        },
+        {
+          "name": "Personal Details",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Password Creation",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Additional Details",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "95": {
+      "chunk_index": 95,
+      "entities": [
+        {
+          "name": "Aadhaar Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter ID Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Govt. Identity Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Govt. Service Identity Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Pension document",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Birth Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "School Leaving Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate of Date of Birth issued by a Gazetted Officer",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter Identity Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bank Statement with attested photograph of the applicant",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Rent Agreement",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income Tax Assessment Order",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Matriculation (10th Class) Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "96": {
+      "chunk_index": 96,
+      "entities": [
+        {
+          "name": "Registration Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Matriculation (10th Class) Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "One Time Password",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Mobile Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "e-Mail ID",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Password",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Registration Process",
+          "type": "EXAM"
+        },
+        {
+          "name": "14 days",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Registration Process",
+          "relation": "EXAM_DATE",
+          "tail": "14 days"
+        }
+      ],
+      "error": null
+    },
+    "97": {
+      "chunk_index": 97,
+      "entities": [
+        {
+          "name": "Registration Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Password",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Email ID",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "mobile number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Registration Process",
+          "type": "EXAM"
+        },
+        {
+          "name": "Registration Details",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Basic Details",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Category",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Nationality",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Contact Details",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "visible Identification Mark",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Identification Mark",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "benchmark disabilities",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certification Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Permanent Address",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Present Address",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "98": {
+      "chunk_index": 98,
+      "entities": [
+        {
+          "name": "SSC(HQs) Notice No. HQ-IT018/4/2024-IT (E-10517)",
+          "type": "EXAM"
+        },
+        {
+          "name": "SSC(HQs)",
+          "type": "ORG"
+        },
+        {
+          "name": "One -time Registration data",
+          "type": "POST"
+        },
+        {
+          "name": "Matriculation (10th class) certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "SSC(HQs) Notice No. HQ-IT018/4/2024-IT (E-10517)",
+          "relation": "CONDUCTED_BY",
+          "tail": "SSC(HQs)"
+        },
+        {
+          "head": "SSC(HQs) Notice No. HQ-IT018/4/2024-IT (E-10517)",
+          "relation": "OFFERS",
+          "tail": "One -time Registration data"
+        }
+      ],
+      "error": null
+    },
+    "99": {
+      "chunk_index": 99,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "100": {
+      "chunk_index": 100,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "101": {
+      "chunk_index": 101,
+      "entities": [
+        {
+          "name": "Combined Higher Secondary (10+2) Level Examination 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Android Mobile Phones",
+          "type": "ORG"
+        },
+        {
+          "name": "Google Play Store",
+          "type": "ORG"
+        },
+        {
+          "name": "Registration Number",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "password",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "One - time Registration Data",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "highest educational qualification",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Android Mobile Phones"
+        },
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Google Play Store"
+        },
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination 2026",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Registration Number"
+        },
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination 2026",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "password"
+        },
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination 2026",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "One - time Registration Data"
+        },
+        {
+          "head": "Combined Higher Secondary (10+2) Level Examination 2026",
+          "relation": "REQUIRES",
+          "tail": "highest educational qualification"
+        }
+      ],
+      "error": null
+    },
+    "102": {
+      "chunk_index": 102,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "103": {
+      "chunk_index": 103,
+      "entities": [
+        {
+          "name": "Notice of Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Multiple Disability Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "competent authority",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Notice of Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Multiple Disability Certificate"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Disability Certificate"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificate from competent authority"
+        }
+      ],
+      "error": null
+    },
+    "104": {
+      "chunk_index": 104,
+      "entities": [
+        {
+          "name": "Notice of Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Computer Based Examination (CBE)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Typing Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "12th Standard in Science Stream with Mathematics",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "12th Standard in Science Stream with Mathematics as a subject from a recognized Board or equivalent",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "live Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "blurred photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Notice of Examination",
+          "relation": "EXAM_DATE",
+          "tail": "Notice of Examination"
+        },
+        {
+          "head": "Computer Based Examination (CBE)",
+          "relation": "EXAM_DATE",
+          "tail": "Computer Based Examination (CBE)"
+        },
+        {
+          "head": "Typing Test",
+          "relation": "EXAM_DATE",
+          "tail": "Typing Test"
+        },
+        {
+          "head": "Notice of Examination",
+          "relation": "EXAM_DATE",
+          "tail": "Notice of Examination"
+        },
+        {
+          "head": "Computer Based Examination (CBE)",
+          "relation": "EXAM_DATE",
+          "tail": "Computer Based Examination (CBE)"
+        },
+        {
+          "head": "Typing Test",
+          "relation": "EXAM_DATE",
+          "tail": "Typing Test"
+        },
+        {
+          "head": "12th Standard in Science Stream with Mathematics as a subject from a recognized Board or equivalent",
+          "relation": "REQUIRES",
+          "tail": "12th Standard in Science Stream with Mathematics as a subject from a recognized Board or equivalent"
+        },
+        {
+          "head": "live Photograph",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "live Photograph"
+        },
+        {
+          "head": "blurred photograph",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "blurred photograph"
+        }
+      ],
+      "error": null
+    },
+    "105": {
+      "chunk_index": 105,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "106": {
+      "chunk_index": 106,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "107": {
+      "chunk_index": 107,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "108": {
+      "chunk_index": 108,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "109": {
+      "chunk_index": 109,
+      "entities": [
+        {
+          "name": "Examination, 20…",
+          "type": "EXAM"
+        },
+        {
+          "name": "Examination, 20…",
+          "type": "POST"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "110": {
+      "chunk_index": 110,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Constitution (Scheduled Castes) Order,1950",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Scheduled Tribes) Order,1950",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Scheduled Castes) Union Territories Order, 1951",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "111": {
+      "chunk_index": 111,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "112": {
+      "chunk_index": 112,
+      "entities": [
+        {
+          "name": "Constitution (Goa, Daman & Diu) Scheduled Tribes Order 1968",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Nagaland) Scheduled Tribes Order, 1970",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Sikkim) Scheduled Castes Order 1978",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Sikkim) Scheduled Tribes Order 1978",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Jammu & Kashmir) Scheduled Tribes Order 1989",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (SC) orders (Amendment) Act, 1990",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (ST) orders (Amendment) Ordinance 1991",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (ST) orders (Second Amendment) Act, 1991",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "The Scheduled Castes and Schedules Tribes Orders (Amendment) Act, 2002",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Scheduled Castes) Order (Amendment) Act, 2002",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Scheduled Castes and Scheduled Tribes) Orders (Amendment) Act, 2002",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Constitution (Scheduled Castes) Orders (Second Amendment) Act, 2002",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "113": {
+      "chunk_index": 113,
+      "entities": [
+        {
+          "name": "District Magistrate/ Additional District Magistrate/ Collector/ Deputy Commissioner/ Additional Deputy Commissioner/ Dy. Collector/ Ist Class Stipendiary Magistrate/ Sub-Divisional Magistrate/ Taluka Magistrate/ Executive Magistrate/ Extra Assistant Commissioner",
+          "type": "ORG"
+        },
+        {
+          "name": "Chief Presidency Magistrate/Additional Chief Presidency Magistrate/Presidency Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Revenue Officers not below the rank of Tehsildar",
+          "type": "ORG"
+        },
+        {
+          "name": "Sub-Divisional Officers of the area where the candidate and/or his family normally resides",
+          "type": "ORG"
+        },
+        {
+          "name": "Administrator/ Secretary to Administrator/ Development Officer (Lakshadweep)",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "114": {
+      "chunk_index": 114,
+      "entities": [
+        {
+          "name": "Administrator/ Secretary to Administrator/ Development Officer (Lakshadweep)",
+          "type": "POST"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Social Justice and Empowerment",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Personnel & Training",
+          "type": "ORG"
+        },
+        {
+          "name": "OBC Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "115": {
+      "chunk_index": 115,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Other Backward Classes certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Scheduled caste/ Scheduled Tribe Certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Representation of the People Act, 1950",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Form-V",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Locomotor Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Muscular Dystrophy",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Leprosy Cured",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Dwarfism",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Cerebral Palsy",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Acid Attack Victim",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Low Vision",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Blindness",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Hearing Impairment",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Speech and Language Disability",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "116": {
+      "chunk_index": 116,
+      "entities": [
+        {
+          "name": "Rights of Persons with Disabilities Act, 2016",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Notification No",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "DD/MM/YYYY",
+          "type": "DATE"
+        },
+        {
+          "name": "Permanent/temporary and valid till (DD/MM/YYYY)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Rights of Persons with Disabilities Act, 2016",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "117": {
+      "chunk_index": 117,
+      "entities": [
+        {
+          "name": "Rights of Persons with Disabilities Act, 2016",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Rights of Persons with Disabilities Act, 2016",
+          "relation": "REQUIRES",
+          "tail": "Government of India"
+        }
+      ],
+      "error": null
+    },
+    "118": {
+      "chunk_index": 118,
+      "entities": [
+        {
+          "name": "Cerebral Palsy",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Acid attack Victim",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Low vision",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Blindness",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Hearing Impairment",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Speech and Language disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Intellectual Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Specific Learning Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Autism Spectrum Disorder",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Mental illness",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Chronic Neurologica Conditions",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Multiple sclerosis",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Parkinson disease",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Haemophilia",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Thalassemia",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Sickle Cell disease",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "119": {
+      "chunk_index": 119,
+      "entities": [
+        {
+          "name": "Economically Weaker Sections",
+          "type": "POST"
+        },
+        {
+          "name": "Rs.8 Lakh",
+          "type": "FEE"
+        },
+        {
+          "name": "5 acres of agricultural land and above",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Residential flat of 1000 sq. ft. and above",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Residential plot of 100 sq. yards and above in notified municipalities",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Economically Weaker Sections",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Rs.8 Lakh"
+        },
+        {
+          "head": "Economically Weaker Sections",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "5 acres of agricultural land and above"
+        },
+        {
+          "head": "Economically Weaker Sections",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Residential flat of 1000 sq. ft. and above"
+        },
+        {
+          "head": "Economically Weaker Sections",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Residential plot of 100 sq. yards and above in notified municipalities"
+        }
+      ],
+      "error": null
+    },
+    "120": {
+      "chunk_index": 120,
+      "entities": [
+        {
+          "name": "Hindi",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "English",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Assamese",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Bengali",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Gujarati",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Kannada",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Konkani",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Malayalam",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Manipuri (also Meitei or Meithei)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Marathi",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Odiya",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Punjabi",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Tamil",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Telugu",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Urdu",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "121": {
+      "chunk_index": 121,
+      "entities": [
+        {
+          "name": "Lower Division Clerk",
+          "type": "POST"
+        },
+        {
+          "name": "Border Roads Organization (BRO)",
+          "type": "ORG"
+        },
+        {
+          "name": "GREF Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "respective Recruitment Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "Headquarters, Director General Border Roads",
+          "type": "ORG"
+        },
+        {
+          "name": "GREF (Border Road s Organiz ation)",
+          "type": "ORG"
+        },
+        {
+          "name": "Schedule-I",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Schedule-II",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Schedule-III",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "HQ DGBR",
+          "type": "ORG"
+        },
+        {
+          "name": "Medical Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Lower Division Clerk",
+          "relation": "OFFERS",
+          "tail": "Border Roads Organization (BRO)"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES",
+          "tail": "Schedule-I"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES",
+          "tail": "Schedule-II"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES",
+          "tail": "Schedule-III"
+        },
+        {
+          "head": "Lower Division Clerk",
+          "relation": "REQUIRES",
+          "tail": "HQ DGBR"
+        }
+      ],
+      "error": null
+    },
+    "122": {
+      "chunk_index": 122,
+      "entities": [
+        {
+          "name": "Medical Examination",
+          "type": "POST"
+        },
+        {
+          "name": "Medical Board",
+          "type": "ORG"
+        },
+        {
+          "name": "HQ DGBR",
+          "type": "ORG"
+        },
+        {
+          "name": "Medical Officers",
+          "type": "ORG"
+        },
+        {
+          "name": "Recruitment Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "GREF Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "Recruitment Medical Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Medical Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Military Hospital",
+          "type": "ORG"
+        },
+        {
+          "name": "service/Army Hospitals",
+          "type": "ORG"
+        },
+        {
+          "name": "Specialist",
+          "type": "ORG"
+        },
+        {
+          "name": "OPD",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Medical Examination",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "21-30 years as on 01.04.2026"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste Certificate"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Passport size photograph"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Medical papers"
+        },
+        {
+          "head": "Medical Board",
+          "relation": "CONDUCTED_BY",
+          "tail": "HQ DGBR"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Medical Board"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Medical Officers"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Recruitment Medical Board"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Military Hospital"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "service/Army Hospitals"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Specialist"
+        },
+        {
+          "head": "Medical Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "OPD"
+        }
+      ],
+      "error": null
+    },
+    "123": {
+      "chunk_index": 123,
+      "entities": [
+        {
+          "name": "Recruitment Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "GREF Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "Recruiting Section",
+          "type": "ORG"
+        },
+        {
+          "name": "Mobile Regional Recruitment Team",
+          "type": "ORG"
+        },
+        {
+          "name": "MI Room",
+          "type": "ORG"
+        },
+        {
+          "name": "Medical Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Military Hospital",
+          "type": "ORG"
+        },
+        {
+          "name": "Service",
+          "type": "ORG"
+        },
+        {
+          "name": "Army Hospitals",
+          "type": "ORG"
+        },
+        {
+          "name": "Regimental Medical Officer",
+          "type": "ORG"
+        },
+        {
+          "name": "Medical Specialist",
+          "type": "ORG"
+        },
+        {
+          "name": "Officer -In-Charge Recruiting",
+          "type": "ORG"
+        },
+        {
+          "name": "Board of Officer",
+          "type": "ORG"
+        },
+        {
+          "name": "Recruitment",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "124": {
+      "chunk_index": 124,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "125": {
+      "chunk_index": 125,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "126": {
+      "chunk_index": 126,
+      "entities": [
+        {
+          "name": "GREF Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "Recruitment Zone 05",
+          "type": "ORG"
+        },
+        {
+          "name": "SBI",
+          "type": "ORG"
+        },
+        {
+          "name": "Medical Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Officer-In-Charge Recruiting",
+          "type": "ORG"
+        },
+        {
+          "name": "Board of Officers",
+          "type": "ORG"
+        },
+        {
+          "name": "nearest service hospital",
+          "type": "ORG"
+        },
+        {
+          "name": "service Specialist",
+          "type": "ORG"
+        },
+        {
+          "name": "Govt. treasury",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "127": {
+      "chunk_index": 127,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "128": {
+      "chunk_index": 128,
+      "entities": [
+        {
+          "name": "Border Roads Organisation",
+          "type": "ORG"
+        },
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        },
+        {
+          "name": "GREF Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "General Reserve Engineer Force (BRO)",
+          "type": "POST"
+        },
+        {
+          "name": "Medical fitness test",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Border Roads Organisation",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        },
+        {
+          "head": "Border Roads Organisation",
+          "relation": "CONDUCTED_BY",
+          "tail": "GREF Centre"
+        },
+        {
+          "head": "General Reserve Engineer Force (BRO)",
+          "relation": "OFFERS",
+          "tail": "Medical fitness test"
+        }
+      ],
+      "error": null
+    },
+    "129": {
+      "chunk_index": 129,
+      "entities": [
+        {
+          "name": "General Reserve Engineer Force (BRO)",
+          "type": "ORG"
+        },
+        {
+          "name": "GREF Centre, Dighi Camp, Pune-15",
+          "type": "ORG"
+        },
+        {
+          "name": "Medical Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Medical Review",
+          "type": "EXAM"
+        },
+        {
+          "name": "Scheduled Castes",
+          "type": "POST"
+        },
+        {
+          "name": "Scheduled Tribes",
+          "type": "POST"
+        },
+        {
+          "name": "Ex - serviceman",
+          "type": "POST"
+        },
+        {
+          "name": "PHYSICAL EFFICIENCY TEST (FOR GROUP „C‟ POSTS)",
+          "type": "EXAM"
+        },
+        {
+          "name": "ONE MILE RUN",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "General Reserve Engineer Force (BRO)",
+          "relation": "CONDUCTED_BY",
+          "tail": "PHYSICAL EFFICIENCY TEST (FOR GROUP „C‟ POSTS)"
+        },
+        {
+          "head": "PHYSICAL EFFICIENCY TEST (FOR GROUP „C‟ POSTS)",
+          "relation": "OFFERS",
+          "tail": "ONE MILE RUN"
+        }
+      ],
+      "error": null
+    },
+    "130": {
+      "chunk_index": 130,
+      "entities": [
+        {
+          "name": "ONE MILE RUN",
+          "type": "EXAM"
+        },
+        {
+          "name": "Staff Selection Commission",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "ONE MILE RUN",
+          "relation": "CONDUCTED_BY",
+          "tail": "Staff Selection Commission"
+        }
+      ],
+      "error": null
+    },
+    "131": {
+      "chunk_index": 131,
+      "entities": [
+        {
+          "name": "Eastern Plain",
+          "type": "POST"
+        },
+        {
+          "name": "Eastern UP, Bihar, West Bengal & Orissa and Jharkhand",
+          "type": "POST"
+        },
+        {
+          "name": "Central Region",
+          "type": "POST"
+        },
+        {
+          "name": "Gujarat, Maharashtra and Madhya Pradesh, Dadar Nagar & Haveli, Daman & Diu and Chhattisgarh",
+          "type": "POST"
+        },
+        {
+          "name": "Southern Region",
+          "type": "POST"
+        },
+        {
+          "name": "Andhra Pradesh, Karnataka, Tamil Nadu, Telangana",
+          "type": "POST"
+        },
+        {
+          "name": "Gorkhas (Indian Domicile)",
+          "type": "POST"
+        },
+        {
+          "name": "General",
+          "type": "POST"
+        },
+        {
+          "name": "MEDICAL STANDARDS OF RECRUITMENTS FOR GREF",
+          "type": "EXAM"
+        },
+        {
+          "name": "Schedule-III",
+          "type": "EXAM"
+        },
+        {
+          "name": "157 Cms",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "50 Kgs",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "2 Cms",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "1 Cm",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "2 Kgs",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "152 Cms",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "47.5 Kgs",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "MEDICAL STANDARDS OF RECRUITMENTS FOR GREF",
+          "relation": "EXAM_DATE",
+          "tail": "Schedule-III"
+        },
+        {
+          "head": "Eastern Plain",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "157 Cms"
+        },
+        {
+          "head": "Eastern UP, Bihar, West Bengal & Orissa and Jharkhand",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "157 Cms"
+        },
+        {
+          "head": "Central Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "157 Cms"
+        },
+        {
+          "head": "Gujarat, Maharashtra and Madhya Pradesh, Dadar Nagar & Haveli, Daman & Diu and Chhattisgarh",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "157 Cms"
+        },
+        {
+          "head": "Southern Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "157 Cms"
+        },
+        {
+          "head": "Andhra Pradesh, Karnataka, Tamil Nadu, Telangana",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "157 Cms"
+        },
+        {
+          "head": "Gorkhas (Indian Domicile)",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "152 Cms"
+        },
+        {
+          "head": "Eastern Plain",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "Eastern UP, Bihar, West Bengal & Orissa and Jharkhand",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "Central Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "Gujarat, Maharashtra and Madhya Pradesh, Dadar Nagar & Haveli, Daman & Diu and Chhattisgarh",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "Southern Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "Andhra Pradesh, Karnataka, Tamil Nadu, Telangana",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "Gorkhas (Indian Domicile)",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "Eastern Plain",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "50 Kgs"
+        },
+        {
+          "head": "Eastern UP, Bihar, West Bengal & Orissa and Jharkhand",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "50 Kgs"
+        },
+        {
+          "head": "Central Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "50 Kgs"
+        },
+        {
+          "head": "Gujarat, Maharashtra and Madhya Pradesh, Dadar Nagar & Haveli, Daman & Diu and Chhattisgarh",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "50 Kgs"
+        },
+        {
+          "head": "Southern Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "50 Kgs"
+        },
+        {
+          "head": "Andhra Pradesh, Karnataka, Tamil Nadu, Telangana",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "50 Kgs"
+        },
+        {
+          "head": "Gorkhas (Indian Domicile)",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "47.5 Kgs"
+        },
+        {
+          "head": "Eastern Plain",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "Eastern UP, Bihar, West Bengal & Orissa and Jharkhand",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "Central Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "Gujarat, Maharashtra and Madhya Pradesh, Dadar Nagar & Haveli, Daman & Diu and Chhattisgarh",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "Southern Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "Andhra Pradesh, Karnataka, Tamil Nadu, Telangana",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "Gorkhas (Indian Domicile)",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "Eastern Plain",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "Eastern UP, Bihar, West Bengal & Orissa and Jharkhand",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "Central Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "Gujarat, Maharashtra and Madhya Pradesh, Dadar Nagar & Haveli, Daman & Diu and Chhattisgarh",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "Southern Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "Andhra Pradesh, Karnataka, Tamil Nadu, Telangana",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "Gorkhas (Indian Domicile)",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "Eastern Plain",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        },
+        {
+          "head": "Eastern UP, Bihar, West Bengal & Orissa and Jharkhand",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        },
+        {
+          "head": "Central Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        },
+        {
+          "head": "Gujarat, Maharashtra and Madhya Pradesh, Dadar Nagar & Haveli, Daman & Diu and Chhattisgarh",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        },
+        {
+          "head": "Southern Region",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        },
+        {
+          "head": "Andhra Pradesh, Karnataka, Tamil Nadu, Telangana",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        },
+        {
+          "head": "Gorkhas (Indian Domicile)",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        },
+        {
+          "head": "General",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "157 Cms"
+        },
+        {
+          "head": "General",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "Minimum 75 Cm (Unexpanded) and expansion by 5 Cm"
+        },
+        {
+          "head": "General",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "50 Kgs"
+        },
+        {
+          "head": "General",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Cms"
+        },
+        {
+          "head": "General",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "1 Cm"
+        },
+        {
+          "head": "General",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "2 Kgs"
+        }
+      ],
+      "error": null
+    },
+    "132": {
+      "chunk_index": 132,
+      "entities": [
+        {
+          "name": "DDG (Pers.)/ Comdt. GREF Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "recruits",
+          "type": "POST"
+        },
+        {
+          "name": "Medical Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Medical Board"
+        },
+        {
+          "head": "examination",
+          "relation": "OFFERS",
+          "tail": "recruits"
+        },
+        {
+          "head": "Medical Board",
+          "relation": "CONDUCTED_BY",
+          "tail": "DDG (Pers.)/ Comdt. GREF Centre"
+        },
+        {
+          "head": "recruits",
+          "relation": "REQUIRES",
+          "tail": "Medical Board"
+        }
+      ],
+      "error": null
+    },
+    "133": {
+      "chunk_index": 133,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "134": {
+      "chunk_index": 134,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "135": {
+      "chunk_index": 135,
+      "entities": [
+        {
+          "name": "General impaired Constitution with frail health (BMI less than 18)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Abnormal Gait",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Abnormal Posture (Kyphosis, Scoliosis or Lordosis)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Gross physical deformity of chest, (pigeon chest, Barrel shaped chest, pectus excavatum, Harrison‟s sulcus & joints (Knock knee bow, leg, flat feet etc).",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Defective Intelligence",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Deafness",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Pronounced Stammering",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mental and nervous instability includes coarse Digital Tremors, palmar & plantar Hyperhydrosis and Tachycardia (Pulse rate more than 100/ min).",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Sexually Transmitted diseases",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Any degree of squint or nystagmus",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Cases of colour blindness",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Corneal Opacities effecting binocular vision of the individual",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Perforation of Tympanic membrane",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Chronic Suppurative Otitis Media/ Mastoiditis",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Loss or decay of teeth to such an extent as to interfere with proper mastication",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Dental points",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "136": {
+      "chunk_index": 136,
+      "entities": [
+        {
+          "name": "Permanent body tattoos",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "DDG (Pers.)/ Comdt. GREF Centre",
+          "type": "ORG"
+        },
+        {
+          "name": "Pterygium",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Conjunctivitis",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Defective Vision",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Trachoma Grade III",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Deviated Nasal Septum",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Chronic Tonsillitis",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Few decayed teeth",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Pityriasis Versicolor",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "137": {
+      "chunk_index": 137,
+      "entities": [
+        {
+          "name": "Trachoma Grade III",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Deviated Nasal Septum",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Chronic Tonsillitis",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Few decayed teeth (corrected with denture is acceptable)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Pityriasis Versicolor",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Tinea Cruis, Scabies, Eczema etc.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Planter Warts",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Hydrocele, Hernia, Vericocele",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Vericose Veins",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Phimosis, Fissure in ano or abscess, Haemorrohoids",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Acute infection of respiratory tract",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Gynaecomastia",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Anaemia",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Hepatospleenomegaly",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "BMI above 30 (Should bring down BMI to below 30 within 3 months will be accepted)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mild Flat Feet but flexible and Hammer toes",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mild knock knee (Inter malleolic distance 5 cms)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mild Bow Legs (Inter condylar distance 7 cms)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mild Degree of Sephena varix",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Slight degree of Vericocele, or undescended testis (Not arrested in inguinal region)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Healed perforation of Ear drums",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Healed Trachoma without residual gross deformity",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Slight stammering",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mild hyperhydrosis",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mild degree phimosis or Hypospodiasis",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Perforation in the ear drums which has healed and closed leaving a firm healthy scar (Tympanoplasty done)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Slight curvature of leg",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Slight hammer toe",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mild degree of varices",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Tenea versicolor (Only after treatment)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "DNS (Acceptable after treatment)",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "138": {
+      "chunk_index": 138,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "139": {
+      "chunk_index": 139,
+      "entities": [],
+      "relations": [],
+      "error": null
+    }
+  }
+}

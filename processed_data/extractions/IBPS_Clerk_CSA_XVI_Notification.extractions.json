@@ -1,0 +1,3981 @@
+{
+  "source_file": "IBPS_Clerk_CSA_XVI_Notification.pdf",
+  "file_hash": "1c10773a0e692e0bfd7e0565724420ed4d05756420a88eb5805c684876c0f084",
+  "results": {
+    "0": {
+      "chunk_index": 0,
+      "entities": [
+        {
+          "name": "CRP CSA -XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Customer Service Associate (CSA)",
+          "type": "POST"
+        },
+        {
+          "name": "Institute of Banking Personnel Selection (IBPS)",
+          "type": "ORG"
+        },
+        {
+          "name": "21.08.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "October, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "December, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA -XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "Institute of Banking Personnel Selection (IBPS)"
+        },
+        {
+          "head": "CRP CSA -XVI",
+          "relation": "OFFERS",
+          "tail": "Customer Service Associate (CSA)"
+        },
+        {
+          "head": "CRP CSA -XVI",
+          "relation": "LAST_DATE",
+          "tail": "21.08.2026"
+        },
+        {
+          "head": "CRP CSA -XVI",
+          "relation": "EXAM_DATE",
+          "tail": "October, 2026"
+        },
+        {
+          "head": "CRP CSA -XVI",
+          "relation": "EXAM_DATE",
+          "tail": "December, 2026"
+        }
+      ],
+      "error": null
+    },
+    "1": {
+      "chunk_index": 1,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "2": {
+      "chunk_index": 2,
+      "entities": [
+        {
+          "name": "CRP CSA XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "FORM- SC/ST CERTIFICATE TO BE PRODUCED BY A CANDIDATE BELONGING TO SCHEDULED CASTE OR SCHEDULED TRIBE",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM-OBC CERTIFICATE TO BE PRODUCED BY OTHER BACKWARD CLASSES",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM-EWS INCOME & ASSET CERTIFICATE TO BE PRODUCED BY ECONOMICALLY WEAKER SECTIONS",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM-I CERTIFICATE OF DISABILITY (IN CASES OF AMPUTATION OR COMPLETE PERMANENT PARALYSIS OF LIMBS OR DWARFISM AND IN CASES OF BLINDNESS)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM - II CERTIFICATE OF DISABILITY (IN CASE OF MULTIPLE DISABILITIES)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM - III CERTIFICATE OF DISABILITY (IN CASES OTHER THAN THOSE MENTIONED IN FORM I AND II)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "3": {
+      "chunk_index": 3,
+      "entities": [
+        {
+          "name": "FORM - II CERTIFICATE OF DISABILITY (IN CASE OF MULTIPLE DISABILITIES)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM - III CERTIFICATE OF DISABILITY (IN CASES OTHER THAN THOSE MENTIONED IN FORM I AND II)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PROFORMA - A  FORM OF CERTIFICATE APPLICABLE FOR RELEASED/RETIRED PERSONNEL",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PROFORMA – B FORM OF CERTIFICATE FOR SERVING PERSONNEL",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PROFORMA - C UNDERTAKING TO BE GIVEN BY SERVING ARMED FORCE PERSONNEL WHO ARE DUE TO BE RELEASED WITHIN ONE YEAR",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PROFORMA - D FORM OF CERTIFICATE APPLICABLE FOR SERVING ARMED FORCE PERSONNEL WHO HAVE ALREADY COMPLETED THEIR INITIAL ASSIGNMENT AND ARE ON EXTENDED ASSIGNMENT",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "APPENDIX-I CERTIFICATE FOR PERSON WITH SPECIFIED DISABILITY COVERED UNDER THE DEFINITION OF SECTION 2 (s) OF THE RPwD ACT, 2016 BUT NOT COVERED UNDER THE DEFINITION OF SECTION 2 (r) OF THE SAID ACT, I.E. PERSONS HAVING LESS THAN 40% DISABILITY AND HAVING DIFFICULTY IN WRITING.",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "APPENDIX- II LETTER OF UNDERTAKING BY THE PERSON WITH SPECIFIED DISABILITY COVERED UNDER THE DEFINITION OF SECTION 2 (s) OF THE RPwD ACT, 2016 BUT NOT COVERED UNDER THE DEFINITION OF SECTION 2(r) OF THE SAID ACT, i.e. PERSONS HAVING LESS THAN 40% DISABILITY AND HAVING DISABILITY IN WRITING.",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "4": {
+      "chunk_index": 4,
+      "entities": [
+        {
+          "name": "CRP CSA -XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Customer Service Associate (CSA)",
+          "type": "POST"
+        },
+        {
+          "name": "Participating Public Sector Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA -XVI",
+          "relation": "OFFERS",
+          "tail": "Customer Service Associate (CSA)"
+        }
+      ],
+      "error": null
+    },
+    "5": {
+      "chunk_index": 5,
+      "entities": [
+        {
+          "name": "Online Preliminary Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Customer Service Associates (Clerical cadre posts)",
+          "type": "POST"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Preliminary Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Main Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Preliminary Examination",
+          "relation": "OFFERS",
+          "tail": "Customer Service Associates (Clerical cadre posts)"
+        },
+        {
+          "head": "Online Main Examination",
+          "relation": "OFFERS",
+          "tail": "Customer Service Associates (Clerical cadre posts)"
+        }
+      ],
+      "error": null
+    },
+    "6": {
+      "chunk_index": 6,
+      "entities": [
+        {
+          "name": "Online Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Customer Service Associate (CSA)",
+          "type": "POST"
+        },
+        {
+          "name": "Bank of Baroda",
+          "type": "ORG"
+        },
+        {
+          "name": "Canara Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Indian Overseas Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Central Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Punjab National Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Union Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Bank of Maharashtra",
+          "type": "ORG"
+        },
+        {
+          "name": "Indian Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Punjab & Sind Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Examination",
+          "relation": "OFFERS",
+          "tail": "Customer Service Associate (CSA)"
+        }
+      ],
+      "error": null
+    },
+    "7": {
+      "chunk_index": 7,
+      "entities": [
+        {
+          "name": "CRP CSA-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "8": {
+      "chunk_index": 8,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "9": {
+      "chunk_index": 9,
+      "entities": [
+        {
+          "name": "20-28 years as on 01.08.2026",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "certificate of eligibility",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "10": {
+      "chunk_index": 10,
+      "entities": [
+        {
+          "name": "5 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "3 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "10 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "actual period of service rendered  in the defence forces  + 3 years (8 years for Disabled Ex -Servicemen belonging to SC/ST) subject to a maximu m age limit of 50 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "age concession upto the age of 35 years for General/EWS, 38 years for OBC and 40 years for SC/ST candidates",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "11": {
+      "chunk_index": 11,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Bank(s)",
+          "type": "ORG"
+        },
+        {
+          "name": "Caste / Category Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "12": {
+      "chunk_index": 12,
+      "entities": [
+        {
+          "name": "OBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "EWS certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "01.04.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "13": {
+      "chunk_index": 13,
+      "entities": [
+        {
+          "name": "14.08.2014",
+          "type": "DATE"
+        },
+        {
+          "name": "20.08.2027",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "14": {
+      "chunk_index": 14,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "15": {
+      "chunk_index": 15,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "16": {
+      "chunk_index": 16,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "17": {
+      "chunk_index": 17,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "18": {
+      "chunk_index": 18,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Competent Authority",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "19": {
+      "chunk_index": 19,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Social Justice and Empowerment",
+          "type": "ORG"
+        },
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "UDID card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "February 26, 2013",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "20": {
+      "chunk_index": 20,
+      "entities": [
+        {
+          "name": "Government of India, Ministry of Social Justice and Empowerment, Department of Disability Affairs",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India, Ministry of Finance, Department of Financial Services",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India, Ministry of Social Justice and Empowerment, Department of Empowerment of Persons with Disabilities (Divyangjan)",
+          "type": "ORG"
+        },
+        {
+          "name": "F ebruary 26, 2013",
+          "type": "DATE"
+        },
+        {
+          "name": "26.04.2013",
+          "type": "DATE"
+        },
+        {
+          "name": "10.08.2022",
+          "type": "DATE"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "21": {
+      "chunk_index": 21,
+      "entities": [
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Letter of undertaking as per Appendix II",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "22": {
+      "chunk_index": 22,
+      "entities": [
+        {
+          "name": "CRP -CSA-XVI",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "23": {
+      "chunk_index": 23,
+      "entities": [
+        {
+          "name": "CRP Examinations",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "24": {
+      "chunk_index": 24,
+      "entities": [
+        {
+          "name": "CRP examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "valid Aadhaar card",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "25": {
+      "chunk_index": 25,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities",
+          "type": "ORG"
+        },
+        {
+          "name": "17.12.2025",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "26": {
+      "chunk_index": 26,
+      "entities": [
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (Divyangjan)",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Social Justice and Empowerment",
+          "type": "ORG"
+        },
+        {
+          "name": "Govt of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India, Ministry of Home Affairs, Department of Personnel & Administrative Reforms",
+          "type": "ORG"
+        },
+        {
+          "name": "17.12.2025",
+          "type": "DATE"
+        },
+        {
+          "name": "27.10.1986",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "27": {
+      "chunk_index": 27,
+      "entities": [
+        {
+          "name": "affidavit",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "28": {
+      "chunk_index": 28,
+      "entities": [
+        {
+          "name": "20.08.2027",
+          "type": "DATE"
+        },
+        {
+          "name": "certificate as per Proforma ‘A' attached to this notification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate (Proforma ‘B’)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "declaration (Proforma ‘C’)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "release letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "discharge certificate/booklet",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "29": {
+      "chunk_index": 29,
+      "entities": [
+        {
+          "name": "20.08.2027",
+          "type": "DATE"
+        },
+        {
+          "name": "15.11.1986",
+          "type": "DATE"
+        },
+        {
+          "name": "14.08.2014",
+          "type": "DATE"
+        },
+        {
+          "name": "certificate as per Proforma ‘D’",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "30": {
+      "chunk_index": 30,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "31": {
+      "chunk_index": 31,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "A Degree (Graduation) in any discipline from a University recognised by the Govt. Of India or any equivalent qualification recognized as such by the Central Government.",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "32": {
+      "chunk_index": 32,
+      "entities": [
+        {
+          "name": "any equivalent qualification recognized as such by the Central Government",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "graduate",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Certificate/Diploma/Degree in computer operations/Language",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "studied Computer / Information Technology as one of the subjects in the High School/College/Institute",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Army Special Certificate of Education",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "corresponding certificate in the Navy or Air Force",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mark-sheet / Degree Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "21.08.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "33": {
+      "chunk_index": 33,
+      "entities": [
+        {
+          "name": "21.08.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Proper document from Board / University",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "34": {
+      "chunk_index": 34,
+      "entities": [
+        {
+          "name": "01.08.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "21.08.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "certificate issued by the appropriate authority",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "documentary proof of the criteria for conversion into percentage",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "35": {
+      "chunk_index": 35,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "01.08.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "21.08.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Rs. 175/- (inclusive of GST) for SC/ST/PwBD/ESM/DESM candidates",
+          "type": "FEE"
+        },
+        {
+          "name": "Rs. 850 /- (inclusive of GST) for all others",
+          "type": "FEE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "36": {
+      "chunk_index": 36,
+      "entities": [
+        {
+          "name": "CRP CSA XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "37": {
+      "chunk_index": 37,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "38": {
+      "chunk_index": 38,
+      "entities": [
+        {
+          "name": "Valid Call Letter for the respective date and session of Examination",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo-identity proof (as specified) in original bearing the same name as it appears on the call letter/ application form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "authenticated/stamped copy of the ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "authenticated/stamped call letter of Online Preliminary Exam",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "39": {
+      "chunk_index": 39,
+      "entities": [
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Preliminary",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "40": {
+      "chunk_index": 40,
+      "entities": [
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Local Language Proficiency Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Main Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Local Language Proficiency Test",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "41": {
+      "chunk_index": 41,
+      "entities": [
+        {
+          "name": "Online Preliminary exams",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main exams",
+          "type": "EXAM"
+        },
+        {
+          "name": "language test",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Preliminary exams",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Main exams",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "42": {
+      "chunk_index": 42,
+      "entities": [
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Main Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "43": {
+      "chunk_index": 43,
+      "entities": [
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Main Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "44": {
+      "chunk_index": 44,
+      "entities": [
+        {
+          "name": "caste certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "45": {
+      "chunk_index": 45,
+      "entities": [
+        {
+          "name": "Allotted Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "46": {
+      "chunk_index": 46,
+      "entities": [
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "47": {
+      "chunk_index": 47,
+      "entities": [
+        {
+          "name": "CRP CSA - XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "48": {
+      "chunk_index": 48,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "SC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ST certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "EWS certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PwBD certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PwSD certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proforma A",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proforma B",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proforma C",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proforma D",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Ex-Servicemen",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "49": {
+      "chunk_index": 49,
+      "entities": [
+        {
+          "name": "CRP CSA-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Valid system generated printout of the online application form registered for CRP CSA-XVI.",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proof of Date of Birth (Birth Certificate issued by the Competent Authorities or SSLC/ Std. X Certificate with DOB).",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo Identify Proof as indicated in Point L (i) of the notification.",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Mark-sheets & certificates for Graduation or equivalent qualification etc.",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "10th standard or above mark sheet/ certificate evidencing having studied the specified/ opted local language.",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Caste Certificate issued by the competent authority in the prescribed format as stipulated by Government of India in the case of SC / ST / OBC category candidates.",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Graduation or equivalent qualification",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "50": {
+      "chunk_index": 50,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate in case of persons with specified disability covered under the definition of Section 2 (s) of the RPwD Act, 2016 but not covered under the definition of Section 2 (r) of the said Act, i.e. persons having less than 40 % disability and having difficulty in writing, to the effect that person concerned has limitation to write and that scribe is essential to write examination on his/her behalf from competent medical authority of a Government healthcare institution as per proforma attached as Appendix I",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "51": {
+      "chunk_index": 51,
+      "entities": [
+        {
+          "name": "20.08.2027",
+          "type": "DATE"
+        },
+        {
+          "name": "certificate as per Proforma A",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "discharge Certificate / pension payment order",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "documentary proof of rank last / presently held (substantive as well as acting) at the time of joining",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proforma B",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "declaration in Proforma C",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as per Proforma D",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "release letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-declaration form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "affidavit",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "documentary proof showing that they are Dependents of Servicemen killed in action or severely disabled",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "52": {
+      "chunk_index": 52,
+      "entities": [
+        {
+          "name": "affidavit stating that the relaxation is availed by one dependent of Ex-Servicemen or not availed by any Dependent of Servicemen killed in action or severely disabled",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "No Objection Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Death certificate of husband",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "affidavit/ declaration that they are not remarried",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Experience certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate of eligibility issued by the Govt. of India",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Any other relevant documents in support of eligibility",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "53": {
+      "chunk_index": 53,
+      "entities": [
+        {
+          "name": "CRP CSA XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Participating Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Educational Qualification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Caste Certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC Non Creamy Layer certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "EWS Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "54": {
+      "chunk_index": 54,
+      "entities": [
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Permanent Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter’s Card with photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bank Passbook with photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo identity proof issued by a Gazetted Officer or People’s Representative on official letterhead",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Identity Card issued by a recognised college or university",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "E-Aadhaar card with a photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Employee ID",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bar Council Identity card with photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Ration Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Learner’s Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Gazette notification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "marriage certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "affidavit",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "55": {
+      "chunk_index": 55,
+      "entities": [
+        {
+          "name": "original Gazette notification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "original marriage certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "affidavit",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "56": {
+      "chunk_index": 56,
+      "entities": [
+        {
+          "name": "Online Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Biometric verification authority",
+          "type": "ORG"
+        },
+        {
+          "name": "Aadhaar card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photo identity proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Examination call letter",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "57": {
+      "chunk_index": 57,
+      "entities": [
+        {
+          "name": "Online Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "information handout",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "58": {
+      "chunk_index": 58,
+      "entities": [
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "information handout",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Rs. 175/- (inclusive of GST) for SC/ST/PwBD/ESM/ DESM candidates",
+          "type": "FEE"
+        },
+        {
+          "name": "Rs. 850 /- (inclusive of GST) for all others",
+          "type": "FEE"
+        },
+        {
+          "name": "01.08.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "21.08.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "59": {
+      "chunk_index": 59,
+      "entities": [
+        {
+          "name": "CRP - Customer Service Associates (CRP-CSA-XVI)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Customer Service Associates",
+          "type": "POST"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Left Thumb Impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate as mentioned in Clause K (ix) - (if applicable)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th Standard or Equivalent Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP - Customer Service Associates (CRP-CSA-XVI)",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP - Customer Service Associates (CRP-CSA-XVI)",
+          "relation": "OFFERS",
+          "tail": "Customer Service Associates"
+        },
+        {
+          "head": "Customer Service Associates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Photograph"
+        },
+        {
+          "head": "Customer Service Associates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Signature"
+        },
+        {
+          "head": "Customer Service Associates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Left Thumb Impression"
+        },
+        {
+          "head": "Customer Service Associates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "hand written declaration"
+        },
+        {
+          "head": "Customer Service Associates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Certificate as mentioned in Clause K (ix) - (if applicable)"
+        },
+        {
+          "head": "Customer Service Associates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "SSC/ SSLC/ 10th Standard or Equivalent Certificate"
+        }
+      ],
+      "error": null
+    },
+    "60": {
+      "chunk_index": 60,
+      "entities": [
+        {
+          "name": "Certificate as mentioned in Clause K (ix) - (if applicable)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th Standard or Equivalent Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Educational Qualification Documents",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "61": {
+      "chunk_index": 61,
+      "entities": [
+        {
+          "name": "Aadhaar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Educational Qualification Documents",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "62": {
+      "chunk_index": 62,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "63": {
+      "chunk_index": 63,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "64": {
+      "chunk_index": 64,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "65": {
+      "chunk_index": 65,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "passport size photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signa ture",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/SSLC/10 th Standard or Equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as mentioned in Clause K (ix) - if applicable",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "66": {
+      "chunk_index": 66,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "67": {
+      "chunk_index": 67,
+      "entities": [
+        {
+          "name": "Rs. 200/- (inclusive of GST)",
+          "type": "FEE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "68": {
+      "chunk_index": 68,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "valid call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photocopy of photo-identity proof",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "69": {
+      "chunk_index": 69,
+      "entities": [
+        {
+          "name": "online preliminary examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "authenticated/stamped call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "authenticated/stamped copy of photo ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "scribe form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "additional photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "70": {
+      "chunk_index": 70,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "CRP examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Preliminary examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Participating Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Preliminary examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Main examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "71": {
+      "chunk_index": 71,
+      "entities": [
+        {
+          "name": "CRP CSA-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Nodal Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "remittance",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "document",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "72": {
+      "chunk_index": 72,
+      "entities": [
+        {
+          "name": "CRP CSA-XVI",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "73": {
+      "chunk_index": 73,
+      "entities": [
+        {
+          "name": "Online Examination (Preliminary & Main)",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "application fee/ intimation charges",
+          "type": "FEE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Examination (Preliminary & Main)",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Examination (Preliminary & Main)",
+          "relation": "APPLICATION_FEE",
+          "tail": "application fee/ intimation charges"
+        }
+      ],
+      "error": null
+    },
+    "74": {
+      "chunk_index": 74,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "handwritten declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC or SSLC or 10th Standard or Equivalent Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "75": {
+      "chunk_index": 75,
+      "entities": [
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC /10th Standard or Equivalent Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "76": {
+      "chunk_index": 76,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Nodal Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Allotted Participating Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "77": {
+      "chunk_index": 77,
+      "entities": [
+        {
+          "name": "CRP CSA-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "78": {
+      "chunk_index": 78,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "79": {
+      "chunk_index": 79,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "80": {
+      "chunk_index": 80,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "81": {
+      "chunk_index": 81,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "examination",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "82": {
+      "chunk_index": 82,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "83": {
+      "chunk_index": 83,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "84": {
+      "chunk_index": 84,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "85": {
+      "chunk_index": 85,
+      "entities": [
+        {
+          "name": "CRP CSA-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP CSA-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Banks"
+        }
+      ],
+      "error": null
+    },
+    "86": {
+      "chunk_index": 86,
+      "entities": [
+        {
+          "name": "Online Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "scribe form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "information handout",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Preliminary Exam",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "87": {
+      "chunk_index": 87,
+      "entities": [
+        {
+          "name": "Main Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "information handout",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "88": {
+      "chunk_index": 88,
+      "entities": [
+        {
+          "name": "CRP CSA-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "CSA",
+          "type": "POST"
+        },
+        {
+          "name": "01.08.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP CSA-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP CSA-XVI",
+          "relation": "OFFERS",
+          "tail": "CSA"
+        }
+      ],
+      "error": null
+    },
+    "89": {
+      "chunk_index": 89,
+      "entities": [
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "90": {
+      "chunk_index": 90,
+      "entities": [
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "91": {
+      "chunk_index": 91,
+      "entities": [
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "92": {
+      "chunk_index": 92,
+      "entities": [
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "93": {
+      "chunk_index": 93,
+      "entities": [
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "94": {
+      "chunk_index": 94,
+      "entities": [
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "95": {
+      "chunk_index": 95,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "96": {
+      "chunk_index": 96,
+      "entities": [
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "97": {
+      "chunk_index": 97,
+      "entities": [
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "98": {
+      "chunk_index": 98,
+      "entities": [
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "99": {
+      "chunk_index": 99,
+      "entities": [
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "100": {
+      "chunk_index": 100,
+      "entities": [
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "101": {
+      "chunk_index": 101,
+      "entities": [
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "102": {
+      "chunk_index": 102,
+      "entities": [
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "103": {
+      "chunk_index": 103,
+      "entities": [
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "104": {
+      "chunk_index": 104,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "105": {
+      "chunk_index": 105,
+      "entities": [
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        },
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "106": {
+      "chunk_index": 106,
+      "entities": [
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "107": {
+      "chunk_index": 107,
+      "entities": [
+        {
+          "name": "CANARA BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "CENTRAL BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "INDIAN OVERSEAS BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB NATIONAL BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "PUNJAB & SIND BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UCO BANK",
+          "type": "ORG"
+        },
+        {
+          "name": "UNION BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF BARODA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "BANK OF MAHARASHTRA",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "108": {
+      "chunk_index": 108,
+      "entities": [
+        {
+          "name": "Preliminary and Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Preliminary and Main Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "109": {
+      "chunk_index": 109,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "110": {
+      "chunk_index": 110,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "111": {
+      "chunk_index": 111,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "112": {
+      "chunk_index": 112,
+      "entities": [
+        {
+          "name": "LLPT",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "113": {
+      "chunk_index": 113,
+      "entities": [
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as mentioned in Clause K (ix)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "114": {
+      "chunk_index": 114,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "115": {
+      "chunk_index": 115,
+      "entities": [
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Left Thumb Impression",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "116": {
+      "chunk_index": 116,
+      "entities": [
+        {
+          "name": "Left Thumb Impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Hand-written declaration Image",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "117": {
+      "chunk_index": 117,
+      "entities": [
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Certificate as mentioned in Clause K (ix)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "118": {
+      "chunk_index": 118,
+      "entities": [
+        {
+          "name": "photo",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "attendance sheet",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Call letter",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "119": {
+      "chunk_index": 119,
+      "entities": [
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate mentioned in Clause K (ix)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "120": {
+      "chunk_index": 120,
+      "entities": [
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as mentioned in Clause K (ix)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "121": {
+      "chunk_index": 121,
+      "entities": [
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "122": {
+      "chunk_index": 122,
+      "entities": [
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as mentioned in Clause K (ix)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM- SC/ST",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "123": {
+      "chunk_index": 123,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "124": {
+      "chunk_index": 124,
+      "entities": [
+        {
+          "name": "Scheduled Castes / Scheduled Tribes Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "125": {
+      "chunk_index": 125,
+      "entities": [
+        {
+          "name": "District Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Additional District Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Collector",
+          "type": "POST"
+        },
+        {
+          "name": "Deputy Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Additional Deputy Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Deputy Collector",
+          "type": "POST"
+        },
+        {
+          "name": "I Class Stipendiary Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "City Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Sub-Divisional Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Extra-Asst. Commissioner (not below the rank of 1st Class Stipendary Magistrate)",
+          "type": "POST"
+        },
+        {
+          "name": "Taluka",
+          "type": "POST"
+        },
+        {
+          "name": "Caste / Tribe Certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "126": {
+      "chunk_index": 126,
+      "entities": [
+        {
+          "name": "Magistrate / Extra-Asst. Commissioner (not below the rank of 1 st Class Stipendary Magistrate)",
+          "type": "POST"
+        },
+        {
+          "name": "Taluka Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Executive Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Chief Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Additional Chief Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Revenue Officer not below the rank of Tehsildar",
+          "type": "POST"
+        },
+        {
+          "name": "Sub-Divisional Officers of the area where the candidate and / or his family normally resides",
+          "type": "POST"
+        },
+        {
+          "name": "Administrator",
+          "type": "POST"
+        },
+        {
+          "name": "Secretary to Administrator",
+          "type": "POST"
+        },
+        {
+          "name": "Development Officer (Lakshadweep Islands)",
+          "type": "POST"
+        },
+        {
+          "name": "OBC (Non- creamy layer) certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "01.04.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Magistrate / Extra-Asst. Commissioner (not below the rank of 1 st Class Stipendary Magistrate)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Taluka Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Executive Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Chief Presidency Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Additional Chief Presidency Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Presidency Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Revenue Officer not below the rank of Tehsildar",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Sub-Divisional Officers of the area where the candidate and / or his family normally resides",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Administrator",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Secretary to Administrator",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Development Officer (Lakshadweep Islands)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        }
+      ],
+      "error": null
+    },
+    "127": {
+      "chunk_index": 127,
+      "entities": [
+        {
+          "name": "10/09/93",
+          "type": "DATE"
+        },
+        {
+          "name": "13/09/93",
+          "type": "DATE"
+        },
+        {
+          "name": "19/10/94",
+          "type": "DATE"
+        },
+        {
+          "name": "20/10/94",
+          "type": "DATE"
+        },
+        {
+          "name": "24/05/95",
+          "type": "DATE"
+        },
+        {
+          "name": "25/05/95",
+          "type": "DATE"
+        },
+        {
+          "name": "09/03/96",
+          "type": "DATE"
+        },
+        {
+          "name": "06/12/96",
+          "type": "DATE"
+        },
+        {
+          "name": "11/12/96",
+          "type": "DATE"
+        },
+        {
+          "name": "03/12/97",
+          "type": "DATE"
+        },
+        {
+          "name": "11/12/97",
+          "type": "DATE"
+        },
+        {
+          "name": "27/10/99",
+          "type": "DATE"
+        },
+        {
+          "name": "06/12/99",
+          "type": "DATE"
+        },
+        {
+          "name": "04/04/2000",
+          "type": "DATE"
+        },
+        {
+          "name": "21/09/2000",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "128": {
+      "chunk_index": 128,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "129": {
+      "chunk_index": 129,
+      "entities": [
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income & Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "2026-27",
+          "type": "DATE"
+        },
+        {
+          "name": "2025-26",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "130": {
+      "chunk_index": 130,
+      "entities": [
+        {
+          "name": "INCOME & ASSET CERTIFICATE",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "131": {
+      "chunk_index": 131,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Recent Passport size attested photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "132": {
+      "chunk_index": 132,
+      "entities": [
+        {
+          "name": "Recent Passport size attested photograph of the applicant",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate of Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Recent passport size attested photograph (Showing face only) of the person with disability",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "133": {
+      "chunk_index": 133,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "134": {
+      "chunk_index": 134,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "135": {
+      "chunk_index": 135,
+      "entities": [
+        {
+          "name": "Medical Authority",
+          "type": "ORG"
+        },
+        {
+          "name": "proof of residence",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "136": {
+      "chunk_index": 136,
+      "entities": [
+        {
+          "name": "Recent passport size Attested Photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "137": {
+      "chunk_index": 137,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "138": {
+      "chunk_index": 138,
+      "entities": [
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Medical Authority",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "139": {
+      "chunk_index": 139,
+      "entities": [
+        {
+          "name": "Military Secretary Branch, Army HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Directorate of Personnel, Naval HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Directorate of Personnel Officers, Air HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Various Regimental Record Offices",
+          "type": "ORG"
+        },
+        {
+          "name": "CABS, Mumbai",
+          "type": "ORG"
+        },
+        {
+          "name": "Air Force Records, New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "140": {
+      "chunk_index": 140,
+      "entities": [
+        {
+          "name": "20.08.2027",
+          "type": "DATE"
+        },
+        {
+          "name": "Army",
+          "type": "ORG"
+        },
+        {
+          "name": "Navy",
+          "type": "ORG"
+        },
+        {
+          "name": "Air Force",
+          "type": "ORG"
+        },
+        {
+          "name": "Military Secretary Branch, Army HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Directorate of Personnel, Naval HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Directorate of Personnel Officers, Air HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "CABS, Mumbai",
+          "type": "ORG"
+        },
+        {
+          "name": "Air Force Records, New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Form of Certificate for Serving Personnel",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "141": {
+      "chunk_index": 141,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "142": {
+      "chunk_index": 142,
+      "entities": [
+        {
+          "name": "Army",
+          "type": "ORG"
+        },
+        {
+          "name": "Navy",
+          "type": "ORG"
+        },
+        {
+          "name": "Air Force",
+          "type": "ORG"
+        },
+        {
+          "name": "Military Secretary Branch, Army HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Directorate of Personnel, Naval HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Directorate of Personnel Officers, Air HQrs., New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "CABS, Mumbai",
+          "type": "ORG"
+        },
+        {
+          "name": "Air Force Records, New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PROFORMA - D",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "143": {
+      "chunk_index": 143,
+      "entities": [
+        {
+          "name": "JCOs/ORs",
+          "type": "POST"
+        },
+        {
+          "name": "Army",
+          "type": "ORG"
+        },
+        {
+          "name": "Navy",
+          "type": "ORG"
+        },
+        {
+          "name": "Air Force",
+          "type": "ORG"
+        },
+        {
+          "name": "CABS, Mumbai",
+          "type": "ORG"
+        },
+        {
+          "name": "Air Force Records, New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "various Regimental Record Offices",
+          "type": "ORG"
+        },
+        {
+          "name": "Certificate for person with specified disability covered under the definition of Section 2(s) of the RPwD Act, 2016",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "144": {
+      "chunk_index": 144,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "145": {
+      "chunk_index": 145,
+      "entities": [],
+      "relations": [],
+      "error": null
+    }
+  }
+}

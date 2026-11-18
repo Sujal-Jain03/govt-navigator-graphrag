@@ -1,0 +1,3573 @@
+{
+  "source_file": "IBPS_PO_MT_XVI_Notification.pdf",
+  "file_hash": "9379acfcad5750585ead182b5b0660fde89b324a8a2fa79dce9a9a9e69f73ebe",
+  "results": {
+    "0": {
+      "chunk_index": 0,
+      "entities": [
+        {
+          "name": "CRP PO/MT -XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Management Trainee",
+          "type": "POST"
+        },
+        {
+          "name": "Institute of Banking Personnel Selection (IBPS)",
+          "type": "ORG"
+        },
+        {
+          "name": "21-07-2026",
+          "type": "DATE"
+        },
+        {
+          "name": "August, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "September, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "October, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP PO/MT -XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "Institute of Banking Personnel Selection (IBPS)"
+        },
+        {
+          "head": "CRP PO/MT -XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        },
+        {
+          "head": "CRP PO/MT -XVI",
+          "relation": "OFFERS",
+          "tail": "Management Trainee"
+        },
+        {
+          "head": "CRP PO/MT -XVI",
+          "relation": "LAST_DATE",
+          "tail": "21-07-2026"
+        },
+        {
+          "head": "CRP PO/MT -XVI",
+          "relation": "EXAM_DATE",
+          "tail": "August, 2026"
+        },
+        {
+          "head": "CRP PO/MT -XVI",
+          "relation": "EXAM_DATE",
+          "tail": "October, 2026"
+        }
+      ],
+      "error": null
+    },
+    "1": {
+      "chunk_index": 1,
+      "entities": [
+        {
+          "name": "Online examination – Preliminary",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Examination – Main",
+          "type": "EXAM"
+        },
+        {
+          "name": "Declaration of Result- Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Personality Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Conduct of Interview",
+          "type": "EXAM"
+        },
+        {
+          "name": "Provisional Allotment",
+          "type": "EXAM"
+        },
+        {
+          "name": "September, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "October, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "November, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "November/ December, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "January, 2027",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online examination – Preliminary",
+          "relation": "EXAM_DATE",
+          "tail": "September, 2026"
+        },
+        {
+          "head": "Online Examination – Main",
+          "relation": "EXAM_DATE",
+          "tail": "October, 2026"
+        },
+        {
+          "head": "Declaration of Result- Main Examination",
+          "relation": "EXAM_DATE",
+          "tail": "November, 2026"
+        },
+        {
+          "head": "Personality Test",
+          "relation": "EXAM_DATE",
+          "tail": "November, 2026"
+        },
+        {
+          "head": "Conduct of Interview",
+          "relation": "EXAM_DATE",
+          "tail": "November/ December, 2026"
+        },
+        {
+          "head": "Provisional Allotment",
+          "relation": "EXAM_DATE",
+          "tail": "January, 2027"
+        }
+      ],
+      "error": null
+    },
+    "2": {
+      "chunk_index": 2,
+      "entities": [
+        {
+          "name": "CRP PO/MT- XVI",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "3": {
+      "chunk_index": 3,
+      "entities": [
+        {
+          "name": "CRP PO/MT – XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "FORM- SC/ST CERTIFICATE TO BE PRODUCED BY A CANDIDATE BELONGING TO SCHEDULED CASTE OR SCHEDULED TRIBE",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM- OBC CERTIFICATE TO BE PRODUCED BY OTHER BACKWARD CLASSES",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM-EWS INCOME & ASSET CERTIFICATE TO BE PRODUCED BY ECONOMICALLY WEAKER SECTIONS",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM- I CERTIFICATE OF DISABILITY (IN CASES OF AMPUTATION OR COMPLETE PERMANENT PARALYSIS OF LIMBS OR DWARFISM AND IN CASES OF BLINDNESS)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM- II CERTIFICATE OF DISABILITY (IN CASE OF MULTIPLE DISABILITIES)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "FORM- III CERTIFICATE OF DISABILITY ( IN CASES OTHER THAN THOSE MENTIONED IN FORM I AND II)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "CERTIFICATE FOR PERSON WITH SPECIFIED DISABILITY COVERED UNDER THE DEFINITION OF SECTION 2(s) OF THE RPwD ACT, 2016 BUT NOT COVERED UNDER THE DEFINITION OF SECTION 2 (r) OF THE SAID ACT, I.E. PERSONS HAVING LESS THAN 40% DISABILITY AND HAVING DIFFICULTY IN WRITING",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "LETTER OF UNDERTAKING BY THE PERSON WITH SPECIFIED DISABILITY COVERED UNDER THE DEFINITION OF SECTION 2 (s) OF THE RPwD ACT, 2016 BUT NOT COVERED UNDER THE DEFINITION OF SECTION 2(r)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "4": {
+      "chunk_index": 4,
+      "entities": [
+        {
+          "name": "Common Recruitment Process (CRP- PO/MT-XVI)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Management Trainee",
+          "type": "POST"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Public Sector Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Nodal Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Common Recruitment Process (CRP- PO/MT-XVI)",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Common Recruitment Process (CRP- PO/MT-XVI)",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        },
+        {
+          "head": "Common Recruitment Process (CRP- PO/MT-XVI)",
+          "relation": "OFFERS",
+          "tail": "Management Trainee"
+        }
+      ],
+      "error": null
+    },
+    "5": {
+      "chunk_index": 5,
+      "entities": [
+        {
+          "name": "C RP- PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officers",
+          "type": "POST"
+        },
+        {
+          "name": "Management Trainees",
+          "type": "POST"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "IBIS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "C RP- PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBIS"
+        },
+        {
+          "head": "C RP- PO/MT-XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officers"
+        },
+        {
+          "head": "C RP- PO/MT-XVI",
+          "relation": "OFFERS",
+          "tail": "Management Trainees"
+        }
+      ],
+      "error": null
+    },
+    "6": {
+      "chunk_index": 6,
+      "entities": [
+        {
+          "name": "Officers/ Management Trainees",
+          "type": "POST"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Nodal Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Online Preliminary Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Personality Test",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Preliminary Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Main Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "7": {
+      "chunk_index": 7,
+      "entities": [
+        {
+          "name": "CRP-PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Probationary Officer/Management Trainee",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP-PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP-PO/MT-XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer/Management Trainee"
+        }
+      ],
+      "error": null
+    },
+    "8": {
+      "chunk_index": 8,
+      "entities": [
+        {
+          "name": "CRP",
+          "type": "EXAM"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "post",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Banks"
+        },
+        {
+          "head": "CRP",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP",
+          "relation": "OFFERS",
+          "tail": "post"
+        }
+      ],
+      "error": null
+    },
+    "9": {
+      "chunk_index": 9,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "C RP",
+          "type": "EXAM"
+        },
+        {
+          "name": "online examination (Preliminary and Main)",
+          "type": "EXAM"
+        },
+        {
+          "name": "personality test",
+          "type": "EXAM"
+        },
+        {
+          "name": "interview",
+          "type": "EXAM"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Citizen of India",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "subject of Nepal",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "subject of Bhutan",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Tibetan Refugee",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "person of Indian origin",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "21-30 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "01.07.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "C RP",
+          "relation": "CONDUCTED_BY",
+          "tail": "Government of India"
+        },
+        {
+          "head": "C RP",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Banks"
+        },
+        {
+          "head": "online examination (Preliminary and Main)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Government of India"
+        },
+        {
+          "head": "online examination (Preliminary and Main)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Banks"
+        },
+        {
+          "head": "personality test",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Banks"
+        },
+        {
+          "head": "interview",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Banks"
+        },
+        {
+          "head": "Citizen of India",
+          "relation": "REQUIRES",
+          "tail": "C RP"
+        },
+        {
+          "head": "subject of Nepal",
+          "relation": "REQUIRES",
+          "tail": "C RP"
+        },
+        {
+          "head": "subject of Bhutan",
+          "relation": "REQUIRES",
+          "tail": "C RP"
+        },
+        {
+          "head": "Tibetan Refugee",
+          "relation": "REQUIRES",
+          "tail": "C RP"
+        },
+        {
+          "head": "person of Indian origin",
+          "relation": "REQUIRES",
+          "tail": "C RP"
+        },
+        {
+          "head": "21-30 years",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "C RP"
+        },
+        {
+          "head": "01.07.2026",
+          "relation": "EXAM_DATE",
+          "tail": "C RP"
+        }
+      ],
+      "error": null
+    },
+    "10": {
+      "chunk_index": 10,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "01.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "02.07.1996",
+          "type": "DATE"
+        },
+        {
+          "name": "01.07.2006",
+          "type": "DATE"
+        },
+        {
+          "name": "certificate of eligibility",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "20 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "30 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "5 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "3 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "10 years",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "11": {
+      "chunk_index": 11,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Bank(s)",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Civil post & services",
+          "type": "POST"
+        },
+        {
+          "name": "Caste / Category Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Civil post & services",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste / Category Certificate"
+        }
+      ],
+      "error": null
+    },
+    "12": {
+      "chunk_index": 12,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "01.04.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "2026-2027",
+          "type": "DATE"
+        },
+        {
+          "name": "2025-26",
+          "type": "DATE"
+        },
+        {
+          "name": "OBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC (NCL) certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "EWS Category Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-declaration/undertaking",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "13": {
+      "chunk_index": 13,
+      "entities": [
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (Divyangjan)",
+          "type": "ORG"
+        },
+        {
+          "name": "The Rights of Persons with Disabilities Act, 2016",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "RPWD Act 2016",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "14": {
+      "chunk_index": 14,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "15": {
+      "chunk_index": 15,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "16": {
+      "chunk_index": 16,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "17": {
+      "chunk_index": 17,
+      "entities": [
+        {
+          "name": "IBIS",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "UDID cards",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "18": {
+      "chunk_index": 18,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Social Justice and Empowerment",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Disability Affairs",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Finance",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Financial Services",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (Divyangjan)",
+          "type": "ORG"
+        },
+        {
+          "name": "concerned State issuing authority",
+          "type": "ORG"
+        },
+        {
+          "name": "the bank",
+          "type": "ORG"
+        },
+        {
+          "name": "February 26, 2013",
+          "type": "DATE"
+        },
+        {
+          "name": "26.04.2013",
+          "type": "DATE"
+        },
+        {
+          "name": "10.08.2022",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "19": {
+      "chunk_index": 19,
+      "entities": [
+        {
+          "name": "CRP",
+          "type": "EXAM"
+        },
+        {
+          "name": "10.08.2022",
+          "type": "DATE"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "proforma attached as Appendix I",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Letter of undertaking as per Appendix II",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificate"
+        },
+        {
+          "head": "CRP",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "proforma attached as Appendix I"
+        },
+        {
+          "head": "CRP",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Letter of undertaking as per Appendix II"
+        }
+      ],
+      "error": null
+    },
+    "20": {
+      "chunk_index": 20,
+      "entities": [
+        {
+          "name": "CRP",
+          "type": "EXAM"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "20 minutes",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "scribe",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP",
+          "relation": "CONDUCTED_BY",
+          "tail": "Bank"
+        },
+        {
+          "head": "CRP",
+          "relation": "EXAM_DATE",
+          "tail": "20 minutes"
+        },
+        {
+          "head": "CRP",
+          "relation": "OFFERS",
+          "tail": "scribe"
+        }
+      ],
+      "error": null
+    },
+    "21": {
+      "chunk_index": 21,
+      "entities": [
+        {
+          "name": "CRP -PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "test conducting agency",
+          "type": "ORG"
+        },
+        {
+          "name": "scribe",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP -PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "test conducting agency"
+        }
+      ],
+      "error": null
+    },
+    "22": {
+      "chunk_index": 22,
+      "entities": [
+        {
+          "name": "CRP – examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Recruiting agencies",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Aadhaar card",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "23": {
+      "chunk_index": 23,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "24": {
+      "chunk_index": 24,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice and Empowerment, Govt . of India",
+          "type": "ORG"
+        },
+        {
+          "name": "17.12.2025",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "25": {
+      "chunk_index": 25,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "26": {
+      "chunk_index": 26,
+      "entities": [
+        {
+          "name": "Degree (Graduation) in any discipline from a University recognised by the Govt. Of India or any equivalent qualification recognized as such by the Central Government",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "EWS Vacancies",
+          "type": "EXAM"
+        },
+        {
+          "name": "Economically Weaker Section (EWS) Category Candidates",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Economically Weaker Section (EWS) Category Candidates",
+          "relation": "REQUIRES",
+          "tail": "Degree (Graduation) in any discipline from a University recognised by the Govt. Of India or any equivalent qualification recognized as such by the Central Government"
+        },
+        {
+          "head": "Economically Weaker Section (EWS) Category Candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income and Asset Certificate"
+        },
+        {
+          "head": "EWS Vacancies",
+          "relation": "OFFERS",
+          "tail": "Economically Weaker Section (EWS) Category Candidates"
+        }
+      ],
+      "error": null
+    },
+    "27": {
+      "chunk_index": 27,
+      "entities": [
+        {
+          "name": "Degree (Graduation) in any discipline from a University recognised by the Govt. Of India or any equivalent qualification recognized as such by the Central Government",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "valid Mark -sheet / Degree Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "21.07.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "28": {
+      "chunk_index": 28,
+      "entities": [
+        {
+          "name": "University / Institute",
+          "type": "ORG"
+        },
+        {
+          "name": "certificate issued by the appropriate authority",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "29": {
+      "chunk_index": 29,
+      "entities": [
+        {
+          "name": "Examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "Preliminary Examination (Objective Test)",
+          "type": "EXAM"
+        },
+        {
+          "name": "01 .07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "21 .07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Rs. 175/- (inclusive of GST) for SC/ST/PwBD candidates",
+          "type": "FEE"
+        },
+        {
+          "name": "Rs. 850 /- (inclusive of GST) for all others",
+          "type": "FEE"
+        },
+        {
+          "name": "documentary proof",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examinations",
+          "relation": "APPLICATION_FEE",
+          "tail": "Rs. 175/- (inclusive of GST) for SC/ST/PwBD candidates"
+        },
+        {
+          "head": "Examinations",
+          "relation": "APPLICATION_FEE",
+          "tail": "Rs. 850 /- (inclusive of GST) for all others"
+        },
+        {
+          "head": "Examinations",
+          "relation": "LAST_DATE",
+          "tail": "01 .07.2026"
+        },
+        {
+          "head": "Examinations",
+          "relation": "LAST_DATE",
+          "tail": "21 .07.2026"
+        }
+      ],
+      "error": null
+    },
+    "30": {
+      "chunk_index": 30,
+      "entities": [
+        {
+          "name": "English Language",
+          "type": "EXAM"
+        },
+        {
+          "name": "Quantitative Aptitude",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reasoning Ability",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Examination (Objective and Descriptive)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reasoning",
+          "type": "EXAM"
+        },
+        {
+          "name": "General/ Economy/ Banking Awareness / Digital/ Financial Awareness including RBI circulars",
+          "type": "EXAM"
+        },
+        {
+          "name": "English Language",
+          "type": "EXAM"
+        },
+        {
+          "name": "Data Analysis & Interpretation",
+          "type": "EXAM"
+        },
+        {
+          "name": "Descriptive Paper* (Essay and Comprehension)",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "English Language",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Quantitative Aptitude",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Reasoning Ability",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Main Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Main Examination (Objective and Descriptive)",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Reasoning",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "General/ Economy/ Banking Awareness / Digital/ Financial Awareness including RBI circulars",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "English Language",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Data Analysis & Interpretation",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Descriptive Paper* (Essay and Comprehension)",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "31": {
+      "chunk_index": 31,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Valid Call Letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "authenticated/stamped call letter",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "32": {
+      "chunk_index": 32,
+      "entities": [
+        {
+          "name": "Online Preliminary examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Photo-identity proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "33": {
+      "chunk_index": 33,
+      "entities": [
+        {
+          "name": "Online Preliminary",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "Online Preliminary"
+        },
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "Online Main Examination"
+        }
+      ],
+      "error": null
+    },
+    "34": {
+      "chunk_index": 34,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "ONLINE MAIN EXAMINATION",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Preliminary examination",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "ONLINE MAIN EXAMINATION",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Preliminary examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "35": {
+      "chunk_index": 35,
+      "entities": [
+        {
+          "name": "CRP- PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP- PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "36": {
+      "chunk_index": 36,
+      "entities": [
+        {
+          "name": "Online Main Examination of CRP- PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Main Examination of CRP- PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "37": {
+      "chunk_index": 37,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Nodal Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "documents",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "38": {
+      "chunk_index": 38,
+      "entities": [
+        {
+          "name": "CRP- PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Interview Call Letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "online application form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Birth Certificate issued by the Competent Authorities or SSLC/ Std. X Certificate with DOB",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo Identify Proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Mark-sheets or certificates for Graduation or equivalent qualification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "21.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Caste Certificate issued by the competent authority in the prescribed format as stipulated by Government of India",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income and Asset Certificate issued by any one of the Authorities as notified by the Government of India",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "39": {
+      "chunk_index": 39,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "details of the scribe",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Service or Discharge book",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "pension payment order",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "documentary proof of rank",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "20.07.2027",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "40": {
+      "chunk_index": 40,
+      "entities": [
+        {
+          "name": "defence services",
+          "type": "ORG"
+        },
+        {
+          "name": "20.07.2027",
+          "type": "DATE"
+        },
+        {
+          "name": "Government / quasi govt offices/ Public Sector Undertakings",
+          "type": "ORG"
+        },
+        {
+          "name": "No Objection Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Experience certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "defence services",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "No Objection Certificate"
+        },
+        {
+          "head": "Government / quasi govt offices/ Public Sector Undertakings",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "No Objection Certificate"
+        },
+        {
+          "head": "defence services",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Experience certificates"
+        },
+        {
+          "head": "Government / quasi govt offices/ Public Sector Undertakings",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Experience certificates"
+        }
+      ],
+      "error": null
+    },
+    "41": {
+      "chunk_index": 41,
+      "entities": [
+        {
+          "name": "CRP-PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Experience certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate of eligibility",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Eligibility documents",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Educational Qualification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Caste Certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC Non Creamy Layer certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "EWS Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP-PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "42": {
+      "chunk_index": 42,
+      "entities": [
+        {
+          "name": "District Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Additional District Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Collector",
+          "type": "ORG"
+        },
+        {
+          "name": "Deputy Commissioner",
+          "type": "ORG"
+        },
+        {
+          "name": "Additional Deputy Commissioner",
+          "type": "ORG"
+        },
+        {
+          "name": "First Class Stipendiary Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "City Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Sub-Divisional Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Taluk Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Executive Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Extra Assistant Commissioner",
+          "type": "ORG"
+        },
+        {
+          "name": "Chief Presidency Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Additional Chief Presidency Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Presidency Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Revenue Officer",
+          "type": "ORG"
+        },
+        {
+          "name": "Tehsildar",
+          "type": "ORG"
+        },
+        {
+          "name": "Sub-divisional officer",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "43": {
+      "chunk_index": 43,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Deputy Commissioner/Additional Deputy Commissioner/1st Class Stipendiary Magistrate/Sub-Divisional Magistrate/Taluka Magistrate/Executive Magistrate/Extra Assistant Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Chief Presidency Magistrate/Additional Chief Presidency Magistrate/Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Revenue Officer not below the rank of Tehsildar",
+          "type": "POST"
+        },
+        {
+          "name": "Sub-Divisional Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Medical Board at the District level consisting of Chief Medical Officer, Sub-Divisional Medical Officer in the District and an Orthopaedic/Ophthalmic/ENT Surgeon",
+          "type": "ORG"
+        },
+        {
+          "name": "GOI guidelines",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "Medical Board at the District level consisting of Chief Medical Officer, Sub-Divisional Medical Officer in the District and an Orthopaedic/Ophthalmic/ENT Surgeon"
+        }
+      ],
+      "error": null
+    },
+    "44": {
+      "chunk_index": 44,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Govt. of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Govt. Guidelines",
+          "type": "ORG"
+        },
+        {
+          "name": "financial year 2027-28",
+          "type": "DATE"
+        },
+        {
+          "name": "Edit Window for Candidates to Modify / Correct Application form",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Banks"
+        },
+        {
+          "head": "Participating Banks",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Govt. of India",
+          "relation": "CONDUCTED_BY",
+          "tail": "Govt. Guidelines"
+        },
+        {
+          "head": "financial year 2027-28",
+          "relation": "EXAM_DATE",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Edit Window for Candidates to Modify / Correct Application form",
+          "relation": "LAST_DATE",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "45": {
+      "chunk_index": 45,
+      "entities": [
+        {
+          "name": "CRP PO/MT XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP PO/MT XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        },
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste Certificate"
+        }
+      ],
+      "error": null
+    },
+    "46": {
+      "chunk_index": 46,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "47": {
+      "chunk_index": 47,
+      "entities": [
+        {
+          "name": "CRP- PO/MT XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP- PO/MT XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "48": {
+      "chunk_index": 48,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "examination hall",
+          "type": "DATE"
+        },
+        {
+          "name": "time of interview",
+          "type": "DATE"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Permanent Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter’s Card with photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bank Passbook with photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo identity proof issued by a Gazetted Officer",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Identity Card issued by a recognised college or university",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "Participating Bank"
+        },
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "examination hall"
+        },
+        {
+          "head": "IBPS",
+          "relation": "CONDUCTED_BY",
+          "tail": "time of interview"
+        },
+        {
+          "head": "call letter",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "PAN Card"
+        },
+        {
+          "head": "call letter",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Passport"
+        },
+        {
+          "head": "call letter",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Permanent Driving License"
+        },
+        {
+          "head": "call letter",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Voter’s Card with photograph"
+        },
+        {
+          "head": "call letter",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Bank Passbook with photograph"
+        },
+        {
+          "head": "call letter",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Photo identity proof issued by a Gazetted Officer"
+        },
+        {
+          "head": "call letter",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Identity Card issued by a recognised college or university"
+        }
+      ],
+      "error": null
+    },
+    "49": {
+      "chunk_index": 49,
+      "entities": [
+        {
+          "name": "Gazetted Officer",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "People's Representative",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo identity proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "official letterhead",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Identity Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "recognised college or university",
+          "type": "ORG"
+        },
+        {
+          "name": "Aadhaar card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "E -Aadhaar card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Employee ID",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bar Counc il Identity card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Ration Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Learner's Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Gazette notification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "marriage certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "affidavit",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "50": {
+      "chunk_index": 50,
+      "entities": [
+        {
+          "name": "IBPS/participating banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Aadhaar card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photo identity proof",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "51": {
+      "chunk_index": 51,
+      "entities": [
+        {
+          "name": "Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Interview Call Letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Examination call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photo identity proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "scribe form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Information Handout",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Call letter",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "52": {
+      "chunk_index": 52,
+      "entities": [
+        {
+          "name": "Main Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Preliminary Exam call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Main Exam call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "authenticated/stamped call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "authenticated/stamped photocopy of ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "rough sheets",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "information handout",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "53": {
+      "chunk_index": 53,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "C RP PO/MT",
+          "type": "EXAM"
+        },
+        {
+          "name": "CRP- PROBATIONARY OFFICERS/ MANAGEMENT TRAINEES (CRP-PO/MT-XVI)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Management Trainee",
+          "type": "POST"
+        },
+        {
+          "name": "01.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "21.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Rs. 175/- (inclusive of GST)",
+          "type": "FEE"
+        },
+        {
+          "name": "Rs. 850 /- (inclusive of GST)",
+          "type": "FEE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "C RP PO/MT",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP- PROBATIONARY OFFICERS/ MANAGEMENT TRAINEES (CRP-PO/MT-XVI)",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP- PROBATIONARY OFFICERS/ MANAGEMENT TRAINEES (CRP-PO/MT-XVI)",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        },
+        {
+          "head": "CRP- PROBATIONARY OFFICERS/ MANAGEMENT TRAINEES (CRP-PO/MT-XVI)",
+          "relation": "OFFERS",
+          "tail": "Management Trainee"
+        },
+        {
+          "head": "CRP- PROBATIONARY OFFICERS/ MANAGEMENT TRAINEES (CRP-PO/MT-XVI)",
+          "relation": "APPLICATION_FEE",
+          "tail": "Rs. 175/- (inclusive of GST)"
+        },
+        {
+          "head": "CRP- PROBATIONARY OFFICERS/ MANAGEMENT TRAINEES (CRP-PO/MT-XVI)",
+          "relation": "APPLICATION_FEE",
+          "tail": "Rs. 850 /- (inclusive of GST)"
+        },
+        {
+          "head": "CRP- PROBATIONARY OFFICERS/ MANAGEMENT TRAINEES (CRP-PO/MT-XVI)",
+          "relation": "LAST_DATE",
+          "tail": "21.07.2026"
+        }
+      ],
+      "error": null
+    },
+    "54": {
+      "chunk_index": 54,
+      "entities": [
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "A hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate as mentioned in clause J (ix) (if applicable)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Guidelines for Scanning and Upload of documents (Annexure III)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "55": {
+      "chunk_index": 55,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "56": {
+      "chunk_index": 56,
+      "entities": [
+        {
+          "name": "Data Protection Act, 2023",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Online Application",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "COMPLETE REGISTRATION",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Online Payment",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "application form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificates/mark sheets",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "57": {
+      "chunk_index": 57,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "58": {
+      "chunk_index": 58,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "59": {
+      "chunk_index": 59,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "CRP",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "60": {
+      "chunk_index": 60,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "61": {
+      "chunk_index": 61,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "62": {
+      "chunk_index": 62,
+      "entities": [
+        {
+          "name": "Rs. 200/-",
+          "type": "FEE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "63": {
+      "chunk_index": 63,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "valid call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photocopy and original of photo-identity proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo ID proof",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "64": {
+      "chunk_index": 64,
+      "entities": [
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "scribe form",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "65": {
+      "chunk_index": 65,
+      "entities": [
+        {
+          "name": "Online Preliminary and Main examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "CRP examinations",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Preliminary and Main examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "66": {
+      "chunk_index": 66,
+      "entities": [
+        {
+          "name": "CRP-PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "CRP PO/MT XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "remittance",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "document",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP-PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP PO/MT XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "67": {
+      "chunk_index": 67,
+      "entities": [
+        {
+          "name": "CRP PO/MT XVI",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "68": {
+      "chunk_index": 68,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "69": {
+      "chunk_index": 69,
+      "entities": [
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "handwritten declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "online application form",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "70": {
+      "chunk_index": 70,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "71": {
+      "chunk_index": 71,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Central / State Government",
+          "type": "ORG"
+        },
+        {
+          "name": "Corporations",
+          "type": "ORG"
+        },
+        {
+          "name": "Public Undertakings / Local Government",
+          "type": "ORG"
+        },
+        {
+          "name": "Institutions and Panchayats",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "72": {
+      "chunk_index": 72,
+      "entities": [
+        {
+          "name": "CRP- PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Participating Banks",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "73": {
+      "chunk_index": 73,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "valid Aadhaar card",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "74": {
+      "chunk_index": 74,
+      "entities": [
+        {
+          "name": "online examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "online examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "75": {
+      "chunk_index": 75,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "76": {
+      "chunk_index": 76,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "77": {
+      "chunk_index": 77,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "78": {
+      "chunk_index": 78,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "79": {
+      "chunk_index": 79,
+      "entities": [
+        {
+          "name": "Online Preliminary",
+          "type": "EXAM"
+        },
+        {
+          "name": "Online Main examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "Personality Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "interview",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online Preliminary",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Online Main examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Personality Test",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "interview",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "80": {
+      "chunk_index": 80,
+      "entities": [
+        {
+          "name": "C RP-PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Information Handout",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "online Main examination call letter",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "C RP-PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        }
+      ],
+      "error": null
+    },
+    "81": {
+      "chunk_index": 81,
+      "entities": [
+        {
+          "name": "Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Main examination call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Information Handout",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "information handout",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Call letter",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "82": {
+      "chunk_index": 82,
+      "entities": [
+        {
+          "name": "CRP- PO/MT-XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officers/ Management Trainees",
+          "type": "POST"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "CRP PO/MT XVI",
+          "type": "EXAM"
+        },
+        {
+          "name": "01.07.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CRP- PO/MT-XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP- PO/MT-XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officers/ Management Trainees"
+        },
+        {
+          "head": "CRP PO/MT XVI",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "CRP PO/MT XVI",
+          "relation": "OFFERS",
+          "tail": "Probationary Officers/ Management Trainees"
+        }
+      ],
+      "error": null
+    },
+    "83": {
+      "chunk_index": 83,
+      "entities": [
+        {
+          "name": "Indent for PO/MT for the year 2027-28",
+          "type": "EXAM"
+        },
+        {
+          "name": "PO/MT",
+          "type": "POST"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Indent for PO/MT for the year 2027-28",
+          "relation": "CONDUCTED_BY",
+          "tail": "IBPS"
+        },
+        {
+          "head": "Indent for PO/MT for the year 2027-28",
+          "relation": "OFFERS",
+          "tail": "PO/MT"
+        }
+      ],
+      "error": null
+    },
+    "84": {
+      "chunk_index": 84,
+      "entities": [
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "85": {
+      "chunk_index": 85,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "86": {
+      "chunk_index": 86,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "87": {
+      "chunk_index": 87,
+      "entities": [
+        {
+          "name": "his/her photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate as mentioned in Clause J (ix)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "88": {
+      "chunk_index": 88,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "89": {
+      "chunk_index": 89,
+      "entities": [
+        {
+          "name": "Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Left thumb impression",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "90": {
+      "chunk_index": 90,
+      "entities": [
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Hand-written declaration Image",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "91": {
+      "chunk_index": 91,
+      "entities": [
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10 th Standard or Equivalent Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate as mentioned in Clause J (ix)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "92": {
+      "chunk_index": 92,
+      "entities": [
+        {
+          "name": "photo",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as mentioned in Clause J (ix) - if applicable",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "93": {
+      "chunk_index": 93,
+      "entities": [
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate mentioned in Clause J (ix) – if applicable",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "94": {
+      "chunk_index": 94,
+      "entities": [
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand written declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as mentioned in Clause J (ix) – if applicable",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "95": {
+      "chunk_index": 95,
+      "entities": [
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photo",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "hand writte n declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "96": {
+      "chunk_index": 96,
+      "entities": [
+        {
+          "name": "SSC/ SSLC/ 10th standard or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as mentioned in Clause I (ix)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "97": {
+      "chunk_index": 97,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "98": {
+      "chunk_index": 98,
+      "entities": [
+        {
+          "name": "Scheduled Castes / Scheduled Tribes Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "99": {
+      "chunk_index": 99,
+      "entities": [
+        {
+          "name": "Caste / Tribe Certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "100": {
+      "chunk_index": 100,
+      "entities": [
+        {
+          "name": "Deputy Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Deputy Collector",
+          "type": "POST"
+        },
+        {
+          "name": "I Class Stipendiary Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "City Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Sub-Divisional Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Extra-Asst. Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Taluka Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Executive Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Chief Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Additional Chief Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Revenue Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Sub-Divisional Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Administrator",
+          "type": "POST"
+        },
+        {
+          "name": "Secretary to Administrator",
+          "type": "POST"
+        },
+        {
+          "name": "Development Officer (Lakshadweep Islands)",
+          "type": "POST"
+        },
+        {
+          "name": "OBC (Non- creamy layer) certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "01.04.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Deputy Commissioner",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Deputy Collector",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "I Class Stipendiary Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "City Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Sub-Divisional Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Extra-Asst. Commissioner",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Taluka Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Executive Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Chief Presidency Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Additional Chief Presidency Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Presidency Magistrate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Revenue Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Sub-Divisional Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Administrator",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Secretary to Administrator",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        },
+        {
+          "head": "Development Officer (Lakshadweep Islands)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non- creamy layer) certificate"
+        }
+      ],
+      "error": null
+    },
+    "101": {
+      "chunk_index": 101,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "102": {
+      "chunk_index": 102,
+      "entities": [
+        {
+          "name": "04/04/2000",
+          "type": "DATE"
+        },
+        {
+          "name": "21/09/2000",
+          "type": "DATE"
+        },
+        {
+          "name": "06/09/2001",
+          "type": "DATE"
+        },
+        {
+          "name": "19/06/2003",
+          "type": "DATE"
+        },
+        {
+          "name": "13/01/2004",
+          "type": "DATE"
+        },
+        {
+          "name": "16/01/2006",
+          "type": "DATE"
+        },
+        {
+          "name": "12/03/2007",
+          "type": "DATE"
+        },
+        {
+          "name": "18/08/2010",
+          "type": "DATE"
+        },
+        {
+          "name": "08/12/2011",
+          "type": "DATE"
+        },
+        {
+          "name": "08/09/93",
+          "type": "DATE"
+        },
+        {
+          "name": "09 /03/2004",
+          "type": "DATE"
+        },
+        {
+          "name": "14/10/2008",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "103": {
+      "chunk_index": 103,
+      "entities": [
+        {
+          "name": "District Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Deputy Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Competent Authority",
+          "type": "POST"
+        },
+        {
+          "name": "Additional Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Collector",
+          "type": "POST"
+        },
+        {
+          "name": "Additional Deputy Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Deputy Collector",
+          "type": "POST"
+        },
+        {
+          "name": "1st Class Stipendiary Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Sub-Divisional Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Taluka Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Executive Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Extra Assistant Commissioner",
+          "type": "POST"
+        },
+        {
+          "name": "Chief Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Additional Chief Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Presidency Magistrate",
+          "type": "POST"
+        },
+        {
+          "name": "Revenue Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Sub-Divisional Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Caste Certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income & Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Form-EWS",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Government of …",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India Guidelines",
+          "type": "ORG"
+        },
+        {
+          "name": "2026-27",
+          "type": "DATE"
+        },
+        {
+          "name": "2025-26",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Competent Authority",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste Certificate"
+        },
+        {
+          "head": "Competent Authority",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income & Asset Certificate"
+        },
+        {
+          "head": "Competent Authority",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Form-EWS"
+        }
+      ],
+      "error": null
+    },
+    "104": {
+      "chunk_index": 104,
+      "entities": [
+        {
+          "name": "Date : …………",
+          "type": "DATE"
+        },
+        {
+          "name": "VALID FOR THE YEAR …………",
+          "type": "DATE"
+        },
+        {
+          "name": "INCOME & ASSET CERTIFICATE",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "105": {
+      "chunk_index": 105,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate of Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport size attested photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "106": {
+      "chunk_index": 106,
+      "entities": [
+        {
+          "name": "Recent passport size attested photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "107": {
+      "chunk_index": 107,
+      "entities": [
+        {
+          "name": "Certificate of Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature and Seal of Authorised Signatory of notified Medical Authority",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature/Thumb impression of the person in whose favour disability certificate is issued.",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "notified Medical Authority",
+          "type": "ORG"
+        },
+        {
+          "name": "Date of Issue",
+          "type": "DATE"
+        },
+        {
+          "name": "Date",
+          "type": "DATE"
+        },
+        {
+          "name": "Date of Birth (DD / MM / YY)",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "108": {
+      "chunk_index": 108,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "109": {
+      "chunk_index": 109,
+      "entities": [
+        {
+          "name": "Medical Authority",
+          "type": "ORG"
+        },
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "proof of residence",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "110": {
+      "chunk_index": 110,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "111": {
+      "chunk_index": 111,
+      "entities": [
+        {
+          "name": "proof of residence",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Authorised Signatory of notified Medical Authority",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Countersignature and seal of the CMO/Medical Superintendent/Head of Government Hospital",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature/Thumb impression of the person in whose favour disabili ty certificate is issued",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "112": {
+      "chunk_index": 112,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "113": {
+      "chunk_index": 113,
+      "entities": [
+        {
+          "name": "Orthopedic/ PMR specialist",
+          "type": "POST"
+        },
+        {
+          "name": "Clinical Psychologist/ Rehabilitation Psychologist/ Psychiatrist/ Special Educator",
+          "type": "POST"
+        },
+        {
+          "name": "Neurologist (if available)",
+          "type": "POST"
+        },
+        {
+          "name": "Occupational therapist (if available)",
+          "type": "POST"
+        },
+        {
+          "name": "Other Expert, as nominated by the Chairperson (if any)",
+          "type": "POST"
+        },
+        {
+          "name": "Chief Medical Officer / Civil Surgeon / Chief District Medical Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Chairperson",
+          "type": "POST"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "114": {
+      "chunk_index": 114,
+      "entities": [
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    }
+  }
+}

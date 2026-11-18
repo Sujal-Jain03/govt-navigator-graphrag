@@ -1,0 +1,56 @@
+Found 9 PDFs in G:\My Drive\project marathon\Govt Navigator GraphRAG\DATA\notifications
+SKIP (already ingested, same hash): IBPS_Clerk_CSA_XVI_Notification.pdf
+SKIP (already ingested, same hash): IBPS_PO_MT_XVI_Notification.pdf
+SKIP (already ingested, same hash): IBPS_PO_MT_XVI_PwBD_Notice.pdf
+SKIP (already ingested, same hash): RBI_Grade_B_2026_Notification.pdf
+SKIP (already ingested, same hash): RRB_NTPC_CEN_06_2026_Graduate.pdf
+SKIP (already ingested, same hash): SBI_PO_2026_Notification.pdf
+SKIP (already ingested, same hash): SSC_CGL_2026_Notification.pdf
+SKIP (already ingested, same hash): SSC_CHSL_2026_Notification.pdf
+SKIP (already ingested, same hash): UPSC_CSE_2026_Notification.pdf
+Done. Ingested: 0, skipped: 9
+IBPS_Clerk_CSA_XVI_Notification: done=0 skipped=146 failed=0
+IBPS_PO_MT_XVI_Notification: done=0 skipped=115 failed=0
+IBPS_PO_MT_XVI_PwBD_Notice: done=0 skipped=2 failed=0
+RBI_Grade_B_2026_Notification: done=0 skipped=109 failed=0
+RRB_NTPC_CEN_06_2026_Graduate: done=0 skipped=142 failed=0
+SBI_PO_2026_Notification: done=0 skipped=61 failed=0
+SSC_CGL_2026_Notification: done=0 skipped=175 failed=0
+SSC_CHSL_2026_Notification: done=0 skipped=140 failed=0
+UPSC_CSE_2026_Notification: done=0 skipped=294 failed=0
+TOTAL: done=0 skipped=1184 failed=0 orphans=0
+Pipeline 2026-11-18: ok=True changed=False
+  update: {'downloaded': 0, 'would_download': 0, 'skipped': 87, 'errors': 0, 'local_new': []}
+  ingest: {'ingested': 0, 'skipped': 9, 'new_stems': []}
+  extract: {'done': 0, 'failed': 0, 'skipped': 1184, 'orphans': 0}
+  graph: {'skipped': 'nothing changed'}
+  index: {'skipped': 'nothing changed'}
+Report: G:\My Drive\project marathon\Govt Navigator GraphRAG\processed_data\updates\pipeline_report_2026-11-18.json
+Found 9 PDFs in G:\My Drive\project marathon\Govt Navigator GraphRAG\DATA\notifications
+SKIP (already ingested, same hash): IBPS_Clerk_CSA_XVI_Notification.pdf
+SKIP (already ingested, same hash): IBPS_PO_MT_XVI_Notification.pdf
+SKIP (already ingested, same hash): IBPS_PO_MT_XVI_PwBD_Notice.pdf
+SKIP (already ingested, same hash): RBI_Grade_B_2026_Notification.pdf
+SKIP (already ingested, same hash): RRB_NTPC_CEN_06_2026_Graduate.pdf
+SKIP (already ingested, same hash): SBI_PO_2026_Notification.pdf
+SKIP (already ingested, same hash): SSC_CGL_2026_Notification.pdf
+SKIP (already ingested, same hash): SSC_CHSL_2026_Notification.pdf
+SKIP (already ingested, same hash): UPSC_CSE_2026_Notification.pdf
+Done. Ingested: 0, skipped: 9
+IBPS_Clerk_CSA_XVI_Notification: done=0 skipped=146 failed=0
+IBPS_PO_MT_XVI_Notification: done=0 skipped=115 failed=0
+IBPS_PO_MT_XVI_PwBD_Notice: done=0 skipped=2 failed=0
+RBI_Grade_B_2026_Notification: done=0 skipped=109 failed=0
+RRB_NTPC_CEN_06_2026_Graduate: done=0 skipped=142 failed=0
+SBI_PO_2026_Notification: done=0 skipped=61 failed=0
+SSC_CGL_2026_Notification: done=0 skipped=175 failed=0
+SSC_CHSL_2026_Notification: done=0 skipped=140 failed=0
+UPSC_CSE_2026_Notification: done=0 skipped=294 failed=0
+TOTAL: done=0 skipped=1184 failed=0 orphans=0
+Pipeline 2026-11-18: ok=True changed=False
+  update: {'downloaded': 0, 'would_download': 0, 'skipped': 92, 'errors': 0, 'local_new': []}
+  ingest: {'ingested': 0, 'skipped': 9, 'new_stems': []}
+  extract: {'done': 0, 'failed': 0, 'skipped': 1184, 'orphans': 0}
+  graph: {'skipped': 'nothing changed'}
+  index: {'skipped': 'nothing changed'}
+Report: G:\My Drive\project marathon\Govt Navigator GraphRAG\processed_data\updates\pipeline_report_2026-11-18.json

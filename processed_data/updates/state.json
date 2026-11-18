@@ -1,0 +1,74 @@
+{
+  "downloads": {
+    "https://sbi.bank.in/documents/39129/51516783/NOTICE+INVITING+TENDER20261027061919722.pdf": {
+      "discovered_at": "2026-11-18",
+      "file": "sbi_po_2026-11-18_NOTICE_INVITING_TENDER20261027061919722.pdf",
+      "kind": "notification",
+      "sha256": "66a840d7510fc7facadb34042abbd645fc0806d36a6d5d2697c30a0bf4501014",
+      "source": "sbi_po",
+      "status": "downloaded"
+    },
+    "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04112026.pdf": {
+      "discovered_at": "2026-11-18",
+      "file": "ssc_cgl_2026-11-18_writeup_04112026.pdf",
+      "kind": "notification",
+      "sha256": "ace3291a6c175b9a30db4af0e85567cc854b3fbcd9b025caaf51399b2722bd64",
+      "source": "ssc_cgl",
+      "status": "downloaded"
+    },
+    "https://www.upsc.gov.in/sites/default/files/AdvtNo-51-2026-Special-Engl-240726.pdf": {
+      "discovered_at": "2026-11-18",
+      "file": "upsc_cse_2026-11-18_AdvtNo-51-2026-Special-Engl-240726.pdf",
+      "kind": "notification",
+      "sha256": "7810108800f00838796f35e034ee80db7905e4e5f886990d10782d2182614b3b",
+      "source": "upsc_cse",
+      "status": "downloaded"
+    },
+    "https://www.upsc.gov.in/sites/default/files/WR-CSM-2026-Engl-RollList-05112026.pdf": {
+      "discovered_at": "2026-11-18",
+      "file": "upsc_cse_2026-11-18_WR-CSM-2026-Engl-RollList-05112026.pdf",
+      "kind": "notification",
+      "sha256": "30b738ce5830583b8a3d87366386d37cb7f0e0159351a75c237e2ed8a5136837",
+      "source": "upsc_cse",
+      "status": "downloaded"
+    }
+  },
+  "local": {
+    "IBPS_Clerk_CSA_XVI_Notification.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "1c10773a0e692e0bfd7e0565724420ed4d05756420a88eb5805c684876c0f084"
+    },
+    "IBPS_PO_MT_XVI_Notification.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "9379acfcad5750585ead182b5b0660fde89b324a8a2fa79dce9a9a9e69f73ebe"
+    },
+    "IBPS_PO_MT_XVI_PwBD_Notice.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "4a7219a6fc01ab7665c967156ded344eb1c029600ebdad2580d8b412dec21ed1"
+    },
+    "RBI_Grade_B_2026_Notification.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "55e17f3d589e02b4faa3f9de5c99019556a2dc94c308ea6cbd94a3d32828c920"
+    },
+    "RRB_NTPC_CEN_06_2026_Graduate.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "e39b58de58e6f140e9a639cb22ebb0fbe981060eec2376ab08ace6cbcf28be52"
+    },
+    "SBI_PO_2026_Notification.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "22dd33b5141eeb8214937dd4af5121d715bdf85f4a05a2cffdecda3ffe7b509b"
+    },
+    "SSC_CGL_2026_Notification.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "54a01dda220cb8836f19983908e1f3fd14ddba8286781765a02765728a89e070"
+    },
+    "SSC_CHSL_2026_Notification.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "74eb89c24cb232000393f0ad9b9edce7ac2b2ebda100248090581676a162dfb8"
+    },
+    "UPSC_CSE_2026_Notification.pdf": {
+      "first_seen": "2026-11-18",
+      "sha256": "f68a7de905ff05c6ab76c6bc03ddd5ee2b835e5150f46c8760fd6eb4df82dce2"
+    }
+  }
+}

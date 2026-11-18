@@ -1,0 +1,3317 @@
+{
+  "source_file": "RRB_NTPC_CEN_06_2026_Graduate.pdf",
+  "file_hash": "e39b58de58e6f140e9a639cb22ebb0fbe981060eec2376ab08ace6cbcf28be52",
+  "results": {
+    "0": {
+      "chunk_index": 0,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "1": {
+      "chunk_index": 1,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "Unified Official Website of RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "Important Dates",
+          "type": "DATE"
+        },
+        {
+          "name": "Important Instructions",
+          "type": "DATE"
+        },
+        {
+          "name": "General Instructions",
+          "type": "DATE"
+        },
+        {
+          "name": "Vacancies",
+          "type": "DATE"
+        },
+        {
+          "name": "Standards of Medical Fitness",
+          "type": "DATE"
+        },
+        {
+          "name": "Nationality / Citizenship",
+          "type": "DATE"
+        },
+        {
+          "name": "Age Limit",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "Date of Birth of Candidates",
+          "type": "DATE"
+        },
+        {
+          "name": "Age Relaxation",
+          "type": "DATE"
+        },
+        {
+          "name": "Educational Qualifications",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Examination Fee",
+          "type": "FEE"
+        },
+        {
+          "name": "Modes of Fee Payment",
+          "type": "DATE"
+        },
+        {
+          "name": "Minorities",
+          "type": "DATE"
+        },
+        {
+          "name": "Economically Backward Classes (EBC)",
+          "type": "DATE"
+        },
+        {
+          "name": "Refund of Examination Fee",
+          "type": "DATE"
+        },
+        {
+          "name": "Vertical Reservation",
+          "type": "DATE"
+        },
+        {
+          "name": "OBC-NCL Reservation",
+          "type": "DATE"
+        },
+        {
+          "name": "Economically Weaker Sections (EWS)",
+          "type": "DATE"
+        },
+        {
+          "name": "Horizontal Reservation",
+          "type": "DATE"
+        },
+        {
+          "name": "Ex-Serviceman",
+          "type": "DATE"
+        },
+        {
+          "name": "Persons With Benchmark Disabilities (PwBD)",
+          "type": "DATE"
+        },
+        {
+          "name": "Assistance for Scribe and Compensatory Time",
+          "type": "DATE"
+        },
+        {
+          "name": "Registration for Scribes",
+          "type": "DATE"
+        },
+        {
+          "name": "NOC from Present Employer",
+          "type": "DATE"
+        },
+        {
+          "name": "Recruitment Process",
+          "type": "DATE"
+        },
+        {
+          "name": "How to Apply",
+          "type": "DATE"
+        },
+        {
+          "name": "Create an Account",
+          "type": "DATE"
+        },
+        {
+          "name": "General Guidelines for Submission of Applications",
+          "type": "DATE"
+        },
+        {
+          "name": "Live Photo Capturing of the Candidate during Application",
+          "type": "DATE"
+        },
+        {
+          "name": "Mandatory Scanned Documents",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Assistance of Scribe",
+          "type": "DATE"
+        },
+        {
+          "name": "Modification of Submitted Application Details",
+          "type": "DATE"
+        },
+        {
+          "name": "Common Service Center Services",
+          "type": "DATE"
+        },
+        {
+          "name": "Modification of Online Application",
+          "type": "DATE"
+        },
+        {
+          "name": "Invalid Applications/ Rejections",
+          "type": "DATE"
+        },
+        {
+          "name": "Instructions On E-Call Letter",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "2": {
+      "chunk_index": 2,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "Caste Certificate for SC/ST candidates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC-NCL Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income & Asset Certificate to be produced by Economically Weaker Section (EWS) Candidates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income Certificate for Economically Backward Class (EBC) Candidates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certificate (In Cases of Single Disability)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Certificate of Disability (In Case of Multiple Disabilities)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        }
+      ],
+      "error": null
+    },
+    "3": {
+      "chunk_index": 3,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "GOVERNMENT OF INDIA",
+          "type": "ORG"
+        },
+        {
+          "name": "MINISTRY OF RAILWAYS",
+          "type": "ORG"
+        },
+        {
+          "name": "RAILWAY RECRUITMENT BOARDS",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "GOVERNMENT OF INDIA"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "MINISTRY OF RAILWAYS"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RAILWAY RECRUITMENT BOARDS"
+        }
+      ],
+      "error": null
+    },
+    "4": {
+      "chunk_index": 4,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Non-Technical Popular Categories (Graduate)",
+          "type": "POST"
+        },
+        {
+          "name": "Ministry of Railways",
+          "type": "ORG"
+        },
+        {
+          "name": "Railway Recruitment Boards",
+          "type": "ORG"
+        },
+        {
+          "name": "26.09.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "08.10.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "06.11.2026 (23:59 hours)",
+          "type": "DATE"
+        },
+        {
+          "name": "08.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "09.11.2026 to 18.11.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Ministry of Railways"
+        },
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Railway Recruitment Boards"
+        },
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "OFFERS",
+          "tail": "Non-Technical Popular Categories (Graduate)"
+        },
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "LAST_DATE",
+          "tail": "06.11.2026 (23:59 hours)"
+        },
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "LAST_DATE",
+          "tail": "08.11.2026"
+        },
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "EXAM_DATE",
+          "tail": "26.09.2026"
+        },
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "EXAM_DATE",
+          "tail": "08.10.2026"
+        },
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "EXAM_DATE",
+          "tail": "09.11.2026 to 18.11.2026"
+        }
+      ],
+      "error": null
+    },
+    "5": {
+      "chunk_index": 5,
+      "entities": [
+        {
+          "name": "CBTs",
+          "type": "EXAM"
+        },
+        {
+          "name": "Empanelment",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "06.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "01-01-2027",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CBTs",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        },
+        {
+          "head": "Empanelment",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        },
+        {
+          "head": "CBTs",
+          "relation": "LAST_DATE",
+          "tail": "06.11.2026"
+        },
+        {
+          "head": "Empanelment",
+          "relation": "LAST_DATE",
+          "tail": "06.11.2026"
+        }
+      ],
+      "error": null
+    },
+    "6": {
+      "chunk_index": 6,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Chief Commercial Cum Ticket Supervisor",
+          "type": "POST"
+        },
+        {
+          "name": "Goods Train Manager",
+          "type": "POST"
+        },
+        {
+          "name": "Junior Accounts Assistant Cum Typist",
+          "type": "POST"
+        },
+        {
+          "name": "Senior Clerk Cum Typist",
+          "type": "POST"
+        },
+        {
+          "name": "18-33",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Chief Commercial Cum Ticket Supervisor"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Goods Train Manager"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Junior Accounts Assistant Cum Typist"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Senior Clerk Cum Typist"
+        },
+        {
+          "head": "Chief Commercial Cum Ticket Supervisor",
+          "relation": "HAS_AGE_LIMIT",
+          "tail": "18-33"
+        }
+      ],
+      "error": null
+    },
+    "7": {
+      "chunk_index": 7,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "RRCs",
+          "type": "ORG"
+        },
+        {
+          "name": "Educational Qualifications",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Age/Caste/Category certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "8": {
+      "chunk_index": 8,
+      "entities": [
+        {
+          "name": "01.01.2027",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "9": {
+      "chunk_index": 9,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "10": {
+      "chunk_index": 10,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "Rs. 250/-",
+          "type": "FEE"
+        },
+        {
+          "name": "09.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "18.11.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        }
+      ],
+      "error": null
+    },
+    "11": {
+      "chunk_index": 11,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "18.11.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "12": {
+      "chunk_index": 12,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "RRCs",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "13": {
+      "chunk_index": 13,
+      "entities": [
+        {
+          "name": "RRBs & RRCs",
+          "type": "ORG"
+        },
+        {
+          "name": "THE PUBLIC EXAMINATIONS (PREVENTION OF UNFAIR MEANS) Act and Rules, 2024",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "31.07.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "14": {
+      "chunk_index": 14,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "Railway Recruitment Cell (RRCs)",
+          "type": "ORG"
+        },
+        {
+          "name": "SSC/SSLC/Matriculation/10th class exam certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "15": {
+      "chunk_index": 15,
+      "entities": [
+        {
+          "name": "SSC/SSLC/Matriculation/10th class or equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Gazette Notification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "valid photo ID",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "CBTs",
+          "type": "EXAM"
+        },
+        {
+          "name": "Document Verification (DV)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CBTs",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        },
+        {
+          "head": "Document Verification (DV)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        }
+      ],
+      "error": null
+    },
+    "16": {
+      "chunk_index": 16,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        }
+      ],
+      "error": null
+    },
+    "17": {
+      "chunk_index": 17,
+      "entities": [
+        {
+          "name": "RRB",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "18": {
+      "chunk_index": 18,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "RRCs",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "19": {
+      "chunk_index": 19,
+      "entities": [
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "Railway Engineers’ Unit of Territorial Army",
+          "type": "POST"
+        },
+        {
+          "name": "Security and/or Indemnity Bond",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Railway Engineers’ Unit of Territorial Army",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Security and/or Indemnity Bond"
+        }
+      ],
+      "error": null
+    },
+    "20": {
+      "chunk_index": 20,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "valid caste certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "original SC & ST community certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        }
+      ],
+      "error": null
+    },
+    "21": {
+      "chunk_index": 21,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "22": {
+      "chunk_index": 22,
+      "entities": [
+        {
+          "name": "Indian Railway Medical Manual (IRMM) Vol. I",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Medical Standard A-2",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "23": {
+      "chunk_index": 23,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "24": {
+      "chunk_index": 24,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "25": {
+      "chunk_index": 25,
+      "entities": [
+        {
+          "name": "Certificate of Eligibility issued by the Government of India",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "01.01.2027",
+          "type": "DATE"
+        },
+        {
+          "name": "5 Years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "3 Years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "6 years (after deduction of length of service from age)",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "8 years (after deduction of length of service from age)",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "10 Years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "13 Years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "15 Years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "40 Years of age",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "43 Years of age",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "26": {
+      "chunk_index": 26,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "18-33",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "01.01.2027",
+          "type": "DATE"
+        },
+        {
+          "name": "01.01.2009",
+          "type": "DATE"
+        },
+        {
+          "name": "02.01.1994",
+          "type": "DATE"
+        },
+        {
+          "name": "02.01.1991",
+          "type": "DATE"
+        },
+        {
+          "name": "02.01.1989",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "27": {
+      "chunk_index": 27,
+      "entities": [
+        {
+          "name": "SSC/SSLC/Matriculation/10th class or an equivalent certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Provisional or Regular Certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "consolidated marks sheet with date of declaration of the final qualifying exam or individual mark sheets of all the semesters/years with date of declaration of each semester /year",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "28": {
+      "chunk_index": 28,
+      "entities": [
+        {
+          "name": "₹ 500/-",
+          "type": "FEE"
+        },
+        {
+          "name": "₹ 250/-",
+          "type": "FEE"
+        },
+        {
+          "name": "EBC Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "29": {
+      "chunk_index": 29,
+      "entities": [
+        {
+          "name": "EBC certificate (Annexure IIIA)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "BPL card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Izzat MST",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate issued by Central Government under a recognized poverty alleviation programme",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "30": {
+      "chunk_index": 30,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Affidavit for 'Minority Community Declaration'",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Valid Income Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "31": {
+      "chunk_index": 31,
+      "entities": [
+        {
+          "name": "EBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "BPL Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Izzat MST",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "1 St stage CBT",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "32": {
+      "chunk_index": 32,
+      "entities": [
+        {
+          "name": "1 St stage CBT",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "Aadhaar number",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "1 St stage CBT",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        }
+      ],
+      "error": null
+    },
+    "33": {
+      "chunk_index": 33,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "34": {
+      "chunk_index": 34,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Non-Creamy Layer certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "01 April 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "35": {
+      "chunk_index": 35,
+      "entities": [
+        {
+          "name": "OBC (Non-Creamy Layer) certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-declaration in the format given at Annexure IIA",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "caste certificate for OBC (Non- Creamy Layer) candidates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "36": {
+      "chunk_index": 36,
+      "entities": [
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "01.04.2023",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "37": {
+      "chunk_index": 37,
+      "entities": [
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "01.09.2024",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "38": {
+      "chunk_index": 38,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "06.11.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "LAST_DATE",
+          "tail": "06.11.2026"
+        }
+      ],
+      "error": null
+    },
+    "39": {
+      "chunk_index": 39,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "40": {
+      "chunk_index": 40,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "41": {
+      "chunk_index": 41,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "42": {
+      "chunk_index": 42,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "43": {
+      "chunk_index": 43,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "44": {
+      "chunk_index": 44,
+      "entities": [
+        {
+          "name": "CEN",
+          "type": "EXAM"
+        },
+        {
+          "name": "Employment certificate with probable date of discharge from service",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-declaration of Undertaking",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "45": {
+      "chunk_index": 45,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "46": {
+      "chunk_index": 46,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "47": {
+      "chunk_index": 47,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "48": {
+      "chunk_index": 48,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "49": {
+      "chunk_index": 49,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "50": {
+      "chunk_index": 50,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "51": {
+      "chunk_index": 51,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "52": {
+      "chunk_index": 52,
+      "entities": [
+        {
+          "name": "Certificate of Disability",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "16 Oct, 2024",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "53": {
+      "chunk_index": 53,
+      "entities": [
+        {
+          "name": "Disability Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Unique Disability Identity (UDID)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "05.05.2021",
+          "type": "DATE"
+        },
+        {
+          "name": "01.06.2021",
+          "type": "DATE"
+        },
+        {
+          "name": "04.01.2021",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "54": {
+      "chunk_index": 54,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities",
+          "type": "ORG"
+        },
+        {
+          "name": "04.01.2021",
+          "type": "DATE"
+        },
+        {
+          "name": "17.12.2025",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "55": {
+      "chunk_index": 55,
+      "entities": [
+        {
+          "name": "Annexure V(F)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Annexure V(C)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate to the effect that the person concerned has physical limitation to write and scribe is essential to write examination on his behalf, from the Chief Medical Officer/Civil Surgeon/Medical Superintendent of a Government Health Care institution",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "56": {
+      "chunk_index": 56,
+      "entities": [
+        {
+          "name": "Original certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate as per Annexure V(D)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "letter of undertaking as per Annexure V(E)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-attested Photocopy",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "57": {
+      "chunk_index": 57,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "58": {
+      "chunk_index": 58,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "59": {
+      "chunk_index": 59,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "60": {
+      "chunk_index": 60,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "61": {
+      "chunk_index": 61,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "62": {
+      "chunk_index": 62,
+      "entities": [
+        {
+          "name": "NO OBJECTION CERTIFICATE (NOC) FROM PRESENT EMPLOYER",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "63": {
+      "chunk_index": 63,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "Senior Clerk Cum Typist (Level 5)",
+          "type": "POST"
+        },
+        {
+          "name": "Junior Accounts Assistant Cum Typist (Level 5)",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Senior Clerk Cum Typist (Level 5)"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Junior Accounts Assistant Cum Typist (Level 5)"
+        }
+      ],
+      "error": null
+    },
+    "64": {
+      "chunk_index": 64,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "CEN 06/2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "1 st Stage Computer Based Test (CBT)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "1 st Stage Computer Based Test (CBT)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        }
+      ],
+      "error": null
+    },
+    "65": {
+      "chunk_index": 65,
+      "entities": [
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "CEN 06/2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "1 st Stage Computer Based Test (CBT)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        }
+      ],
+      "error": null
+    },
+    "66": {
+      "chunk_index": 66,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "67": {
+      "chunk_index": 67,
+      "entities": [
+        {
+          "name": "2nd Stage Computer Based Test (CBT)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "UR-40%, EWS- 40%, OBC (Non creamy layer) -30%, SC-30%, ST-25%",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "2nd Stage Computer Based Test (CBT)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        },
+        {
+          "head": "2nd Stage Computer Based Test (CBT)",
+          "relation": "REQUIRES",
+          "tail": "UR-40%, EWS- 40%, OBC (Non creamy layer) -30%, SC-30%, ST-25%"
+        }
+      ],
+      "error": null
+    },
+    "68": {
+      "chunk_index": 68,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "69": {
+      "chunk_index": 69,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "70": {
+      "chunk_index": 70,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "40%",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "30%",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "25%",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "71": {
+      "chunk_index": 71,
+      "entities": [
+        {
+          "name": "CBT Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "original certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "educational and community certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Railway Administration/RRB",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CBT Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Railway Administration/RRB"
+        }
+      ],
+      "error": null
+    },
+    "72": {
+      "chunk_index": 72,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "73": {
+      "chunk_index": 73,
+      "entities": [
+        {
+          "name": "RRB CEN",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RRB CEN",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        }
+      ],
+      "error": null
+    },
+    "74": {
+      "chunk_index": 74,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "75": {
+      "chunk_index": 75,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "76": {
+      "chunk_index": 76,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "77": {
+      "chunk_index": 77,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Annexure VIII",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "78": {
+      "chunk_index": 78,
+      "entities": [
+        {
+          "name": "Candidate Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "SC/ST Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "79": {
+      "chunk_index": 79,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "SC/ST Certificate (For Candidates Requesting Free Train Travel Pass)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "80": {
+      "chunk_index": 80,
+      "entities": [
+        {
+          "name": "SC/ST Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "rent receipt",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "rent agreement",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "electricity bill",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "bank passbook",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "address certificate from Gazetted Officer",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar card",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "81": {
+      "chunk_index": 81,
+      "entities": [
+        {
+          "name": "Aadhaar card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "government-issued identity/address proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate from a Chief Medical Officer / Civil Surgeon / Medical Superintendent of a Government Health Care Institution",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Annexure V(F)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Letter of Undertaking",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Annexure V(C)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "82": {
+      "chunk_index": 82,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "certificate as per Annexure V(D)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Letter of Undertaking as per Annexure V(E)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "83": {
+      "chunk_index": 83,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "84": {
+      "chunk_index": 84,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "Graduate",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Non-Technical Popular Categories (Graduate)"
+        }
+      ],
+      "error": null
+    },
+    "85": {
+      "chunk_index": 85,
+      "entities": [
+        {
+          "name": "CEN",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "₹250",
+          "type": "FEE"
+        },
+        {
+          "name": "09.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "18.11.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        },
+        {
+          "head": "CEN",
+          "relation": "APPLICATION_FEE",
+          "tail": "₹250"
+        },
+        {
+          "head": "CEN",
+          "relation": "LAST_DATE",
+          "tail": "18.11.2026"
+        }
+      ],
+      "error": null
+    },
+    "86": {
+      "chunk_index": 86,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "87": {
+      "chunk_index": 87,
+      "entities": [
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "Rs. 250/-",
+          "type": "FEE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "88": {
+      "chunk_index": 88,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Rs. 250/-",
+          "type": "FEE"
+        },
+        {
+          "name": "08.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "09.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "18.11.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "APPLICATION_FEE",
+          "tail": "Rs. 250/-"
+        },
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "LAST_DATE",
+          "tail": "08.11.2026"
+        }
+      ],
+      "error": null
+    },
+    "89": {
+      "chunk_index": 89,
+      "entities": [
+        {
+          "name": "09.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "18.11.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        },
+        {
+          "name": "RRC",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB and RRC exams",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RRB and RRC exams",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        },
+        {
+          "head": "RRB and RRC exams",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRC"
+        }
+      ],
+      "error": null
+    },
+    "90": {
+      "chunk_index": 90,
+      "entities": [
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "CBTs",
+          "type": "EXAM"
+        },
+        {
+          "name": "DV",
+          "type": "EXAM"
+        },
+        {
+          "name": "E-call letter",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CBTs",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        },
+        {
+          "head": "DV",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        }
+      ],
+      "error": null
+    },
+    "91": {
+      "chunk_index": 91,
+      "entities": [
+        {
+          "name": "SC/ST certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "e-call letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter ID-Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhaar card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "printout of e- Aadhaar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "driving license",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "valid identity card issued by the employer in case the candidate is a govt. employee",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "School / College / University photo ID card (if still studying)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "colour passport photograph",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "92": {
+      "chunk_index": 92,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB(s)",
+          "type": "ORG"
+        },
+        {
+          "name": "original documents",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-attested photocopies",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "scanned copies (in true colour) of Photo & Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB(s)"
+        }
+      ],
+      "error": null
+    },
+    "93": {
+      "chunk_index": 93,
+      "entities": [
+        {
+          "name": "caste/community certificate for SC/ST/OBC-NCL/EWS",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "requisite/relevant certificate in original from the competent authority",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Educational Qualification Certificates viz., Provisional or Regular",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "consolidated mark sheet with date of declaration of the result of final semester/year exam or individual mark sheets of all the semesters/years with date of",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "94": {
+      "chunk_index": 94,
+      "entities": [
+        {
+          "name": "final semester/year exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "declaration of the result of final semester/year exam or individual mark sheets of all the semesters/years with date of declaration of result on each",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate indicating date of declaration of result from the Institution/ Board/University",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "The Public Examinations (Prevention of Unfair Means) Act and Rules, 2024",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "31.07.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "95": {
+      "chunk_index": 95,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "96": {
+      "chunk_index": 96,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRBs",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRBs"
+        }
+      ],
+      "error": null
+    },
+    "97": {
+      "chunk_index": 97,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "98": {
+      "chunk_index": 98,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "99": {
+      "chunk_index": 99,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "100": {
+      "chunk_index": 100,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Chief Commercial Cum Ticket Supervisor",
+          "type": "POST"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Chief Commercial Cum Ticket Supervisor"
+        }
+      ],
+      "error": null
+    },
+    "101": {
+      "chunk_index": 101,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Chief Commercial Cum Ticket Supervisor",
+          "type": "POST"
+        },
+        {
+          "name": "Goods Train Manager",
+          "type": "POST"
+        },
+        {
+          "name": "Junior Accounts Assistant Cum Typist",
+          "type": "POST"
+        },
+        {
+          "name": "Senior Clerk cum Typist",
+          "type": "POST"
+        },
+        {
+          "name": "Degree from recognized University or its equivalent.",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Chief Commercial Cum Ticket Supervisor"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Goods Train Manager"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Junior Accounts Assistant Cum Typist"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "Senior Clerk cum Typist"
+        },
+        {
+          "head": "Chief Commercial Cum Ticket Supervisor",
+          "relation": "REQUIRES",
+          "tail": "Degree from recognized University or its equivalent."
+        },
+        {
+          "head": "Goods Train Manager",
+          "relation": "REQUIRES",
+          "tail": "Degree from recognized University or its equivalent."
+        },
+        {
+          "head": "Junior Accounts Assistant Cum Typist",
+          "relation": "REQUIRES",
+          "tail": "Degree from recognized University or its equivalent."
+        },
+        {
+          "head": "Senior Clerk cum Typist",
+          "relation": "REQUIRES",
+          "tail": "Degree from recognized University or its equivalent."
+        }
+      ],
+      "error": null
+    },
+    "102": {
+      "chunk_index": 102,
+      "entities": [
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "RRB AJMER",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB BENGALURU",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "103": {
+      "chunk_index": 103,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "RRB BENGALURU",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB BHOPAL",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB BHUBANESWAR",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB BILASPUR",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "SENIOR CLERK CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "GOODS TRAIN MANAGER"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB BENGALURU"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB BHOPAL"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB BHUBANESWAR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB BILASPUR"
+        }
+      ],
+      "error": null
+    },
+    "104": {
+      "chunk_index": 104,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "RRB BILASPUR",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB CHANDIGARH",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "GOODS TRAIN MANAGER"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "SENIOR CLERK CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB BILASPUR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB CHANDIGARH"
+        }
+      ],
+      "error": null
+    },
+    "105": {
+      "chunk_index": 105,
+      "entities": [
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "RRB CHENNAI",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB GORAKHPUR",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB GUWAHATI",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "106": {
+      "chunk_index": 106,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "GOODS TRAIN MANAGER"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "SENIOR CLERK CUM TYPIST"
+        }
+      ],
+      "error": null
+    },
+    "107": {
+      "chunk_index": 107,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB KOLKATA",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB MALDA",
+          "type": "ORG"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB KOLKATA"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB MALDA"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "GOODS TRAIN MANAGER"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "SENIOR CLERK CUM TYPIST"
+        }
+      ],
+      "error": null
+    },
+    "108": {
+      "chunk_index": 108,
+      "entities": [
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "RRB MALDA",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB MUMBAI",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB MUZAFFARPUR",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "GOODS TRAIN MANAGER",
+          "relation": "OFFERS",
+          "tail": "RRB MALDA"
+        },
+        {
+          "head": "SENIOR CLERK CUM TYPIST",
+          "relation": "OFFERS",
+          "tail": "RRB MALDA"
+        },
+        {
+          "head": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "relation": "OFFERS",
+          "tail": "RRB MUMBAI"
+        },
+        {
+          "head": "GOODS TRAIN MANAGER",
+          "relation": "OFFERS",
+          "tail": "RRB MUMBAI"
+        },
+        {
+          "head": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "relation": "OFFERS",
+          "tail": "RRB MUMBAI"
+        },
+        {
+          "head": "SENIOR CLERK CUM TYPIST",
+          "relation": "OFFERS",
+          "tail": "RRB MUMBAI"
+        },
+        {
+          "head": "GOODS TRAIN MANAGER",
+          "relation": "OFFERS",
+          "tail": "RRB MUZAFFARPUR"
+        }
+      ],
+      "error": null
+    },
+    "109": {
+      "chunk_index": 109,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "RRB MUZAFFARPUR",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB PATNA",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB PRAYAGRAJ",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB MUZAFFARPUR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB PATNA"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB PRAYAGRAJ"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "GOODS TRAIN MANAGER"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "SENIOR CLERK CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR"
+        }
+      ],
+      "error": null
+    },
+    "110": {
+      "chunk_index": 110,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "RRB PRAYAGRAJ",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB RANCHI",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB SECUNDERABAD",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB PRAYAGRAJ"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB RANCHI"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB SECUNDERABAD"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "SENIOR CLERK CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "GOODS TRAIN MANAGER"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST"
+        }
+      ],
+      "error": null
+    },
+    "111": {
+      "chunk_index": 111,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "SENIOR CLERK CUM TYPIST",
+          "type": "POST"
+        },
+        {
+          "name": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR",
+          "type": "POST"
+        },
+        {
+          "name": "GOODS TRAIN MANAGER",
+          "type": "POST"
+        },
+        {
+          "name": "RRB SECUNDERABAD",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB SILIGURI",
+          "type": "ORG"
+        },
+        {
+          "name": "RRB THIRUVANANTHAPURAM",
+          "type": "ORG"
+        },
+        {
+          "name": "FORMAT OF CASTE CERTIFICATE FOR SC/ST CANDIDATES",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "JUNIOR ACCOUNTS ASSISTANT CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "SENIOR CLERK CUM TYPIST"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "CHIEF COMMERCIAL CUM TICKET SUPERVISOR"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "OFFERS",
+          "tail": "GOODS TRAIN MANAGER"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB SECUNDERABAD"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB SILIGURI"
+        },
+        {
+          "head": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB THIRUVANANTHAPURAM"
+        }
+      ],
+      "error": null
+    },
+    "112": {
+      "chunk_index": 112,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "113": {
+      "chunk_index": 113,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "114": {
+      "chunk_index": 114,
+      "entities": [
+        {
+          "name": "Scheduled Castes / Scheduled Tribes Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "115": {
+      "chunk_index": 115,
+      "entities": [
+        {
+          "name": "Caste/Tribe certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "116": {
+      "chunk_index": 116,
+      "entities": [
+        {
+          "name": "CEN 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Chief Presidency Magistrate / Additional Chief Presidency Magistrate / Presidency Magistrate",
+          "type": "ORG"
+        },
+        {
+          "name": "Revenue Officers not below the rank of Tehsildar",
+          "type": "ORG"
+        },
+        {
+          "name": "Sub-Divisional Officer of the area where the candidate and /or his / her family normally reside(s)",
+          "type": "ORG"
+        },
+        {
+          "name": "Certificates issued by Gazetted Officers of the Central or of a State Government Countersigned by the District Magistrate concerned",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Administrator /Secretary to Administrator (Lakshadweep, Andaman and Nicobar Islands)",
+          "type": "ORG"
+        },
+        {
+          "name": "FORMAT OF CERTIFICATE TO BE PRODUCED BY OTHER BACKWARD CLASSES (NCL) APPLYING FOR APPOINTMENT TO POSTS UNDER THE GOVERNMENT OF INDIA",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "117": {
+      "chunk_index": 117,
+      "entities": [
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "118": {
+      "chunk_index": 118,
+      "entities": [
+        {
+          "name": "Caste Certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC -NCL CERTIFICATE",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "119": {
+      "chunk_index": 119,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "08.09.1993",
+          "type": "DATE"
+        },
+        {
+          "name": "13.09.2017",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "120": {
+      "chunk_index": 120,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "121": {
+      "chunk_index": 121,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Recent Passport size Photograph of the Applicant",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "122": {
+      "chunk_index": 122,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Passport size Photograph of the Applicant",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proforma for Waiver of Examination Fees to be submitted by Economically Backward Class (EBC) candidates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "123": {
+      "chunk_index": 123,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Income Certificate for Economically Backward Class candidates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proforma for Waiver of Examination Fees to be submitted by Minority candidates at the time of document verification against Centralized Employment Notification No. 06/2026",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "124": {
+      "chunk_index": 124,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Minority Community Declaration",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Disability Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "125": {
+      "chunk_index": 125,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "126": {
+      "chunk_index": 126,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Disability Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "127": {
+      "chunk_index": 127,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Government of India"
+        }
+      ],
+      "error": null
+    },
+    "128": {
+      "chunk_index": 128,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "129": {
+      "chunk_index": 129,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "130": {
+      "chunk_index": 130,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "131": {
+      "chunk_index": 131,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Certificate for person with specified disability covered under the definition of section 2(s) of the RPwD Act, 2016 but not covered under the definition of section 2(r) of the said Act, i.e. persons having less than 40% disability and having difficulty in writing",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "LETTER OF UNDERTAKING FOR USING SCRIBE",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "132": {
+      "chunk_index": 132,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "133": {
+      "chunk_index": 133,
+      "entities": [
+        {
+          "name": "Orthopedic/ PMR Specialist",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Clinical Psychologist/ Rehabilitation Psychologist/ Psychiatrist / Special Educator",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Neurologist (if available)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Occupational therapist (if available)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Other Expert, as nominated by the Chairperson (if any)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Chief Medical Officer/Civil Surgeon/Chief District Medical Officer",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Original certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-attested Photocopy",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "10 August, 2022",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "134": {
+      "chunk_index": 134,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "135": {
+      "chunk_index": 135,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "136": {
+      "chunk_index": 136,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "recent colour Passport Size photograph of the scribe of size 3.5 cm x 4.5 cm",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "CERTIFICATE REGARDING PHYSICAL LIMITATION IN AN EXAMINEE TO WRITE (40% or MORE DISABILITY )",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "137": {
+      "chunk_index": 137,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Original certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "self-attested Photocopy",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "138": {
+      "chunk_index": 138,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "139": {
+      "chunk_index": 139,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Railways",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Railways"
+        }
+      ],
+      "error": null
+    },
+    "140": {
+      "chunk_index": 140,
+      "entities": [
+        {
+          "name": "CEN No. 06/2026 Non-Technical Popular Categories (Graduate)",
+          "type": "EXAM"
+        },
+        {
+          "name": "Medical Certificate issued by the specialist of the Institution where surgery was performed",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "141": {
+      "chunk_index": 141,
+      "entities": [
+        {
+          "name": "CEN 06/2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "RRB",
+          "type": "ORG"
+        },
+        {
+          "name": "Certificate to be signed by the Gazetted Officer",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "CEN 06/2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "RRB"
+        }
+      ],
+      "error": null
+    }
+  }
+}

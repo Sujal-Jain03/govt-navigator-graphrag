@@ -1,0 +1,450 @@
+{
+  "date": "2026-11-18",
+  "summary": {
+    "questions": 20,
+    "qa_total": 16,
+    "qa_correct": 15,
+    "qa_accuracy": 0.938,
+    "abstain_total": 4,
+    "abstain_correct": 4,
+    "abstain_accuracy": 1.0,
+    "gold_hits": 15,
+    "gold_total": 15,
+    "gold_recall": 1.0,
+    "answered": 14,
+    "cited_ok": 14,
+    "citation_rate": 1.0,
+    "errors": 1
+  },
+  "rows": [
+    {
+      "id": "q01",
+      "question": "What is the age limit for IBPS PO?",
+      "kind": "qa",
+      "model": "openai/gpt-oss-20b",
+      "abstained": false,
+      "answer": "The IBPS PO positions (Management Trainee and Probationary Officer) have an age limit of **20\u202fyears to 30\u202fyears**.  \n[22][23][24] [25][26][27]",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q02",
+      "question": "What is the last date to apply for SSC CGL?",
+      "kind": "qa",
+      "model": "openai/gpt-oss-20b",
+      "abstained": false,
+      "answer": "The last date to apply for the SSC CGL is\u202f22\u202fJune\u202f2026\u202f[16].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        16
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q03",
+      "question": "What qualification is needed for RBI Grade B?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "For the post of Officers in Grade 'B' (DR) - General, candidates require either a Graduation in any discipline with a minimum of 60% marks (50% for SC/ST/PwBD) or a Post-Graduation in any discipline with a minimum of 55% marks [51]. The graduation course must be of at least 3 years' duration, and the post-graduation course must be of at least 2 years' duration from a recognized University or Institute [51]. For the DEPR and DSIM cadres, the minimum educational qualifications include a Degree (Graduation) in any discipline, a Master's Degree with Research/Teaching experience, or a Ph.D. [21][22][23][33][34][35][36][37][38].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        21,
+        22,
+        23,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        51
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q04",
+      "question": "Which posts does UPSC offer?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The Civil Services Examination, conducted by the UPSC [2], offers the following posts:\n*   Central Service Group 'A' [3]\n*   Civil Services [4]\n*   Indian Administrative Service [5]\n*   Indian Foreign Service [6]\n*   Indian Police Service [7]",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q05",
+      "question": "What is the application fee for SBI PO?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": true,
+      "answer": "I don't know from the provided documents.",
+      "correct": true,
+      "gold_hits": 0,
+      "gold_total": 0,
+      "citations_valid": true,
+      "cited": [],
+      "guard_flags": {}
+    },
+    {
+      "id": "q06",
+      "question": "What is the last date to apply for RRB NTPC?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The last date to submit the online application for RRB NTPC is 06.11.2026 [52]. Applications must be submitted online by 23.59 hours on this date [51].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        51,
+        52
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q07",
+      "question": "What is the age limit for IBPS Clerk?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The age limit for the IBPS Clerk (CSA) position is 20-28 years [10]. Additionally, an age limit of 35-38 years is also specified [11].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        10,
+        11
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q08",
+      "question": "What is the age limit for SBI PO?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The age limit for the SBI Probationary Officer post is 21 to 30 years [9].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        9
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q09",
+      "question": "Which organisation conducts SSC CGL?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The SSC CGL is conducted by the Staff Selection Commission [2].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        2
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q10",
+      "question": "Which organisation conducts IBPS PO?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The IBPS PO examination is conducted by the Institute of Banking Personnel Selection (IBPS) [1] [52].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        1,
+        52
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q11",
+      "question": "What is the application fee for IBPS PO?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The application fee for IBPS PO is Rs. 175/- (inclusive of GST) for SC/ST/PwBD candidates [16] [55] and Rs. 850/- (inclusive of GST) for all other candidates [17] [55]. Bank transaction charges for the online payment must be borne by the candidate [55].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        16,
+        17,
+        55
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q12",
+      "question": "What qualification is needed for SSC CHSL?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "For SSC CHSL posts, candidates are required to have passed the 12th Standard in the Science stream with Mathematics as a subject from a recognized Board or equivalent [11][13][15][17]. Additionally, a Degree (Graduation) in any discipline from a University recognized by the Government of India or an equivalent qualification recognized by the Central Government is required [12][14][16][18].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q13",
+      "question": "What is the age limit for SSC CHSL?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The age limit for SSC CHSL is 18 to 27 years [19][20][21][22].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q14",
+      "question": "What is the age limit for RBI Grade B?",
+      "kind": "qa",
+      "model": "qwen/qwen3.8-27b",
+      "abstained": false,
+      "answer": "The age limit for the RBI Grade B (DR) DEPR/DSIM cadre is 21 to 30 years [48]. The upper age limit is relaxed to 32 years for candidates with an M.Phil. and 34 years for those with a Ph.D. [53]. Additionally, the upper age limit is relaxed to 33 years for candidates with experience in Scheduled Commercial Banks, Public Sector Insurance Companies, All India Financial Institutions, or the Reserve Bank of India [53]. Candidates with a Master's Degree and Research/Teaching experience are eligible for a relaxation in the upper age limit up to a maximum of three years [51].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        48,
+        51,
+        53
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "q15",
+      "question": "What is the last date to apply for UPSC Civil Services?",
+      "kind": "qa",
+      "model": null,
+      "abstained": false,
+      "answer": "",
+      "correct": false,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": false,
+      "cited": [],
+      "guard_flags": {},
+      "error": "RuntimeError: Generation failed: Error code: 429 - {'error': {'code': '1305', 'message': 'The service may be temporarily overloaded, please try again later'}}"
+    },
+    {
+      "id": "q16",
+      "question": "What is the last date to apply for IBPS Clerk?",
+      "kind": "qa",
+      "model": "glm-4.7-flash",
+      "abstained": false,
+      "answer": "The last date to apply for the IBPS Clerk (CSA) is 21 August 2026 [54].",
+      "correct": true,
+      "gold_hits": 1,
+      "gold_total": 1,
+      "citations_valid": true,
+      "cited": [
+        54
+      ],
+      "guard_flags": {
+        "normalized": false,
+        "invalid_citations": [],
+        "citations_missing": false,
+        "leaked": false,
+        "redacted_pii": false
+      }
+    },
+    {
+      "id": "a01",
+      "question": "What is the age limit for NDA?",
+      "kind": "abstain",
+      "model": "glm-4.7-flash",
+      "abstained": true,
+      "answer": "I don't know from the provided documents.",
+      "correct": true,
+      "gold_hits": 0,
+      "gold_total": 0,
+      "citations_valid": true,
+      "cited": [],
+      "guard_flags": {}
+    },
+    {
+      "id": "a02",
+      "question": "What will the weather be tomorrow in Delhi?",
+      "kind": "abstain",
+      "model": null,
+      "abstained": true,
+      "answer": "I don't know from the provided documents.",
+      "correct": true,
+      "gold_hits": 0,
+      "gold_total": 0,
+      "citations_valid": true,
+      "cited": [],
+      "guard_flags": {}
+    },
+    {
+      "id": "a03",
+      "question": "Who won the cricket match yesterday?",
+      "kind": "abstain",
+      "model": null,
+      "abstained": true,
+      "answer": "I don't know from the provided documents.",
+      "correct": true,
+      "gold_hits": 0,
+      "gold_total": 0,
+      "citations_valid": true,
+      "cited": [],
+      "guard_flags": {}
+    },
+    {
+      "id": "a04",
+      "question": "What is the application fee for the NDA exam?",
+      "kind": "abstain",
+      "model": "glm-4.7-flash",
+      "abstained": true,
+      "answer": "I don't know from the provided documents.",
+      "correct": true,
+      "gold_hits": 0,
+      "gold_total": 0,
+      "citations_valid": true,
+      "cited": [],
+      "guard_flags": {}
+    }
+  ]
+}

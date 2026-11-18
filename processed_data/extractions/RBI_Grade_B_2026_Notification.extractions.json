@@ -1,0 +1,2974 @@
+{
+  "source_file": "RBI_Grade_B_2026_Notification.pdf",
+  "file_hash": "55e17f3d589e02b4faa3f9de5c99019556a2dc94c308ea6cbd94a3d32828c920",
+  "results": {
+    "0": {
+      "chunk_index": 0,
+      "entities": [
+        {
+          "name": "RBI Grade B 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (Direct Recruit-DR) (On Probation-OP) (General/DEPR/DSIM)",
+          "type": "POST"
+        },
+        {
+          "name": "Reserve Bank of India Services Board (Board)",
+          "type": "ORG"
+        },
+        {
+          "name": "Reserve Bank of India (RBI)",
+          "type": "ORG"
+        },
+        {
+          "name": "Reserve Bank of India (RBI / Bank)",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBI Grade B 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board (Board)"
+        },
+        {
+          "head": "RBI Grade B 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India (RBI)"
+        },
+        {
+          "head": "RBI Grade B 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India (RBI / Bank)"
+        },
+        {
+          "head": "RBI Grade B 2026",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (Direct Recruit-DR) (On Probation-OP) (General/DEPR/DSIM)"
+        }
+      ],
+      "error": null
+    },
+    "1": {
+      "chunk_index": 1,
+      "entities": [
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (DR) - General Cadre",
+          "type": "POST"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (DR) – DEPR Cadre",
+          "type": "POST"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (DR) – DSIM Cadre",
+          "type": "POST"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "January 31, 2019",
+          "type": "DATE"
+        },
+        {
+          "name": "Income & Asset certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (DR) - General Cadre"
+        },
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (DR) – DEPR Cadre"
+        },
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (DR) – DSIM Cadre"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR) - General Cadre",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income & Asset certificate"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR) – DEPR Cadre",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income & Asset certificate"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR) – DSIM Cadre",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income & Asset certificate"
+        }
+      ],
+      "error": null
+    },
+    "2": {
+      "chunk_index": 2,
+      "entities": [
+        {
+          "name": "Department of Personnel & Training, Ministry of Personnel, Public Grievances & Pensions, Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income and Asset certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC (Non-Creamy Layer) certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC (NCL) certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "May 20, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "September 08, 1993",
+          "type": "DATE"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "3": {
+      "chunk_index": 3,
+      "entities": [
+        {
+          "name": "Officers in Grade ‘B’ (DR)- General",
+          "type": "POST"
+        },
+        {
+          "name": "April 29, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "May 20, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "June 13, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "July 25, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "requisite certificates",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Appendix – V",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "EXAM_DATE",
+          "tail": "June 13, 2026"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "EXAM_DATE",
+          "tail": "July 25, 2026"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "requisite certificates"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Appendix – V"
+        }
+      ],
+      "error": null
+    },
+    "4": {
+      "chunk_index": 4,
+      "entities": [
+        {
+          "name": "Officers in Grade ‘B’ (DR)- General",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (DR)- DEPR",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (DR)- DSIM",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (DR)",
+          "type": "POST"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "June 13, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "July 25, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "June 14, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DEPR",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DSIM",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (DR)"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DEPR",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (DR)"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DSIM",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (DR)"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "EXAM_DATE",
+          "tail": "June 13, 2026"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- General",
+          "relation": "EXAM_DATE",
+          "tail": "July 25, 2026"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DEPR",
+          "relation": "EXAM_DATE",
+          "tail": "June 14, 2026"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DEPR",
+          "relation": "EXAM_DATE",
+          "tail": "July 26, 2026"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DSIM",
+          "relation": "EXAM_DATE",
+          "tail": "June 14, 2026"
+        },
+        {
+          "head": "Officers in Grade ‘B’ (DR)- DSIM",
+          "relation": "EXAM_DATE",
+          "tail": "July 26, 2026"
+        }
+      ],
+      "error": null
+    },
+    "5": {
+      "chunk_index": 5,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "certificate of eligibility",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "must have attained the age of 21 years and must not have attained the age of 30 years on April 01, 2026",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "up to a maximum of five years for candidates belonging to a Scheduled Caste or a Scheduled Tribe, if the posts are reserved for them.",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "up to a maximum of three years in the case of candidates belonging to Other Backward Classes who are eligible to avail of Reserve Bank of India Services Board reservation applicable to such candidates, if the posts are reserved for them.",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "April 02, 1996",
+          "type": "DATE"
+        },
+        {
+          "name": "April 01, 2005",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "6": {
+      "chunk_index": 6,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Defence",
+          "type": "ORG"
+        },
+        {
+          "name": "Commissioned Officers",
+          "type": "POST"
+        },
+        {
+          "name": "Emergency Commissioned Officers (ECOs)",
+          "type": "POST"
+        },
+        {
+          "name": "Short Service Commissioned Officers (SSCOs)",
+          "type": "POST"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Emergency Commissioned Officers (ECOs)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificate"
+        },
+        {
+          "head": "Short Service Commissioned Officers (SSCOs)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificate"
+        }
+      ],
+      "error": null
+    },
+    "7": {
+      "chunk_index": 7,
+      "entities": [
+        {
+          "name": "RBI Master Reserve Bank of India Services Board",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reserve Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "M.Phil.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Ph.D.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "32 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "34 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "33 years",
+          "type": "AGE_LIMIT"
+        },
+        {
+          "name": "2026-27",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBI Master Reserve Bank of India Services Board",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India"
+        }
+      ],
+      "error": null
+    },
+    "8": {
+      "chunk_index": 8,
+      "entities": [
+        {
+          "name": "RBI Master Reserve Bank of India Services Board Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Grade ‘B’ (DR)-DEPR/DSIM cadre",
+          "type": "POST"
+        },
+        {
+          "name": "RBI Master Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Master's Degree with Research/Teaching experience at a recognised Indian/Foreign University/Institute",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "June 09, 2014",
+          "type": "DATE"
+        },
+        {
+          "name": "December 20, 2013",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBI Master Reserve Bank of India Services Board Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "RBI Master Reserve Bank of India Services Board"
+        },
+        {
+          "head": "RBI Master Reserve Bank of India Services Board Advt. No. RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Grade ‘B’ (DR)-DEPR/DSIM cadre"
+        },
+        {
+          "head": "Grade ‘B’ (DR)-DEPR/DSIM cadre",
+          "relation": "REQUIRES",
+          "tail": "Master's Degree with Research/Teaching experience at a recognised Indian/Foreign University/Institute"
+        }
+      ],
+      "error": null
+    },
+    "9": {
+      "chunk_index": 9,
+      "entities": [
+        {
+          "name": "Scheduled Commercial Banks",
+          "type": "ORG"
+        },
+        {
+          "name": "Public Sector Insurance companies",
+          "type": "ORG"
+        },
+        {
+          "name": "Life Insurance Corporation of India",
+          "type": "ORG"
+        },
+        {
+          "name": "General Insurance Corporation of India",
+          "type": "ORG"
+        },
+        {
+          "name": "The New India Assurance Company Limited",
+          "type": "ORG"
+        },
+        {
+          "name": "United India Insurance Company Limited",
+          "type": "ORG"
+        },
+        {
+          "name": "The Oriental Insurance Company Limited",
+          "type": "ORG"
+        },
+        {
+          "name": "National Insu rance Company Limited",
+          "type": "ORG"
+        },
+        {
+          "name": "Agriculture Insurance Company of India Limited",
+          "type": "ORG"
+        },
+        {
+          "name": "Export-Import Bank of India (EXIM Bank)",
+          "type": "ORG"
+        },
+        {
+          "name": "National Bank for Agriculture and Rural Development (NABARD)",
+          "type": "ORG"
+        },
+        {
+          "name": "National Housing Bank (NHB)",
+          "type": "ORG"
+        },
+        {
+          "name": "Small Industries Development Bank of India (SIDBI)",
+          "type": "ORG"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "National Bank for Financing Infrastructure and Development (NaBFID)",
+          "type": "ORG"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "10": {
+      "chunk_index": 10,
+      "entities": [
+        {
+          "name": "Officers in Grade 'B' (DR) - DEPR",
+          "type": "POST"
+        },
+        {
+          "name": "General Graduation in any discipline /Equivalent technical or professional qualification with minimum 60% marks (50% for SC/ST/PwBD applicants , if the posts are reserved for them) or Post-Graduation in any discipline / Equivalent technical or professional qualification with minimum 55% marks (pass marks for SC/ST/PwBD applicants, if the posts are reserved for them) in aggregate of all semesters / years.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "MA/ MSc in Economics or MA/ MSc in courses",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Government",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers in Grade 'B' (DR) - DEPR",
+          "relation": "REQUIRES",
+          "tail": "General Graduation in any discipline /Equivalent technical or professional qualification with minimum 60% marks (50% for SC/ST/PwBD applicants , if the posts are reserved for them) or Post-Graduation in any discipline / Equivalent technical or professional qualification with minimum 55% marks (pass marks for SC/ST/PwBD applicants, if the posts are reserved for them) in aggregate of all semesters / years."
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DEPR",
+          "relation": "REQUIRES",
+          "tail": "MA/ MSc in Economics or MA/ MSc in courses"
+        }
+      ],
+      "error": null
+    },
+    "11": {
+      "chunk_index": 11,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Officers in Grade 'B' (DR) - DEPR Essential",
+          "type": "POST"
+        },
+        {
+          "name": "MA/ MSc in Economics",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "MA/ MSc in Finance",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "MA/ MSc in courses such as Quantitative Economics, Mathematical Economics, Applied Economics, Econometrics, Financial Economics, Business Economics, Agricultural Economics, Industrial Economics, Development Economics and International Economics",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "MA/ MSc in courses such as Quantitative Finance, Mathematical Finance, Quantitative Techniques, International Finance, Business Finance, Banking and Trade Finance, International and Trade Finance, Corporate Finance, Project and Infrastructure Finance, Agri Business Finance",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers in Grade 'B' (DR) - DEPR Essential",
+          "relation": "REQUIRES",
+          "tail": "MA/ MSc in Economics"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DEPR Essential",
+          "relation": "REQUIRES",
+          "tail": "MA/ MSc in Finance"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DEPR Essential",
+          "relation": "REQUIRES",
+          "tail": "MA/ MSc in courses such as Quantitative Economics, Mathematical Economics, Applied Economics, Econometrics, Financial Economics, Business Economics, Agricultural Economics, Industrial Economics, Development Economics and International Economics"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DEPR Essential",
+          "relation": "REQUIRES",
+          "tail": "MA/ MSc in courses such as Quantitative Finance, Mathematical Finance, Quantitative Techniques, International Finance, Business Finance, Banking and Trade Finance, International and Trade Finance, Corporate Finance, Project and Infrastructure Finance, Agri Business Finance"
+        }
+      ],
+      "error": null
+    },
+    "12": {
+      "chunk_index": 12,
+      "entities": [
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Officers in Grade 'B' (DR) - DSIM",
+          "type": "POST"
+        },
+        {
+          "name": "Master's Degree with a minimum 55% marks in aggregate of all semesters/ years or an equivalent grade/ CGPA in Statistics / Mathematics/ Mathematical Statistics/ Applied",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "MA/MSc",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "M. PhiI. Degree",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Doctorate Degree",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Doctorate Degree in Economics",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Master's Degree with research / teaching experience at a recognized Indian / Foreign University / Institute in Economics",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Master's Degree",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade 'B' (DR) - DSIM"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DSIM",
+          "relation": "REQUIRES",
+          "tail": "Master's Degree with a minimum 55% marks in aggregate of all semesters/ years or an equivalent grade/ CGPA in Statistics / Mathematics/ Mathematical Statistics/ Applied"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DSIM",
+          "relation": "REQUIRES",
+          "tail": "MA/MSc"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DSIM",
+          "relation": "REQUIRES",
+          "tail": "M. PhiI. Degree"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DSIM",
+          "relation": "REQUIRES",
+          "tail": "Doctorate Degree"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DSIM",
+          "relation": "REQUIRES",
+          "tail": "Doctorate Degree in Economics"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DSIM",
+          "relation": "REQUIRES",
+          "tail": "Master's Degree with research / teaching experience at a recognized Indian / Foreign University / Institute in Economics"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) - DSIM",
+          "relation": "REQUIRES",
+          "tail": "Master's Degree"
+        }
+      ],
+      "error": null
+    },
+    "13": {
+      "chunk_index": 13,
+      "entities": [
+        {
+          "name": "Master's Degree with a minimum 55% marks in aggregate of all semesters/ years or an equivalent grade/ CGPA in Statistics / Mathematics/ Mathematical Statistics/ Applied Statistics/ Quantitative Economics/ Econometrics/ Informatics or any other related branches of these areas from a recognized Indian/ Foreign University/ Institute approved/ recognized by Government/ UGC/ AICTE;",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Master's Degree with a minimum 55% marks in aggregate of all semesters/ years or an equivalent grade/ CGPA in Data Science / Artificial Intelligence/ Machine Learning/ Big Data Analytics or any other related branches of these areas from a recognized Indian / Foreign University/ Institute approved/ recognized by Government/ UGC/ AICTE;",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Four-year Bachelor's Degree with a minimum 60% marks in aggregate of all semesters/ years or an equivalent grade/ CGPA in Statistics / Mathematical Statistics/ Applied St atistics/ Quantitative Economics/ Econometrics/ Informatics/ Data Science/ Artificial Intelligence/ Machine Learning/ Big Data Analytics or any other related branches of these areas from a recognized Indian/ Foreign University/ Institute approved/ recogniz ed by Government/ UGC/ AICTE.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "For SC, ST and PwBD candidates, the minimum marks required in items (a), (b) and (c) above is 50% in aggregate of all semesters/ years or an equivalent grade/ CGPA, if the posts are reserved for them.",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "14": {
+      "chunk_index": 14,
+      "entities": [
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Doctorate",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "M.Phil.",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Ph.D qualification",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "degree",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "15": {
+      "chunk_index": 15,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "16": {
+      "chunk_index": 16,
+      "entities": [
+        {
+          "name": "Phase-I Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "post",
+          "type": "POST"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "University/ Institute",
+          "type": "ORG"
+        },
+        {
+          "name": "marksheet",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "provisional certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Phase-I Examination",
+          "relation": "OFFERS",
+          "tail": "post"
+        },
+        {
+          "head": "post",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "marksheet"
+        },
+        {
+          "head": "post",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "provisional certificate"
+        },
+        {
+          "head": "post",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificate"
+        }
+      ],
+      "error": null
+    },
+    "17": {
+      "chunk_index": 17,
+      "entities": [
+        {
+          "name": "caste certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "18": {
+      "chunk_index": 18,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officer in Gr ‘B’ - GENERAL/ DEPR/DSIM",
+          "type": "POST"
+        },
+        {
+          "name": "father's OBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Department of Personnel & Training (DoPT), Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "January 15, 2018",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Officer in Gr ‘B’ - GENERAL/ DEPR/DSIM"
+        },
+        {
+          "head": "Officer in Gr ‘B’ - GENERAL/ DEPR/DSIM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "father's OBC certificate"
+        }
+      ],
+      "error": null
+    },
+    "19": {
+      "chunk_index": 19,
+      "entities": [
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "latest disability certificate issued by a Competent Authority",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "20": {
+      "chunk_index": 20,
+      "entities": [
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (DEPwD)",
+          "type": "ORG"
+        },
+        {
+          "name": "Bank/Board",
+          "type": "ORG"
+        },
+        {
+          "name": "permanent disability certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "21": {
+      "chunk_index": 21,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "DEPwD",
+          "type": "ORG"
+        },
+        {
+          "name": "December 17, 2025",
+          "type": "DATE"
+        },
+        {
+          "name": "permanent disability certificate/s",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "fresh disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "22": {
+      "chunk_index": 22,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "23": {
+      "chunk_index": 23,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "certificate to the effect that person concerned has limitation to write",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "24": {
+      "chunk_index": 24,
+      "entities": [
+        {
+          "name": "examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "25": {
+      "chunk_index": 25,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Admit Cards",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "online application form",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "26": {
+      "chunk_index": 26,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Examinations",
+          "type": "EXAM"
+        },
+        {
+          "name": "post",
+          "type": "POST"
+        },
+        {
+          "name": "Fee/Intimation Charges",
+          "type": "FEE"
+        },
+        {
+          "name": "Phase-I",
+          "type": "EXAM"
+        },
+        {
+          "name": "Phase-II",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examinations",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Examinations",
+          "relation": "OFFERS",
+          "tail": "post"
+        },
+        {
+          "head": "Examinations",
+          "relation": "APPLICATION_FEE",
+          "tail": "Fee/Intimation Charges"
+        }
+      ],
+      "error": null
+    },
+    "27": {
+      "chunk_index": 27,
+      "entities": [
+        {
+          "name": "Reserve Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "₹ 100/- + 18%GST",
+          "type": "FEE"
+        },
+        {
+          "name": "₹ 850/- + 18%GST",
+          "type": "FEE"
+        },
+        {
+          "name": "December 20, 2013",
+          "type": "DATE"
+        },
+        {
+          "name": "June 09, 2014",
+          "type": "DATE"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "28": {
+      "chunk_index": 28,
+      "entities": [
+        {
+          "name": "Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "May 20, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "29": {
+      "chunk_index": 29,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "RBI Officers in Grade 'B' (DR) - GENERAL/DEPR/DSIM – PY 2026",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBI Officers in Grade 'B' (DR) - GENERAL/DEPR/DSIM – PY 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "30": {
+      "chunk_index": 30,
+      "entities": [
+        {
+          "name": "Paper -II examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade ‘B’",
+          "type": "POST"
+        },
+        {
+          "name": "Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "31": {
+      "chunk_index": 31,
+      "entities": [
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officer in Grade ‘B’ (DR) - GENERAL stream",
+          "type": "POST"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Officer in Grade ‘B’ (DR) - GENERAL stream"
+        }
+      ],
+      "error": null
+    },
+    "32": {
+      "chunk_index": 32,
+      "entities": [
+        {
+          "name": "Officer in Grade ‘B’ (DR) - GENERAL stream",
+          "type": "POST"
+        },
+        {
+          "name": "Officer in Grade ‘B’ (DR) - DEPR/DSIM stream",
+          "type": "POST"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "January 01, 2012",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "33": {
+      "chunk_index": 33,
+      "entities": [
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Phase-I - Grade ‘B’ (DR) - General",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Phase-I - Grade ‘B’ (DR) - General",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "34": {
+      "chunk_index": 34,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "35": {
+      "chunk_index": 35,
+      "entities": [
+        {
+          "name": "Phase-II - Grade ‘B’ (DR) – General",
+          "type": "EXAM"
+        },
+        {
+          "name": "Phase-I and Phase-II - Grade ‘B’ (DR) – DEPR/DSIM",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Phase-II - Grade ‘B’ (DR) – General",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Phase-I and Phase-II - Grade ‘B’ (DR) – DEPR/DSIM",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "36": {
+      "chunk_index": 36,
+      "entities": [
+        {
+          "name": "Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Examination",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Board"
+        }
+      ],
+      "error": null
+    },
+    "37": {
+      "chunk_index": 37,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "38": {
+      "chunk_index": 38,
+      "entities": [
+        {
+          "name": "Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "39": {
+      "chunk_index": 39,
+      "entities": [
+        {
+          "name": "Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Board",
+          "type": "ORG"
+        },
+        {
+          "name": "certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Examination",
+          "relation": "CONDUCTED_BY",
+          "tail": "Board"
+        }
+      ],
+      "error": null
+    },
+    "40": {
+      "chunk_index": 40,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "41": {
+      "chunk_index": 41,
+      "entities": [
+        {
+          "name": "Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "42": {
+      "chunk_index": 42,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "01/2026-27",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "43": {
+      "chunk_index": 43,
+      "entities": [
+        {
+          "name": "examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Board",
+          "type": "ORG"
+        },
+        {
+          "name": "IBPS",
+          "type": "ORG"
+        },
+        {
+          "name": "Admit Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Proof of Identity",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo identity card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Passport",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving Licence",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter’s Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bank   Passbook   with photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo identity proof issued by a Gazetted Officer on official letterhead",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Photo identity proof issued by a People's Representative on official letterhead",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "valid recent Identity Card issued by a recognised college / university",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "e-Aadhar card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhar card with a photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Employee ID",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bar Council Identity card with photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Ration card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Learners Driving License",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "44": {
+      "chunk_index": 44,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "photo identity proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Admit Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Gazette Notification",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "marriage certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "affidavit",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "45": {
+      "chunk_index": 45,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "46": {
+      "chunk_index": 46,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "47": {
+      "chunk_index": 47,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Grade ‘B’ (DR) – General cadre",
+          "type": "POST"
+        },
+        {
+          "name": "Grade ‘B’ (DR) – DEPR/DSIM cadre",
+          "type": "POST"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "48": {
+      "chunk_index": 48,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "49": {
+      "chunk_index": 49,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "valid document showing him/her acquiring a disability to the extent of 40% or more as defined under RPwD Act, 2016",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "requisite certificates in the prescribed format",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "50": {
+      "chunk_index": 50,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Grade ‘B’ (DR) -General",
+          "type": "POST"
+        },
+        {
+          "name": "Grade ‘B’ (DR) -",
+          "type": "POST"
+        },
+        {
+          "name": "April 29 – May 20, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Grade ‘B’ (DR) -General"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Grade ‘B’ (DR) -"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "LAST_DATE",
+          "tail": "April 29 – May 20, 2026"
+        }
+      ],
+      "error": null
+    },
+    "51": {
+      "chunk_index": 51,
+      "entities": [
+        {
+          "name": "May 20, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Grade ‘B’ (DR) -General",
+          "type": "POST"
+        },
+        {
+          "name": "Grade ‘B’ (DR) -DEPR",
+          "type": "POST"
+        },
+        {
+          "name": "DSIM",
+          "type": "POST"
+        },
+        {
+          "name": "Aadhaar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Educational Qualification Documents",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photograph (4.5cm × 3.5cm)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature (with black ink)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression (on white paper with black or blue ink)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "handwritten declaration (on a white paper with Black Ink)",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Grade ‘B’ (DR) -General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Educational Qualification Documents"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "photograph (4.5cm × 3.5cm)"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "signature (with black ink)"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "left thumb impression (on white paper with black or blue ink)"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -General",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "handwritten declaration (on a white paper with Black Ink)"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -DEPR",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -DEPR",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Educational Qualification Documents"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -DEPR",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "photograph (4.5cm × 3.5cm)"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -DEPR",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "signature (with black ink)"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -DEPR",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "left thumb impression (on white paper with black or blue ink)"
+        },
+        {
+          "head": "Grade ‘B’ (DR) -DEPR",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "handwritten declaration (on a white paper with Black Ink)"
+        },
+        {
+          "head": "DSIM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhaar"
+        },
+        {
+          "head": "DSIM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Educational Qualification Documents"
+        },
+        {
+          "head": "DSIM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "photograph (4.5cm × 3.5cm)"
+        },
+        {
+          "head": "DSIM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "signature (with black ink)"
+        },
+        {
+          "head": "DSIM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "left thumb impression (on white paper with black or blue ink)"
+        },
+        {
+          "head": "DSIM",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "handwritten declaration (on a white paper with Black Ink)"
+        }
+      ],
+      "error": null
+    },
+    "52": {
+      "chunk_index": 52,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "53": {
+      "chunk_index": 53,
+      "entities": [
+        {
+          "name": "Direct Recruitment for the post of Officers in Grade ‘B’ (Direct Recruit -DR) (On Probation-OP) (General/DEPR/DSIM) Cadres - Panel Year 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Officers in Grade ‘B’ (Direct Recruit -DR) (On Probation-OP) (General/DEPR/DSIM) Cadres",
+          "type": "POST"
+        },
+        {
+          "name": "April 01, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Direct Recruitment for the post of Officers in Grade ‘B’ (Direct Recruit -DR) (On Probation-OP) (General/DEPR/DSIM) Cadres - Panel Year 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Direct Recruitment for the post of Officers in Grade ‘B’ (Direct Recruit -DR) (On Probation-OP) (General/DEPR/DSIM) Cadres - Panel Year 2026",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade ‘B’ (Direct Recruit -DR) (On Probation-OP) (General/DEPR/DSIM) Cadres"
+        }
+      ],
+      "error": null
+    },
+    "54": {
+      "chunk_index": 54,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "55": {
+      "chunk_index": 55,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "56": {
+      "chunk_index": 56,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "57": {
+      "chunk_index": 57,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "June 05, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "LAST_DATE",
+          "tail": "June 05, 2026"
+        }
+      ],
+      "error": null
+    },
+    "58": {
+      "chunk_index": 58,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "59": {
+      "chunk_index": 59,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "60": {
+      "chunk_index": 60,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "61": {
+      "chunk_index": 61,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "left thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "handwritten declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "62": {
+      "chunk_index": 62,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "63": {
+      "chunk_index": 63,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "₹ 200/-",
+          "type": "FEE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "64": {
+      "chunk_index": 64,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "OFFICERS IN GR ‘B’ (DR) - GENERAL- PY 2026",
+          "type": "POST"
+        },
+        {
+          "name": "June 13, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "OFFICERS IN GR ‘B’ (DR) - GENERAL- PY 2026"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "EXAM_DATE",
+          "tail": "June 13, 2026"
+        }
+      ],
+      "error": null
+    },
+    "65": {
+      "chunk_index": 65,
+      "entities": [
+        {
+          "name": "Phase-I Online Examination (Objective Type)",
+          "type": "EXAM"
+        },
+        {
+          "name": "June 13, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Reserve Bank of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Phase-I Online Examination (Objective Type)",
+          "relation": "EXAM_DATE",
+          "tail": "June 13, 2026"
+        },
+        {
+          "head": "Phase-I Online Examination (Objective Type)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India"
+        }
+      ],
+      "error": null
+    },
+    "66": {
+      "chunk_index": 66,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Phase-II Online Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "July 25, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Phase-II Online Examination",
+          "relation": "EXAM_DATE",
+          "tail": "July 25, 2026"
+        }
+      ],
+      "error": null
+    },
+    "67": {
+      "chunk_index": 67,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "68": {
+      "chunk_index": 68,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "69": {
+      "chunk_index": 69,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "70": {
+      "chunk_index": 70,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "71": {
+      "chunk_index": 71,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "72": {
+      "chunk_index": 72,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "73": {
+      "chunk_index": 73,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "74": {
+      "chunk_index": 74,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Officers in Grade 'B' (DR) – DEPR- PY 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade 'B' (DR) – DEPR",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers in Grade 'B' (DR) – DEPR- PY 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR) – DEPR- PY 2026",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade 'B' (DR) – DEPR"
+        }
+      ],
+      "error": null
+    },
+    "75": {
+      "chunk_index": 75,
+      "entities": [
+        {
+          "name": "Online/ Written Examination (WE) and Interview",
+          "type": "EXAM"
+        },
+        {
+          "name": "June 14, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "RBI",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Online/ Written Examination (WE) and Interview",
+          "relation": "CONDUCTED_BY",
+          "tail": "RBI"
+        },
+        {
+          "head": "Online/ Written Examination (WE) and Interview",
+          "relation": "EXAM_DATE",
+          "tail": "June 14, 2026"
+        },
+        {
+          "head": "Online/ Written Examination (WE) and Interview",
+          "relation": "EXAM_DATE",
+          "tail": "July 26, 2026"
+        }
+      ],
+      "error": null
+    },
+    "76": {
+      "chunk_index": 76,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "EXAM_DATE",
+          "tail": "July 26, 2026"
+        }
+      ],
+      "error": null
+    },
+    "77": {
+      "chunk_index": 77,
+      "entities": [
+        {
+          "name": "Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "78": {
+      "chunk_index": 78,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "79": {
+      "chunk_index": 79,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "80": {
+      "chunk_index": 80,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "81": {
+      "chunk_index": 81,
+      "entities": [
+        {
+          "name": "Officers in Grade 'B' (DR) – DSIM- PY 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officers in Grade 'B' (DR) – DSIM",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers in Grade 'B' (DR) – DSIM- PY 2026",
+          "relation": "OFFERS",
+          "tail": "Officers in Grade 'B' (DR) – DSIM"
+        }
+      ],
+      "error": null
+    },
+    "82": {
+      "chunk_index": 82,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "June 14, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "EXAM_DATE",
+          "tail": "June 14, 2026"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "EXAM_DATE",
+          "tail": "July 26, 2026"
+        }
+      ],
+      "error": null
+    },
+    "83": {
+      "chunk_index": 83,
+      "entities": [
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "RBI",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "84": {
+      "chunk_index": 84,
+      "entities": [
+        {
+          "name": "Paper – II and Paper-III",
+          "type": "EXAM"
+        },
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Paper – II and Paper-III",
+          "relation": "EXAM_DATE",
+          "tail": "July 26, 2026"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "85": {
+      "chunk_index": 85,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "86": {
+      "chunk_index": 86,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "87": {
+      "chunk_index": 87,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "88": {
+      "chunk_index": 88,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "89": {
+      "chunk_index": 89,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "90": {
+      "chunk_index": 90,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "91": {
+      "chunk_index": 91,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "92": {
+      "chunk_index": 92,
+      "entities": [
+        {
+          "name": "Grade 'B’ (DR)-DEPR /DSIM",
+          "type": "EXAM"
+        },
+        {
+          "name": "June 14, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Grade 'B’ (DR)-DEPR /DSIM",
+          "relation": "EXAM_DATE",
+          "tail": "June 14, 2026"
+        },
+        {
+          "head": "Grade 'B’ (DR)-DEPR /DSIM",
+          "relation": "EXAM_DATE",
+          "tail": "July 26, 2026"
+        }
+      ],
+      "error": null
+    },
+    "93": {
+      "chunk_index": 93,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "June 14, 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "July 26, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "94": {
+      "chunk_index": 94,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Officers in Grade 'B' (DR)- General- PY 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Officer in Grade 'B' (DR) - General – PY 2026",
+          "type": "POST"
+        },
+        {
+          "name": "May 20, 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers in Grade 'B' (DR)- General- PY 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Officers in Grade 'B' (DR)- General- PY 2026",
+          "relation": "OFFERS",
+          "tail": "Officer in Grade 'B' (DR) - General – PY 2026"
+        }
+      ],
+      "error": null
+    },
+    "95": {
+      "chunk_index": 95,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board (RBISB)",
+          "type": "ORG"
+        },
+        {
+          "name": "Officer in Grade 'B' (DR) - General – PY 2026",
+          "type": "POST"
+        },
+        {
+          "name": "Caste/PwBD Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board (RBISB)"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Officer in Grade 'B' (DR) - General – PY 2026"
+        },
+        {
+          "head": "Officer in Grade 'B' (DR) - General – PY 2026",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste/PwBD Certificate"
+        }
+      ],
+      "error": null
+    },
+    "96": {
+      "chunk_index": 96,
+      "entities": [
+        {
+          "name": "Reserve Bank of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "97": {
+      "chunk_index": 97,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "FORM OF CERTIFICATE TO BE PRODUCED BY OTHER BACKWARD CLASSES APPLYING FOR APPOINTMENT TO POSTS UNDER THE GOVERNMENT OF INDIA",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "98": {
+      "chunk_index": 98,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Other Backward Classes certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "99": {
+      "chunk_index": 99,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "INCOME & ASSET CERTIFICATE TO BE PRODUCED BY ECONOMICALLY WEAKER SECTIONS",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "100": {
+      "chunk_index": 100,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Scheduled Castes and Scheduled Tribes candidates",
+          "type": "POST"
+        },
+        {
+          "name": "certificate to be produced by Scheduled Castes and Scheduled Tribes candidates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        },
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "OFFERS",
+          "tail": "Scheduled Castes and Scheduled Tribes candidates"
+        },
+        {
+          "head": "Scheduled Castes and Scheduled Tribes candidates",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "certificate to be produced by Scheduled Castes and Scheduled Tribes candidates"
+        }
+      ],
+      "error": null
+    },
+    "101": {
+      "chunk_index": 101,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "102": {
+      "chunk_index": 102,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "103": {
+      "chunk_index": 103,
+      "entities": [
+        {
+          "name": "Scheduled Caste/Scheduled Tribe certificates",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "104": {
+      "chunk_index": 104,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "Certificate Regarding Physical Limitation in an Examinee to Write",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "105": {
+      "chunk_index": 105,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        },
+        {
+          "name": "certificate of disability",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "106": {
+      "chunk_index": 106,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "107": {
+      "chunk_index": 107,
+      "entities": [
+        {
+          "name": "Reserve Bank of India Services Board",
+          "type": "ORG"
+        },
+        {
+          "name": "Advt. No. RBISB/DA/01/2026-27",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Advt. No. RBISB/DA/01/2026-27",
+          "relation": "CONDUCTED_BY",
+          "tail": "Reserve Bank of India Services Board"
+        }
+      ],
+      "error": null
+    },
+    "108": {
+      "chunk_index": 108,
+      "entities": [],
+      "relations": [],
+      "error": null
+    }
+  }
+}

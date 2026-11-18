@@ -1,0 +1,2186 @@
+{
+  "source_file": "SBI_PO_2026_Notification.pdf",
+  "file_hash": "22dd33b5141eeb8214937dd4af5121d715bdf85f4a05a2cffdecda3ffe7b509b",
+  "results": {
+    "0": {
+      "chunk_index": 0,
+      "entities": [
+        {
+          "name": "State Bank of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "1": {
+      "chunk_index": 1,
+      "entities": [
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "State Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Graduates from any discipline",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES",
+          "tail": "Graduates from any discipline"
+        }
+      ],
+      "error": null
+    },
+    "2": {
+      "chunk_index": 2,
+      "entities": [
+        {
+          "name": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officers",
+          "type": "POST"
+        },
+        {
+          "name": "State Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "August 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "September 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "October / November 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "18.06.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "08.07.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "State Bank of India"
+        },
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "OFFERS",
+          "tail": "Probationary Officers"
+        },
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "LAST_DATE",
+          "tail": "08.07.2026"
+        },
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "EXAM_DATE",
+          "tail": "August 2026"
+        },
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "EXAM_DATE",
+          "tail": "September 2026"
+        },
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "EXAM_DATE",
+          "tail": "October / November 2026"
+        }
+      ],
+      "error": null
+    },
+    "3": {
+      "chunk_index": 3,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "4": {
+      "chunk_index": 4,
+      "entities": [
+        {
+          "name": "01.04.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "31.01.2019",
+          "type": "DATE"
+        },
+        {
+          "name": "Financial Year 2025-26",
+          "type": "DATE"
+        },
+        {
+          "name": "Financial Year 2026-27",
+          "type": "DATE"
+        },
+        {
+          "name": "OBC certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income & Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Personnel & Training",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "5": {
+      "chunk_index": 5,
+      "entities": [
+        {
+          "name": "Income & Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "18.06.2026 to 08.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "August 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "September 2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "6": {
+      "chunk_index": 6,
+      "entities": [
+        {
+          "name": "Main Examination Call letter August / September 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Online Main Examination September 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Declaration of Result of Main Examination September / October 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Call Letter for Phase-III (Psychometric Test, Interview & Group Exercises) October / November 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Psychometric Test October / November 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Interview & Group Exercises October / November 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Declaration of Final Result November / December 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Pre- Examination Training July 2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Not below 21 years and not above 30 years as on 01.04.2026",
+          "type": "AGE_LIMIT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "7": {
+      "chunk_index": 7,
+      "entities": [
+        {
+          "name": "Officers (SSCOs)",
+          "type": "POST"
+        },
+        {
+          "name": "Graduation in any discipline from a recognized University or any equivalent qualification recognized as such by the Central Government",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "30.09.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Group exercise/interview",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Integrated Dual Degree (IDD) certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Medical, Engineering",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Officers (SSCOs)",
+          "relation": "REQUIRES",
+          "tail": "Graduation in any discipline from a recognized University or any equivalent qualification recognized as such by the Central Government"
+        },
+        {
+          "head": "Officers (SSCOs)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Group exercise/interview"
+        },
+        {
+          "head": "Officers (SSCOs)",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Integrated Dual Degree (IDD) certificate"
+        },
+        {
+          "head": "Graduation in any discipline from a recognized University or any equivalent qualification recognized as such by the Central Government",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "30.09.2026"
+        },
+        {
+          "head": "Medical, Engineering",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "30.09.2026"
+        }
+      ],
+      "error": null
+    },
+    "8": {
+      "chunk_index": 8,
+      "entities": [
+        {
+          "name": "Persons with Benchmark Disabilities (PwBD)",
+          "type": "POST"
+        },
+        {
+          "name": "The Rights of Persons with Disabilities Act (RPWD), 2016",
+          "type": "ORG"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (Divyangjan)",
+          "type": "ORG"
+        },
+        {
+          "name": "30.09.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Persons with Benchmark Disabilities (PwBD)",
+          "relation": "REQUIRES",
+          "tail": "30.09.2026"
+        },
+        {
+          "head": "The Rights of Persons with Disabilities Act (RPWD), 2016",
+          "relation": "CONDUCTED_BY",
+          "tail": "Department of Empowerment of Persons with Disabilities (Divyangjan)"
+        }
+      ],
+      "error": null
+    },
+    "9": {
+      "chunk_index": 9,
+      "entities": [
+        {
+          "name": "RW- Reading & writing",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "SE- Seeing",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "C- Communication",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Hard of Hearing (HH)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "One arm affected (OA)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Both Arms affected (BA)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "One leg affected (OL)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Both legs affected (BL)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "One arm & One Leg affected (OAL)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Cerebral Palsy (CP)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Leprosy Cured Person (LC)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Dwarfism (Dw)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Acid Attack victims (AAV)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Spine deformity (SD)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Spine injury (SI)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Autism Spectrum Disorder- Mild (ASD-M)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Mental Illness (MI)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Multiple Disabilities (MD)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Visual Impairment (VI)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Blindness",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Low Vision",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Hearing Impaired (HI)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Locomotor Disabilities (LD)",
+          "type": "QUALIFICATION"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "10": {
+      "chunk_index": 10,
+      "entities": [
+        {
+          "name": "Hearing Impaired (HI)",
+          "type": "POST"
+        },
+        {
+          "name": "Locomotor Disabilities (LD)",
+          "type": "POST"
+        },
+        {
+          "name": "Cerebral Palsy",
+          "type": "POST"
+        },
+        {
+          "name": "Leprosy Cured (LC)",
+          "type": "POST"
+        },
+        {
+          "name": "Dwarfism (DW)",
+          "type": "POST"
+        },
+        {
+          "name": "Acid Attack Victims (AAV)",
+          "type": "POST"
+        },
+        {
+          "name": "Spinal Deformity (SD)",
+          "type": "POST"
+        },
+        {
+          "name": "Spinal Injury (SI)",
+          "type": "POST"
+        },
+        {
+          "name": "Orthopedically challenged persons",
+          "type": "POST"
+        },
+        {
+          "name": "OA - One arm affected (Right or Left)",
+          "type": "POST"
+        },
+        {
+          "name": "BA – Both arms affected",
+          "type": "POST"
+        },
+        {
+          "name": "OAL -One arm & One Leg affected",
+          "type": "POST"
+        },
+        {
+          "name": "BL – Both Leg affected Persons",
+          "type": "POST"
+        },
+        {
+          "name": "OL - One leg affected (Right or Left)",
+          "type": "POST"
+        },
+        {
+          "name": "Leprosy cured person (LC)",
+          "type": "POST"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "11": {
+      "chunk_index": 11,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "12": {
+      "chunk_index": 12,
+      "entities": [
+        {
+          "name": "Persons with Benchmark disabilities (PwBD)",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "Benchmark disability",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "specified disability",
+          "type": "QUALIFICATION"
+        },
+        {
+          "name": "disability certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Competent Authority",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Backlog vacancies",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Persons with Benchmark disabilities (PwBD)",
+          "relation": "REQUIRES",
+          "tail": "disability certificate"
+        },
+        {
+          "head": "Persons with Benchmark disabilities (PwBD)",
+          "relation": "REQUIRES",
+          "tail": "Competent Authority"
+        },
+        {
+          "head": "disability certificate",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Persons with Benchmark disabilities (PwBD)"
+        },
+        {
+          "head": "Persons with Benchmark disabilities (PwBD)",
+          "relation": "REQUIRES",
+          "tail": "Government of India"
+        },
+        {
+          "head": "Backlog vacancies",
+          "relation": "REQUIRES",
+          "tail": "Persons with Benchmark disabilities (PwBD)"
+        }
+      ],
+      "error": null
+    },
+    "13": {
+      "chunk_index": 13,
+      "entities": [
+        {
+          "name": "Office Memorandum No. 18 -25/2024-Policy dated 17.12.2025",
+          "type": "DATE"
+        },
+        {
+          "name": "Department of Empowerment of Persons with Disabilities (Divyangjan)",
+          "type": "ORG"
+        },
+        {
+          "name": "Ministry of Social Justice and Empowerment",
+          "type": "ORG"
+        },
+        {
+          "name": "Govt of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Office Memorandum No. 18 -25/2024-Policy dated 17.12.2025",
+          "relation": "CONDUCTED_BY",
+          "tail": "Department of Empowerment of Persons with Disabilities (Divyangjan)"
+        },
+        {
+          "head": "Office Memorandum No. 18 -25/2024-Policy dated 17.12.2025",
+          "relation": "CONDUCTED_BY",
+          "tail": "Ministry of Social Justice and Empowerment"
+        },
+        {
+          "head": "Office Memorandum No. 18 -25/2024-Policy dated 17.12.2025",
+          "relation": "CONDUCTED_BY",
+          "tail": "Govt of India"
+        }
+      ],
+      "error": null
+    },
+    "14": {
+      "chunk_index": 14,
+      "entities": [
+        {
+          "name": "Income and Asset Certificate",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "15": {
+      "chunk_index": 15,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "16": {
+      "chunk_index": 16,
+      "entities": [
+        {
+          "name": "Government of India, Ministry of Social Justice and Empowerment, Department of Disability Affairs, New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Office Memorandum F. No.16 -110/2003-DD III dated 26.02.2013",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "17": {
+      "chunk_index": 17,
+      "entities": [
+        {
+          "name": "Government of India, Ministry of Social Justice and Empowerment, Department of Disability Affairs, New Delhi",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India, Ministry of Finance, Department of Financial Services",
+          "type": "ORG"
+        },
+        {
+          "name": "Office Memorandum F. No .29 -6/2019-DD-III dated 10/08/2022 of Government of India, Ministry of Social Justice & Empowerment, Department of Empowerment of persons with Disabilities(Divyangjan))",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "18": {
+      "chunk_index": 18,
+      "entities": [
+        {
+          "name": "Government healthcare institution",
+          "type": "ORG"
+        },
+        {
+          "name": "CIBIL",
+          "type": "ORG"
+        },
+        {
+          "name": "Banks / NBFCs / Financial Institutions",
+          "type": "ORG"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "19": {
+      "chunk_index": 19,
+      "entities": [
+        {
+          "name": "APPLICATION FEE AND INTIMATION CHARGE (Non-Refundable)",
+          "type": "FEE"
+        },
+        {
+          "name": "750/- for Unreserved / EWS/ OBC candidates",
+          "type": "FEE"
+        },
+        {
+          "name": "Nil for SC/ ST/ PwBD candidates",
+          "type": "FEE"
+        }
+      ],
+      "relations": [
+        {
+          "head": "APPLICATION FEE AND INTIMATION CHARGE (Non-Refundable)",
+          "relation": "APPLICATION_FEE",
+          "tail": "750/- for Unreserved / EWS/ OBC candidates"
+        },
+        {
+          "head": "APPLICATION FEE AND INTIMATION CHARGE (Non-Refundable)",
+          "relation": "APPLICATION_FEE",
+          "tail": "Nil for SC/ ST/ PwBD candidates"
+        }
+      ],
+      "error": null
+    },
+    "20": {
+      "chunk_index": 20,
+      "entities": [
+        {
+          "name": "Probationary Officers",
+          "type": "POST"
+        },
+        {
+          "name": "Preliminary Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "English Language",
+          "type": "EXAM"
+        },
+        {
+          "name": "Quantitative Aptitude",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reasoning Ability",
+          "type": "EXAM"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "SC/ ST/ OBC / PwBD candidates",
+          "type": "POST"
+        },
+        {
+          "name": "Pre-Examination Training (PET)",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Probationary Officers",
+          "relation": "REQUIRES",
+          "tail": "SC/ ST/ OBC / PwBD candidates"
+        },
+        {
+          "head": "Probationary Officers",
+          "relation": "REQUIRES",
+          "tail": "Pre-Examination Training (PET)"
+        },
+        {
+          "head": "Preliminary Examination",
+          "relation": "OFFERS",
+          "tail": "English Language"
+        },
+        {
+          "head": "Preliminary Examination",
+          "relation": "OFFERS",
+          "tail": "Quantitative Aptitude"
+        },
+        {
+          "head": "Preliminary Examination",
+          "relation": "OFFERS",
+          "tail": "Reasoning Ability"
+        },
+        {
+          "head": "Main Examination",
+          "relation": "OFFERS",
+          "tail": "English Language"
+        },
+        {
+          "head": "Main Examination",
+          "relation": "OFFERS",
+          "tail": "Quantitative Aptitude"
+        },
+        {
+          "head": "Main Examination",
+          "relation": "OFFERS",
+          "tail": "Reasoning Ability"
+        },
+        {
+          "head": "Pre-Examination Training (PET)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Bank"
+        },
+        {
+          "head": "Pre-Examination Training (PET)",
+          "relation": "CONDUCTED_BY",
+          "tail": "Government of India"
+        }
+      ],
+      "error": null
+    },
+    "21": {
+      "chunk_index": 21,
+      "entities": [
+        {
+          "name": "Preliminary Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Objective Test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Descriptive test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Reasoning & Computer Aptitude",
+          "type": "EXAM"
+        },
+        {
+          "name": "Data Analysis & Interpretation",
+          "type": "EXAM"
+        },
+        {
+          "name": "General Awareness / Economy/ Banking Knowledge",
+          "type": "EXAM"
+        },
+        {
+          "name": "English Language",
+          "type": "EXAM"
+        },
+        {
+          "name": "Communication Skills",
+          "type": "EXAM"
+        },
+        {
+          "name": "Objective tests",
+          "type": "EXAM"
+        },
+        {
+          "name": "Descriptive test",
+          "type": "EXAM"
+        },
+        {
+          "name": "SECTIONAL CUT OFF IN MAIN EXAMINATION",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "22": {
+      "chunk_index": 22,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "23": {
+      "chunk_index": 23,
+      "entities": [
+        {
+          "name": "Psychometric Test",
+          "type": "POST"
+        },
+        {
+          "name": "Group Exercise",
+          "type": "POST"
+        },
+        {
+          "name": "Personal Interview",
+          "type": "POST"
+        },
+        {
+          "name": "Phase-II",
+          "type": "EXAM"
+        },
+        {
+          "name": "Phase-III",
+          "type": "EXAM"
+        },
+        {
+          "name": "Preliminary Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Objective Test",
+          "type": "POST"
+        },
+        {
+          "name": "Descriptive Test",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Phase-III",
+          "relation": "OFFERS",
+          "tail": "Psychometric Test"
+        },
+        {
+          "head": "Phase-III",
+          "relation": "OFFERS",
+          "tail": "Group Exercise"
+        },
+        {
+          "head": "Phase-III",
+          "relation": "OFFERS",
+          "tail": "Personal Interview"
+        },
+        {
+          "head": "Phase-II",
+          "relation": "OFFERS",
+          "tail": "Objective Test"
+        },
+        {
+          "head": "Phase-II",
+          "relation": "OFFERS",
+          "tail": "Descriptive Test"
+        }
+      ],
+      "error": null
+    },
+    "24": {
+      "chunk_index": 24,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "25": {
+      "chunk_index": 25,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "26": {
+      "chunk_index": 26,
+      "entities": [
+        {
+          "name": "Junior Management Grade Scale-I",
+          "type": "POST"
+        },
+        {
+          "name": "48,480/- (Plus 4 advance increments)",
+          "type": "FEE"
+        },
+        {
+          "name": "Rs.21.97 Lacs",
+          "type": "FEE"
+        },
+        {
+          "name": "DA, HRA, CCA, PF, Contributory Pension Fund i.e., NPS, LFC, Medical Facility, Lease rental facility",
+          "type": "FEE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "27": {
+      "chunk_index": 27,
+      "entities": [
+        {
+          "name": "Probationary Officers",
+          "type": "POST"
+        },
+        {
+          "name": "Junior Management Grade Scale-I",
+          "type": "POST"
+        },
+        {
+          "name": "Top Management Grade",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Probationary Officers",
+          "relation": "OFFERS",
+          "tail": "Junior Management Grade Scale-I"
+        },
+        {
+          "head": "Probationary Officers",
+          "relation": "OFFERS",
+          "tail": "Top Management Grade"
+        }
+      ],
+      "error": null
+    },
+    "28": {
+      "chunk_index": 28,
+      "entities": [
+        {
+          "name": "18.06.2026 to 08.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "08.07.2026",
+          "type": "DATE"
+        },
+        {
+          "name": "Bank's ‘Career’ website https://sbi.bank.in/web/careers/current-openings",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "18.06.2026 to 08.07.2026",
+          "relation": "LAST_DATE",
+          "tail": "08.07.2026"
+        },
+        {
+          "head": "Bank's ‘Career’ website https://sbi.bank.in/web/careers/current-openings",
+          "relation": "CONDUCTED_BY",
+          "tail": "08.07.2026"
+        }
+      ],
+      "error": null
+    },
+    "29": {
+      "chunk_index": 29,
+      "entities": [
+        {
+          "name": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "type": "EXAM"
+        },
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "State Bank of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "CONDUCTED_BY",
+          "tail": "State Bank of India"
+        },
+        {
+          "head": "RECRUITMENT OF PROBATIONARY OFFICERS IN STATE BANK OF INDIA - 2026",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        }
+      ],
+      "error": null
+    },
+    "30": {
+      "chunk_index": 30,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "31": {
+      "chunk_index": 31,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "32": {
+      "chunk_index": 32,
+      "entities": [
+        {
+          "name": "Pre-exam Training",
+          "type": "POST"
+        },
+        {
+          "name": "Preliminary Exam",
+          "type": "POST"
+        },
+        {
+          "name": "Main Exam",
+          "type": "POST"
+        },
+        {
+          "name": "Psychometric Test",
+          "type": "POST"
+        },
+        {
+          "name": "GE & Interview",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Pre-exam Training",
+          "relation": "OFFERS",
+          "tail": "GE & Interview"
+        },
+        {
+          "head": "Preliminary Exam",
+          "relation": "OFFERS",
+          "tail": "GE & Interview"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "OFFERS",
+          "tail": "GE & Interview"
+        },
+        {
+          "head": "Psychometric Test",
+          "relation": "OFFERS",
+          "tail": "GE & Interview"
+        }
+      ],
+      "error": null
+    },
+    "33": {
+      "chunk_index": 33,
+      "entities": [
+        {
+          "name": "Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Main Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Preliminary Exam Call Letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "ID Proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Main Exam Call Letter",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Requisite Documents",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "photo identity proof",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Aadhar",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "PAN Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Driving License",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Voter's Id Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Bank Passbook",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Identity Card",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "thumb impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "IRIS Scan",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Main Exam",
+          "relation": "CONDUCTED_BY",
+          "tail": "Bank"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Preliminary Exam Call Letter"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "ID Proof"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Main Exam Call Letter"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Requisite Documents"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "photo identity proof"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Aadhar"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "PAN Card"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Driving License"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Voter's Id Card"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Bank Passbook"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Identity Card"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "thumb impression"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "IRIS Scan"
+        }
+      ],
+      "error": null
+    },
+    "34": {
+      "chunk_index": 34,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "35": {
+      "chunk_index": 35,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "36": {
+      "chunk_index": 36,
+      "entities": [
+        {
+          "name": "State Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        }
+      ],
+      "relations": [
+        {
+          "head": "State Bank of India",
+          "relation": "CONDUCTED_BY",
+          "tail": "State Bank of India"
+        },
+        {
+          "head": "State Bank of India",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        }
+      ],
+      "error": null
+    },
+    "37": {
+      "chunk_index": 37,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "38": {
+      "chunk_index": 38,
+      "entities": [
+        {
+          "name": "Bank's website https://sbi.bank.in/web/careers/current-openings",
+          "type": "ORG"
+        },
+        {
+          "name": "valid Aadhaar card",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "39": {
+      "chunk_index": 39,
+      "entities": [
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "SBI",
+          "type": "ORG"
+        },
+        {
+          "name": "Phase-I",
+          "type": "EXAM"
+        },
+        {
+          "name": "Phase-II",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Phase-I",
+          "relation": "CONDUCTED_BY",
+          "tail": "SBI"
+        },
+        {
+          "head": "Phase-II",
+          "relation": "CONDUCTED_BY",
+          "tail": "SBI"
+        },
+        {
+          "head": "Phase-I",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        },
+        {
+          "head": "Phase-II",
+          "relation": "OFFERS",
+          "tail": "Probationary Officer"
+        }
+      ],
+      "error": null
+    },
+    "40": {
+      "chunk_index": 40,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "41": {
+      "chunk_index": 41,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "42": {
+      "chunk_index": 42,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "43": {
+      "chunk_index": 43,
+      "entities": [
+        {
+          "name": "Mumbai",
+          "type": "DATE"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Competent Authority",
+          "type": "ORG"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        },
+        {
+          "name": "Preliminary Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Exam",
+          "type": "EXAM"
+        },
+        {
+          "name": "Original Preliminary Exam Call",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Preliminary Exam",
+          "relation": "EXAM_DATE",
+          "tail": "Mumbai"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "EXAM_DATE",
+          "tail": "Mumbai"
+        },
+        {
+          "head": "Preliminary Exam",
+          "relation": "EXAM_DATE",
+          "tail": "Bank"
+        },
+        {
+          "head": "Main Exam",
+          "relation": "EXAM_DATE",
+          "tail": "Bank"
+        }
+      ],
+      "error": null
+    },
+    "44": {
+      "chunk_index": 44,
+      "entities": [
+        {
+          "name": "Probationary officers",
+          "type": "POST"
+        },
+        {
+          "name": "Bank",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Probationary officers",
+          "relation": "OFFERS",
+          "tail": "Bank"
+        }
+      ],
+      "error": null
+    },
+    "45": {
+      "chunk_index": 45,
+      "entities": [
+        {
+          "name": "State Bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "Probationary officers",
+          "type": "POST"
+        },
+        {
+          "name": "CIBIL status",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "NOCs from lender",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "State Bank of India",
+          "relation": "CONDUCTED_BY",
+          "tail": "Probationary officers"
+        },
+        {
+          "head": "Probationary officers",
+          "relation": "REQUIRES",
+          "tail": "CIBIL status"
+        },
+        {
+          "head": "Probationary officers",
+          "relation": "REQUIRES",
+          "tail": "NOCs from lender"
+        }
+      ],
+      "error": null
+    },
+    "46": {
+      "chunk_index": 46,
+      "entities": [
+        {
+          "name": "OBC (Non-Creamy Layer)",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "01.04.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "47": {
+      "chunk_index": 47,
+      "entities": [
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "OBC (Non-Creamy Layer) Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "OBC Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Income & Asset Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Govt. of India",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC (Non-Creamy Layer) Certificate"
+        },
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "OBC Certificate"
+        },
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Income & Asset Certificate"
+        }
+      ],
+      "error": null
+    },
+    "48": {
+      "chunk_index": 48,
+      "entities": [
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Caste Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Competent Authority",
+          "type": "ORG"
+        },
+        {
+          "name": "Government of India",
+          "type": "ORG"
+        },
+        {
+          "name": "PwBD Certificate",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Rights of Persons with Disabilities Act 2016",
+          "type": "ORG"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Caste Certificate"
+        },
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "PwBD Certificate"
+        },
+        {
+          "head": "Rights of Persons with Disabilities Act 2016",
+          "relation": "CONDUCTED_BY",
+          "tail": "Government of India"
+        }
+      ],
+      "error": null
+    },
+    "49": {
+      "chunk_index": 49,
+      "entities": [
+        {
+          "name": "Probationary Officer",
+          "type": "POST"
+        },
+        {
+          "name": "Office Memorandum No. 18-25/2024-Policy dated 17.12.2025 issued by Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice and Empowerment, Govt of India",
+          "type": "ORG"
+        },
+        {
+          "name": "PwBD candidates",
+          "type": "POST"
+        },
+        {
+          "name": "Preliminary examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Main Examination",
+          "type": "EXAM"
+        },
+        {
+          "name": "Psychometric test",
+          "type": "EXAM"
+        },
+        {
+          "name": "Group exercise & Interview",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Probationary Officer",
+          "relation": "REQUIRES",
+          "tail": "PwBD candidates"
+        },
+        {
+          "head": "PwBD candidates",
+          "relation": "REQUIRES",
+          "tail": "Office Memorandum No. 18-25/2024-Policy dated 17.12.2025 issued by Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice and Empowerment, Govt of India"
+        },
+        {
+          "head": "Preliminary examination",
+          "relation": "EXAM_DATE",
+          "tail": "Group exercise & Interview"
+        },
+        {
+          "head": "Main Examination",
+          "relation": "EXAM_DATE",
+          "tail": "Group exercise & Interview"
+        },
+        {
+          "head": "Psychometric test",
+          "relation": "EXAM_DATE",
+          "tail": "Group exercise & Interview"
+        }
+      ],
+      "error": null
+    },
+    "50": {
+      "chunk_index": 50,
+      "entities": [
+        {
+          "name": "State bank of India",
+          "type": "ORG"
+        },
+        {
+          "name": "General Manager (RP&PM)",
+          "type": "POST"
+        },
+        {
+          "name": "18.06.2026",
+          "type": "DATE"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "51": {
+      "chunk_index": 51,
+      "entities": [
+        {
+          "name": "15 Bihar Arrah, Aurangabad (Bihar), Bhagalpur, Darbhanga, Gaya, Muzaffarpur, Patna, Purnea",
+          "type": "EXAM"
+        },
+        {
+          "name": "Arrah, Patna, Muzaffarpur",
+          "type": "EXAM"
+        },
+        {
+          "name": "16 Chandigarh Mohali Mohali",
+          "type": "EXAM"
+        },
+        {
+          "name": "17 Chhattisgarh Bhilai, Bilaspur, Raipur Raipur",
+          "type": "EXAM"
+        },
+        {
+          "name": "18 Goa Panaji  Panaji",
+          "type": "EXAM"
+        },
+        {
+          "name": "19 Gujarat Ahmedabad/ Gandhinagar, Anand  / Vadodara, Jamnagar, Mehsana, Rajkot, Surat/Bardoli",
+          "type": "EXAM"
+        },
+        {
+          "name": "Ahmedabad/ Gandhinagar, Surat/Bardoli, Anand / Vadodara",
+          "type": "EXAM"
+        },
+        {
+          "name": "20 Haryana Ambala, Faridabad, Gurugram,  Kurukshetra Ambala, Faridabad, Gurugram",
+          "type": "EXAM"
+        },
+        {
+          "name": "21 Himachal Pradesh Bilaspur, Hamirpur, Kangra, Kullu, Mandi, Shimla, Una Shimla, Bilaspur, Hamirpur",
+          "type": "EXAM"
+        },
+        {
+          "name": "22 Jammu & Kashmir Jammu, Samba, Srinagar Jammu, Srinagar",
+          "type": "EXAM"
+        },
+        {
+          "name": "23 Jharkhand Bokaro steel city, Dhanbad, Hazaribag, Jamshedpur, Ranchi Jamshedpur, Ranchi",
+          "type": "EXAM"
+        },
+        {
+          "name": "24 Karnataka Belagavi (Belgaum), Bengaluru, Dharwad / Hubbali, Mangaluru (Mangalore),  Mysuru (Mysore),  Shivamogga (Shimoga), Udupi",
+          "type": "EXAM"
+        },
+        {
+          "name": "Bengaluru, Dharwad /  Hubbali ,  Mysuru (Mysore)",
+          "type": "EXAM"
+        },
+        {
+          "name": "25 Kerala Alappuzha, Kannur, Ernakulam, Kollam, Kottayam, Kozhikode, Malappuram, Palakkad, Thrissur, Thiruvananthapuram",
+          "type": "EXAM"
+        },
+        {
+          "name": "Ernakulam, Thiruvananthapuram,  Thrissur",
+          "type": "EXAM"
+        },
+        {
+          "name": "26 Ladakh Leh, Kargil Leh, Kargil",
+          "type": "EXAM"
+        },
+        {
+          "name": "27 Lakshadweep Kavaratti Kavarrati",
+          "type": "EXAM"
+        },
+        {
+          "name": "28 Madhya Pradesh Bhopal, Gwalior, Indore, Jabalpur, Satna, Sagar, Ujjain Bhopal, Indore, Ujjain",
+          "type": "EXAM"
+        },
+        {
+          "name": "29 Maharashtra Amaravati, Chhatrapati Sambhaji Nagar Chandrapur, Dhule, Jalgaon, Kolhapur, Latur, Nagpur, Nanded, Nas hik, Pune, Ratnagiri, Solapur, Mumbai/ Thane/ Navi Mumbai/ MMR",
+          "type": "EXAM"
+        },
+        {
+          "name": "Chhatrapati Sambhaji Nagar Nagpur, Pune, Nashik",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "52": {
+      "chunk_index": 52,
+      "entities": [
+        {
+          "name": "Kolhapur",
+          "type": "POST"
+        },
+        {
+          "name": "Latur",
+          "type": "POST"
+        },
+        {
+          "name": "Nagpur",
+          "type": "POST"
+        },
+        {
+          "name": "Nanded",
+          "type": "POST"
+        },
+        {
+          "name": "Nashik",
+          "type": "POST"
+        },
+        {
+          "name": "Pune",
+          "type": "POST"
+        },
+        {
+          "name": "Ratnagiri",
+          "type": "POST"
+        },
+        {
+          "name": "Solapur",
+          "type": "POST"
+        },
+        {
+          "name": "Mumbai/ Thane/ Navi Mumbai/ MMR",
+          "type": "POST"
+        },
+        {
+          "name": "Chhatrapati Sambhaji Nagar",
+          "type": "POST"
+        },
+        {
+          "name": "Manipur",
+          "type": "POST"
+        },
+        {
+          "name": "Imphal",
+          "type": "POST"
+        },
+        {
+          "name": "Chura-Chandpur",
+          "type": "POST"
+        },
+        {
+          "name": "Meghalaya",
+          "type": "POST"
+        },
+        {
+          "name": "Shillong",
+          "type": "POST"
+        },
+        {
+          "name": "Tura",
+          "type": "POST"
+        },
+        {
+          "name": "Mizoram",
+          "type": "POST"
+        },
+        {
+          "name": "Aizawl",
+          "type": "POST"
+        },
+        {
+          "name": "Nagaland",
+          "type": "POST"
+        },
+        {
+          "name": "Kohima",
+          "type": "POST"
+        },
+        {
+          "name": "Delhi -NCR",
+          "type": "POST"
+        },
+        {
+          "name": "Delhi & New Delhi (All NCR cities)",
+          "type": "POST"
+        },
+        {
+          "name": "Odisha",
+          "type": "POST"
+        },
+        {
+          "name": "Balasore",
+          "type": "POST"
+        },
+        {
+          "name": "Berhampur-Ganjam",
+          "type": "POST"
+        },
+        {
+          "name": "Bhubaneswar",
+          "type": "POST"
+        },
+        {
+          "name": "Cuttack",
+          "type": "POST"
+        },
+        {
+          "name": "Dhenkanal",
+          "type": "POST"
+        },
+        {
+          "name": "Rourkela",
+          "type": "POST"
+        },
+        {
+          "name": "Sambalpur",
+          "type": "POST"
+        },
+        {
+          "name": "Puducherry",
+          "type": "POST"
+        },
+        {
+          "name": "Punjab",
+          "type": "POST"
+        },
+        {
+          "name": "Amritsar",
+          "type": "POST"
+        },
+        {
+          "name": "Bhatinda",
+          "type": "POST"
+        },
+        {
+          "name": "Mohali",
+          "type": "POST"
+        },
+        {
+          "name": "Patiala",
+          "type": "POST"
+        },
+        {
+          "name": "Phagwara",
+          "type": "POST"
+        },
+        {
+          "name": "Rajasthan",
+          "type": "POST"
+        },
+        {
+          "name": "Ajmer",
+          "type": "POST"
+        },
+        {
+          "name": "Bikaner",
+          "type": "POST"
+        },
+        {
+          "name": "Jaipur",
+          "type": "POST"
+        },
+        {
+          "name": "Jodhpur",
+          "type": "POST"
+        },
+        {
+          "name": "Kota",
+          "type": "POST"
+        },
+        {
+          "name": "Sikar",
+          "type": "POST"
+        },
+        {
+          "name": "Udaipur",
+          "type": "POST"
+        },
+        {
+          "name": "Sikkim",
+          "type": "POST"
+        },
+        {
+          "name": "Gangtok",
+          "type": "POST"
+        },
+        {
+          "name": "Tamilnadu",
+          "type": "POST"
+        },
+        {
+          "name": "Chennai",
+          "type": "POST"
+        },
+        {
+          "name": "Coimbatore",
+          "type": "POST"
+        },
+        {
+          "name": "Erode",
+          "type": "POST"
+        },
+        {
+          "name": "Madurai",
+          "type": "POST"
+        },
+        {
+          "name": "Kanyakumari / Nagercoil",
+          "type": "POST"
+        },
+        {
+          "name": "Salem",
+          "type": "POST"
+        },
+        {
+          "name": "Thanjavur",
+          "type": "POST"
+        },
+        {
+          "name": "Thiruchirapalli",
+          "type": "POST"
+        },
+        {
+          "name": "Tirunelveli",
+          "type": "POST"
+        },
+        {
+          "name": "Vellore",
+          "type": "POST"
+        },
+        {
+          "name": "Virudhunagar",
+          "type": "POST"
+        },
+        {
+          "name": "Villupuram",
+          "type": "POST"
+        },
+        {
+          "name": "Telangana",
+          "type": "POST"
+        },
+        {
+          "name": "Hyderabad",
+          "type": "POST"
+        },
+        {
+          "name": "Karimnagar",
+          "type": "POST"
+        },
+        {
+          "name": "Khammam",
+          "type": "POST"
+        },
+        {
+          "name": "Warangal",
+          "type": "POST"
+        },
+        {
+          "name": "Tripura",
+          "type": "POST"
+        },
+        {
+          "name": "Agartala",
+          "type": "POST"
+        },
+        {
+          "name": "Uttar Pradesh",
+          "type": "POST"
+        },
+        {
+          "name": "Agra",
+          "type": "POST"
+        },
+        {
+          "name": "Aligarh",
+          "type": "POST"
+        },
+        {
+          "name": "Prayagraj",
+          "type": "POST"
+        },
+        {
+          "name": "Bareilly",
+          "type": "POST"
+        },
+        {
+          "name": "Ayodhya",
+          "type": "POST"
+        },
+        {
+          "name": "Ghaziabad",
+          "type": "POST"
+        },
+        {
+          "name": "Gorakhpur",
+          "type": "POST"
+        },
+        {
+          "name": "Jhansi",
+          "type": "POST"
+        },
+        {
+          "name": "Kanpur",
+          "type": "POST"
+        },
+        {
+          "name": "Lucknow",
+          "type": "POST"
+        },
+        {
+          "name": "Meerut",
+          "type": "POST"
+        },
+        {
+          "name": "Moradabad",
+          "type": "POST"
+        },
+        {
+          "name": "Muzaffarnagar",
+          "type": "POST"
+        },
+        {
+          "name": "Noida/ Greater Noida",
+          "type": "POST"
+        },
+        {
+          "name": "Varanasi",
+          "type": "POST"
+        },
+        {
+          "name": "Uttarakhand",
+          "type": "POST"
+        },
+        {
+          "name": "Dehradun",
+          "type": "POST"
+        },
+        {
+          "name": "Haldwani",
+          "type": "POST"
+        },
+        {
+          "name": "Roorkee",
+          "type": "POST"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "53": {
+      "chunk_index": 53,
+      "entities": [
+        {
+          "name": "Guidelines for scanning and Upload of Photograph, Signature, Left-Hand Thumb Impression & Hand-Written Declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [],
+      "error": null
+    },
+    "54": {
+      "chunk_index": 54,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "55": {
+      "chunk_index": 55,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "56": {
+      "chunk_index": 56,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "57": {
+      "chunk_index": 57,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "58": {
+      "chunk_index": 58,
+      "entities": [],
+      "relations": [],
+      "error": null
+    },
+    "59": {
+      "chunk_index": 59,
+      "entities": [
+        {
+          "name": "Photograph",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Signature",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Left-Hand Thumb Impression",
+          "type": "DOCUMENT"
+        },
+        {
+          "name": "Hand-Written Declaration",
+          "type": "DOCUMENT"
+        }
+      ],
+      "relations": [
+        {
+          "head": "Hand-Written Declaration",
+          "relation": "REQUIRES_DOCUMENT",
+          "tail": "Hand-Written Declaration"
+        }
+      ],
+      "error": null
+    },
+    "60": {
+      "chunk_index": 60,
+      "entities": [
+        {
+          "name": "CRPD/PO/2026-27/09",
+          "type": "EXAM"
+        }
+      ],
+      "relations": [],
+      "error": null
+    }
+  }
+}

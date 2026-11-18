@@ -1,0 +1,12 @@
+# Govt Navigator API image (Phase 10).
+# Build from the project root: docker build -f Dockerfile.api -t govt-nav-api .
+# The BGE embedding model (~440 MB) downloads on first container start.
+FROM python:3.11-slim
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY app/ ./app/
+COPY processed_data/ ./processed_data/
+COPY run_api.py .
+EXPOSE 8000
+CMD ["python", "run_api.py"]

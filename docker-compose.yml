@@ -1,0 +1,30 @@
+# Govt Navigator (Phase 10): API + UI.
+# Run from the project root: docker compose up
+# API:  http://localhost:8000/docs
+# UI:   http://localhost:8501
+# Keys come from .env via env_file — never baked into the image.
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    # NOTE (18 Nov 2026): a ./processed_data bind mount was tried
+    # here (Phase 12) and REVERTED — the mount shadowed the image
+    # copy and the container could not see chunk_embeddings.npy
+    # (Google Drive G: virtual drive + Docker bind mount). Fresh
+    # data reaches the container via rebuild: docker compose up
+    # --build (the Dockerfile COPYs processed_data/).
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:8000
+    depends_on:
+      - api

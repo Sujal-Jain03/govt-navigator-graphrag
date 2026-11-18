@@ -1,0 +1,19 @@
+# Serving-only dependencies for Streamlit Community Cloud.
+# The full pipeline needs requirements.txt (PDF parsing, Tavily);
+# the cloud app only serves: Streamlit UI + service layer +
+# BGE embeddings + the LLM clients for generation.
+#
+# torch comes from the PyTorch CPU index (the default PyPI torch
+# bundles CUDA and is ~2.5 GB; the CPU build is ~200 MB). The
+# index-url line must stay FIRST so pip prefers the CPU wheel;
+# everything else falls back to PyPI via the extra-index line.
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+streamlit>=1.40
+requests>=2.31
+networkx
+numpy
+python-dotenv>=1.0
+openai>=1.0
+sentence-transformers
+torch
